@@ -1,0 +1,1172 @@
+{
+"m4a1": [
+{
+"id": "m4a1-1",
+"x": "A produtividade da indústria brasileira está praticamente parada há uma década. Não faltam diagnósticos: máquinas antigas, pouca qualificação e gestão improvisada. Faltam, isso sim, ações que cheguem à pequena empresa, onde o problema é maior e a solução, muitas vezes, mais barata. Programas de extensionismo mostram que mudanças simples, como organizar o fluxo de materiais, já elevam a produção sem um real a mais em máquinas.",
+"t": "Quanto ao tipo textual, o texto acima é predominantemente:",
+"o": [
+"descritivo, porque retrata as características de uma fábrica.",
+"dissertativo-argumentativo, porque defende um ponto de vista e o sustenta com argumentos.",
+"narrativo, porque conta uma história com personagens.",
+"injuntivo, porque dá ordens ao leitor.",
+"expositivo-instrucional, porque ensina um procedimento passo a passo."
+],
+"c": 1,
+"e": "O autor defende uma tese (faltam ações que cheguem à pequena empresa) e a sustenta com um argumento (mudanças simples já elevam a produção).",
+"l": "Tipos x gêneros textuais"
+},
+{
+"id": "m4a1-2",
+"x": "A produtividade da indústria brasileira está praticamente parada há uma década. Não faltam diagnósticos: máquinas antigas, pouca qualificação e gestão improvisada. Faltam, isso sim, ações que cheguem à pequena empresa, onde o problema é maior e a solução, muitas vezes, mais barata. Programas de extensionismo mostram que mudanças simples, como organizar o fluxo de materiais, já elevam a produção sem um real a mais em máquinas.",
+"t": "Segundo o texto, é correto inferir que:",
+"o": [
+"a indústria brasileira não tem diagnósticos sobre sua produtividade.",
+"só a compra de máquinas novas pode elevar a produtividade das pequenas empresas.",
+"melhorias de gestão podem aumentar a produção mesmo sem grandes investimentos.",
+"o problema da produtividade é menor nas pequenas empresas.",
+"os programas de extensionismo fracassaram."
+],
+"c": 2,
+"e": "O último período diz que mudanças simples elevam a produção \"sem um real a mais em máquinas\". As letras A, B e D contrariam o texto.",
+"l": "Compreender x interpretar"
+},
+{
+"id": "m4a1-3",
+"x": "A produtividade da indústria brasileira está praticamente parada há uma década. Não faltam diagnósticos: máquinas antigas, pouca qualificação e gestão improvisada. Faltam, isso sim, ações que cheguem à pequena empresa, onde o problema é maior e a solução, muitas vezes, mais barata.",
+"t": "A expressão \"isso sim\", no terceiro período, tem a função de:",
+"o": [
+"enfatizar o contraste entre o que não falta (diagnósticos) e o que falta (ações).",
+"indicar uma condição.",
+"introduzir uma conclusão.",
+"retomar a ideia de diagnóstico, confirmando-a.",
+"expressar dúvida do autor."
+],
+"c": 0,
+"e": "\"Não faltam diagnósticos\" × \"Faltam, isso sim, ações\": a expressão destaca a oposição e reforça o que realmente falta.",
+"l": "Compreender x interpretar"
+},
+{
+"id": "m4a1-4",
+"x": "Não faltam diagnósticos: máquinas antigas, pouca qualificação e gestão improvisada.",
+"t": "No trecho, a palavra \"improvisada\" poderia ser substituída, sem alteração de sentido, por:",
+"o": [
+"feita sem planejamento.",
+"terceirizada.",
+"moderna.",
+"planejada.",
+"centralizada."
+],
+"c": 0,
+"e": "Improvisado é o que se faz na hora, sem preparo. \"Planejada\" é o oposto.",
+"l": "Sentido das palavras"
+},
+{
+"id": "m4a1-5",
+"t": "O gênero textual que registra, de forma resumida e fiel, o que foi discutido e decidido em uma reunião, assinado pelos participantes, é:",
+"o": [
+"o edital.",
+"o ofício.",
+"a ata.",
+"o relatório técnico.",
+"a notícia."
+],
+"c": 2,
+"e": "Ata = registro da reunião. Ofício = comunicação oficial entre órgãos. Edital = aviso público com regras. Relatório = relato analítico de um trabalho.",
+"l": "Tipos x gêneros textuais"
+}
+],
+"m4a2": [
+{
+"id": "m4a2-1",
+"t": "\"Embora a fábrica tenha cumprido a meta, o custo por peça aumentou.\" A reescrita que mantém o sentido e a correção da frase é:",
+"o": [
+"Como a fábrica cumpriu a meta, o custo por peça aumentou.",
+"A fábrica cumpriu a meta porque o custo por peça aumentou.",
+"Apesar de a fábrica ter cumprido a meta, o custo por peça aumentou.",
+"Se a fábrica cumprisse a meta, o custo por peça aumentaria.",
+"A fábrica cumpriu a meta, portanto o custo por peça aumentou."
+],
+"c": 2,
+"e": "\"Embora\" indica concessão (uma ideia que não impede a outra), como \"apesar de\". \"Como\" e \"porque\" criam causa; \"portanto\", conclusão; \"se\", condição.",
+"l": "Conectores e suas relações"
+},
+{
+"id": "m4a2-2",
+"t": "\"A ABDI apoiou as empresas da região, que ampliaram sua produção no segundo semestre. Elas agora buscam novos mercados.\" O pronome \"Elas\" retoma:",
+"o": [
+"a ABDI.",
+"o segundo semestre.",
+"as empresas da região.",
+"a produção.",
+"os novos mercados."
+],
+"c": 2,
+"e": "O pronome está no feminino plural e retoma o termo \"as empresas da região\", que são quem busca novos mercados.",
+"l": "Coesão: as costuras do texto"
+},
+{
+"id": "m4a2-3",
+"t": "Assinale a frase pontuada de acordo com a norma-padrão.",
+"o": [
+"Os técnicos da ABDI, visitaram a fábrica ontem.",
+"Os técnicos da ABDI visitaram, a fábrica ontem.",
+"Ontem os técnicos da ABDI visitaram a fábrica, e o almoxarifado.",
+"Os técnicos da ABDI, que chegaram cedo, visitaram a fábrica ontem.",
+"Os técnicos, da ABDI visitaram a fábrica ontem."
+],
+"c": 3,
+"e": "Não se separa sujeito do verbo (A, E) nem verbo do complemento (B). Em D, as vírgulas isolam uma oração explicativa, o que é correto. Em C, a vírgula antes de \"e\" separa dois complementos do mesmo verbo, o que é inadequado.",
+"l": "Pontuação: as regras da vírgula"
+},
+{
+"id": "m4a2-4",
+"t": "\"O lote não passou na inspeção; portanto, será retrabalhado.\" O conector \"portanto\" poderia ser substituído, sem mudança de sentido, por:",
+"o": [
+"contudo.",
+"porque.",
+"embora.",
+"todavia.",
+"logo."
+],
+"c": 4,
+"e": "\"Portanto\" e \"logo\" introduzem conclusão. \"Contudo\" e \"todavia\" indicam oposição; \"porque\", causa; \"embora\", concessão.",
+"l": "Conectores e suas relações"
+},
+{
+"id": "m4a2-5",
+"t": "\"Caso a meta seja atingida, a equipe receberá o bônus.\" A reescrita que preserva o sentido e a correção é:",
+"o": [
+"Como a meta foi atingida, a equipe receberá o bônus.",
+"A meta será atingida para que a equipe receba o bônus.",
+"Embora a meta seja atingida, a equipe receberá o bônus.",
+"Quando a meta foi atingida, a equipe recebeu o bônus.",
+"Se a meta for atingida, a equipe receberá o bônus."
+],
+"c": 4,
+"e": "\"Caso\" e \"se\" indicam condição. Repare na troca do verbo: caso + presente do subjuntivo (seja), se + futuro do subjuntivo (for). As outras opções mudam a relação para causa, concessão, tempo ou finalidade.",
+"l": "Reescrita: o que a FGV verifica"
+}
+],
+"m4a3": [
+{
+"id": "m4a3-1",
+"t": "Assinale a frase em que o \"que\" é pronome relativo.",
+"o": [
+"Espero que a meta seja cumprida.",
+"A linha produziu mais que no mês anterior.",
+"O fornecedor que atrasou a entrega foi advertido.",
+"Corra, que o caminhão já vai sair.",
+"O gerente disse que voltaria cedo."
+],
+"c": 2,
+"e": "Teste da troca: \"o fornecedor o qual atrasou\" funciona, então é relativo. Em A e E, troca-se por \"isso\" (integrante); em B, é comparativo (\"do que\"); em D, explicativo (\"pois\").",
+"l": "As duas palavras que mais caem: \"que\" e \"se\""
+},
+{
+"id": "m4a3-2",
+"t": "Assinale a frase em que o \"se\" é pronome apassivador.",
+"o": [
+"Precisa-se de operadores qualificados.",
+"Não sei se o lote chega hoje.",
+"Se chover, a obra para.",
+"Alugam-se galpões industriais.",
+"O operador se machucou na prensa."
+],
+"c": 3,
+"e": "\"Alugam-se galpões\" = galpões são alugados: o verbo concorda com \"galpões\". Em A, há verbo com preposição (\"precisa de\"), então é índice de indeterminação do sujeito; em B, integrante; em C, condicional.",
+"l": "As duas palavras que mais caem: \"que\" e \"se\""
+},
+{
+"id": "m4a3-3",
+"t": "Complete corretamente: \"Ninguém explicou ______ a produção caiu, e o diretor quer entender o ______.\"",
+"o": [
+"porquê / porque",
+"porque / porquê",
+"por que / porquê",
+"por quê / por que",
+"por que / por quê"
+],
+"c": 2,
+"e": "\"Explicou por que\" = pelo qual motivo (interrogativa indireta, separado e sem acento). \"O porquê\" tem artigo antes: é substantivo, junto e com acento.",
+"l": "Ortografia: os casos que mais caem"
+},
+{
+"id": "m4a3-4",
+"t": "Em \"Embora a fábrica tenha crescido, os lucros caíram\", a primeira oração é:",
+"o": [
+"coordenada adversativa.",
+"coordenada explicativa.",
+"subordinada adverbial causal.",
+"subordinada adverbial condicional.",
+"subordinada adverbial concessiva."
+],
+"c": 4,
+"e": "\"Embora\" introduz concessão (um fato que não impede o outro). A oração não se sustenta sozinha (\"Embora a fábrica tenha crescido.\"), então é subordinada.",
+"l": "Período composto: coordenação e subordinação"
+},
+{
+"id": "m4a3-5",
+"t": "Assinale a frase escrita de acordo com a norma-padrão.",
+"o": [
+"Há dois anos atrás, a empresa mudou de sede.",
+"Ele vêm amanhã para a auditoria.",
+"Aonde fica o almoxarifado?",
+"O mau desempenho do fornecedor preocupou a diretoria.",
+"A assembléia aprovou o novo plano."
+],
+"c": 3,
+"e": "\"Mau\" é o oposto de \"bom\": correto. A é redundante; C pede \"onde\" (lugar em que se está); D pede \"vem\" (singular); E perdeu o acento com o Acordo: \"assembleia\".",
+"l": "Ortografia: os casos que mais caem"
+},
+{
+"id": "m4a3-6",
+"t": "Em \"O planejar exige método e disciplina\", a palavra \"planejar\" pertence à classe dos:",
+"o": [
+"substantivos.",
+"advérbios.",
+"verbos.",
+"adjetivos.",
+"pronomes."
+],
+"c": 0,
+"e": "Com o artigo \"o\" antes, o verbo foi substantivado. A FGV pergunta a classe da palavra naquela frase, não a classe \"de origem\".",
+"l": "As classes de palavras"
+}
+],
+"m4a4": [
+{
+"id": "m4a4-1",
+"t": "Assinale a frase em que a concordância verbal está correta.",
+"o": [
+"Fazem dez anos que a fábrica abriu.",
+"Vende-se máquinas usadas.",
+"Existe muitos problemas na linha.",
+"Precisam-se de técnicos.",
+"Houve muitas falhas no último lote."
+],
+"c": 4,
+"e": "\"Haver\" no sentido de existir é impessoal: \"houve falhas\". \"Faz dez anos\" (impessoal), \"vendem-se máquinas\" (passiva), \"precisa-se de técnicos\" (indeterminado) e \"existem problemas\" (existir concorda).",
+"l": "Concordância verbal: o verbo segue o sujeito"
+},
+{
+"id": "m4a4-2",
+"t": "Assinale a frase correta quanto à concordância nominal.",
+"o": [
+"Havia menas pessoas no turno da noite.",
+"Seguem anexo as planilhas de produção.",
+"A supervisora ficou meia cansada.",
+"Seguem anexas as planilhas de produção.",
+"É proibido a entrada de visitantes."
+],
+"c": 3,
+"e": "\"Anexo\" varia: \"anexas as planilhas\". \"Menos\" nunca varia; \"meio\" como advérbio (= um pouco) não varia; com artigo, \"é proibida a entrada\".",
+"l": "Concordância nominal: adjetivo segue o substantivo"
+},
+{
+"id": "m4a4-3",
+"t": "Assinale a frase correta quanto à regência verbal.",
+"o": [
+"O programa visa ao aumento da produtividade.",
+"Prefiro mais o trabalho padronizado do que o improviso.",
+"Os técnicos assistiram o treinamento de Lean.",
+"A equipe chegou na fábrica às 7h.",
+"O atraso implica em multa contratual."
+],
+"c": 0,
+"e": "\"Visar\" no sentido de ter como objetivo pede \"a\": \"visa ao aumento\". Corrigindo: assistiram ao treinamento; prefiro o padronizado ao improviso; implica multa; chegou à fábrica.",
+"l": "Regência: que preposição o verbo pede"
+},
+{
+"id": "m4a4-4",
+"t": "Assinale a frase em que o acento grave (crase) está empregado corretamente.",
+"o": [
+"A equipe vai à fábrica amanhã cedo.",
+"A linha começou à produzir mais.",
+"O fornecedor vendeu à prazo.",
+"As partes chegaram à um acordo.",
+"Entregou o relatório à seu chefe."
+],
+"c": 0,
+"e": "Ir a + a fábrica = à. Não há crase antes de verbo (B), de palavra masculina (C), de artigo indefinido (D) nem de possessivo masculino (E).",
+"l": "Crase"
+},
+{
+"id": "m4a4-5",
+"t": "Assinale a frase correta quanto à colocação pronominal, segundo a norma-padrão.",
+"o": [
+"Me disseram que a meta caiu.",
+"Não informaram-nos do atraso.",
+"Nunca se produziu tanto nesta fábrica.",
+"Quem avisou-lhe da auditoria?",
+"Me parece que o prazo é curto."
+],
+"c": 2,
+"e": "\"Nunca\" é palavra atrativa e puxa o pronome para antes do verbo. Não se inicia frase com pronome oblíquo (A, E), e \"não\" e \"quem\" também atraem o pronome (B, D).",
+"l": "Colocação pronominal"
+},
+{
+"id": "m4a4-6",
+"t": "Analise as frases.\nI. Mais de um gerente aprovaram o plano.\nII. A maioria dos itens chegaram com atraso.\nIII. Faltam três peças para fechar o lote.\nEstá de acordo com a norma-padrão o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"I e III, apenas.",
+"II e III, apenas."
+],
+"c": 4,
+"e": "I está errada: \"mais de um\" concorda com \"um\" (aprovou). II aceita singular ou plural. III está certa: o sujeito \"três peças\" vem depois do verbo.",
+"l": "Concordância verbal: o verbo segue o sujeito"
+}
+],
+"m4a11": [
+{
+"id": "m4a11-1",
+"t": "Complete com a correlação verbal correta: \"Se a empresa ______ em automação, ______ mais.\"",
+"o": [
+"investir / cresceria",
+"investiu / cresceria",
+"investisse / crescerá",
+"investisse / cresceria",
+"invista / cresceria"
+],
+"c": 3,
+"e": "Se + imperfeito do subjuntivo (investisse) → futuro do pretérito (cresceria). A outra combinação válida seria \"investir / crescerá\" (futuro do subjuntivo → futuro do presente).",
+"l": "Correlação entre os tempos"
+},
+{
+"id": "m4a11-2",
+"t": "Assinale a frase correta quanto ao futuro do subjuntivo.",
+"o": [
+"Se eu ver o erro, aviso a equipe.",
+"Se a empresa manter o ritmo, baterá a meta.",
+"Quando vocês fazerem a inspeção, registrem tudo.",
+"Quando o diretor propuser a mudança, a equipe votará.",
+"Se ele intervir no processo, haverá atraso."
+],
+"c": 3,
+"e": "Formas corretas: vir, mantiver, fizerem, propuser e intervier. Verbos irregulares formam o futuro do subjuntivo a partir do pretérito perfeito (propôs → propuser).",
+"l": "Correlação entre os tempos"
+},
+{
+"id": "m4a11-3",
+"t": "Complete: \"Quando o auditor chegou, a equipe já ______ a falha.\"",
+"o": [
+"tinha corrigido",
+"corrige",
+"corrigirá",
+"corrigiria",
+"tenha corrigido"
+],
+"c": 0,
+"e": "Ação passada anterior a outra ação passada = pretérito mais-que-perfeito (tinha corrigido ou corrigira).",
+"l": "Os tempos do indicativo"
+},
+{
+"id": "m4a11-4",
+"t": "\"Eu revisarei o contrato\", disse o analista. Passando para o discurso indireto, a forma correta é:",
+"o": [
+"O analista disse que revisaria o contrato.",
+"O analista disse que revisou o contrato.",
+"O analista disse que revisará o contrato.",
+"O analista disse que revisava o contrato.",
+"O analista disse que revise o contrato."
+],
+"c": 0,
+"e": "Futuro do presente no direto (revisarei) vira futuro do pretérito no indireto (revisaria).",
+"l": "Reescrita entre gêneros: discurso direto e indireto"
+},
+{
+"id": "m4a11-5",
+"t": "Segundo o Manual de Redação da Presidência da República, um ofício dirigido a uma autoridade de hierarquia superior deve usar o fecho:",
+"o": [
+"Saudações.",
+"Atenciosamente.",
+"Cordialmente.",
+"Respeitosamente.",
+"Grato."
+],
+"c": 3,
+"e": "\"Respeitosamente\" para hierarquia superior; \"Atenciosamente\" para mesma hierarquia, inferior e demais casos.",
+"l": "Reescrita entre níveis de formalidade"
+},
+{
+"id": "m4a11-6",
+"t": "Assinale a frase correta quanto ao uso do pronome de tratamento.",
+"o": [
+"Vossa Senhoria recebereis vosso relatório amanhã.",
+"Vossa Senhoria receberá o seu relatório amanhã.",
+"Vossa Senhoria recebereis o seu relatório amanhã.",
+"Vossas Senhorias receberá o seu relatório amanhã.",
+"Vossa Senhoria receberá vosso relatório amanhã."
+],
+"c": 1,
+"e": "Pronomes de tratamento levam o verbo e os possessivos para a 3ª pessoa: \"receberá o seu\", nunca \"vosso\".",
+"l": "Reescrita entre níveis de formalidade"
+},
+{
+"id": "m4a11-7",
+"t": "\"Revise o contrato!\", pediu a gerente ao analista. No discurso indireto, a forma adequada é:",
+"o": [
+"A gerente pediu ao analista que revisasse o contrato.",
+"A gerente pediu ao analista que revisa o contrato.",
+"A gerente pediu ao analista que revisará o contrato.",
+"A gerente pediu ao analista que revisou o contrato.",
+"A gerente pediu ao analista: revise o contrato."
+],
+"c": 0,
+"e": "O imperativo do discurso direto vira imperfeito do subjuntivo no indireto: \"pediu que revisasse\".",
+"l": "Reescrita entre gêneros: discurso direto e indireto"
+}
+],
+"m4a5": [
+{
+"id": "m4a5-1",
+"t": "Assinale a alternativa que contém uma proposição.",
+"o": [
+"Onde fica a sede da ABDI?",
+"Cumpra o prazo do contrato!",
+"x + 4 = 9.",
+"O Brasil Mais Produtivo começou em 2016.",
+"Que prova difícil!"
+],
+"c": 3,
+"e": "Proposição é frase declarativa que pode ser V ou F. Pergunta, ordem, exclamação e sentença aberta (depende de x) não são proposições.",
+"l": "O que é uma proposição"
+},
+{
+"id": "m4a5-2",
+"t": "Uma frase equivalente a \"Se a empresa investe em Lean, então sua produtividade aumenta\" é:",
+"o": [
+"Se a produtividade aumenta, então a empresa investe em Lean.",
+"Se a empresa não investe em Lean, então sua produtividade não aumenta.",
+"Se a produtividade não aumenta, então a empresa não investe em Lean.",
+"A empresa investe em Lean e sua produtividade não aumenta.",
+"A empresa investe em Lean ou sua produtividade aumenta."
+],
+"c": 2,
+"e": "p → q ≡ ¬q → ¬p (contrapositiva) ≡ ¬p ∨ q. A letra A é a recíproca e a B é a inversa: não são equivalentes. A D é a negação.",
+"l": "Equivalências: o que mais cai"
+},
+{
+"id": "m4a5-3",
+"t": "A negação de \"Se o lote atrasou, então a multa foi aplicada\" é:",
+"o": [
+"O lote atrasou e a multa não foi aplicada.",
+"Se o lote não atrasou, então a multa não foi aplicada.",
+"O lote não atrasou e a multa foi aplicada.",
+"Se a multa foi aplicada, então o lote atrasou.",
+"O lote não atrasou ou a multa não foi aplicada."
+],
+"c": 0,
+"e": "¬(p → q) ≡ p ∧ ¬q: mantém a primeira, troca por \"e\" e nega a segunda (MA-NE). A negação de uma condicional nunca é outra condicional.",
+"l": "Negações: as leis de De Morgan"
+},
+{
+"id": "m4a5-4",
+"t": "A negação de \"O fornecedor atrasou e o custo subiu\" é:",
+"o": [
+"O fornecedor não atrasou e o custo não subiu.",
+"O fornecedor não atrasou ou o custo não subiu.",
+"Se o fornecedor atrasou, o custo não subiu.",
+"O fornecedor atrasou ou o custo subiu.",
+"O fornecedor atrasou e o custo não subiu."
+],
+"c": 1,
+"e": "De Morgan: ¬(p ∧ q) ≡ ¬p ∨ ¬q. Nega as duas e troca \"e\" por \"ou\". A letra A esquece de trocar o conectivo.",
+"l": "Negações: as leis de De Morgan"
+},
+{
+"id": "m4a5-5",
+"t": "Sendo p verdadeira e q falsa, o valor lógico de (p ∨ q) → ¬p é:",
+"o": [
+"verdadeiro, pois p é verdadeira.",
+"verdadeiro, pois a condicional com antecedente verdadeiro é sempre verdadeira.",
+"falso, pois q é falsa.",
+"falso, pois o antecedente é verdadeiro e o consequente é falso.",
+"indeterminado."
+],
+"c": 3,
+"e": "p ∨ q = V; ¬p = F; V → F = F. A condicional só é falsa nesse caso.",
+"l": "Conectivos e tabela-verdade"
+},
+{
+"id": "m4a5-6",
+"t": "Uma proposição composta é formada por 4 proposições simples distintas. Sua tabela-verdade tem:",
+"o": [
+"4 linhas.",
+"16 linhas.",
+"8 linhas.",
+"12 linhas.",
+"32 linhas."
+],
+"c": 1,
+"e": "Linhas = 2 elevado a n = 2⁴ = 16.",
+"l": "Conectivos e tabela-verdade",
+"calc": true
+},
+{
+"id": "m4a5-7",
+"t": "A proposição \"A meta foi batida ou a meta não foi batida\" é uma:",
+"o": [
+"contradição.",
+"sentença aberta.",
+"contingência.",
+"negação.",
+"tautologia."
+],
+"c": 4,
+"e": "p ∨ ¬p é sempre verdadeira: tautologia. p ∧ ¬p seria contradição.",
+"l": "Tautologia, contradição e contingência"
+}
+],
+"m4a6": [
+{
+"id": "m4a6-1",
+"t": "A negação de \"Todo analista da ABDI é engenheiro\" é:",
+"o": [
+"Nenhum analista da ABDI é engenheiro.",
+"Algum analista da ABDI não é engenheiro.",
+"Todo analista da ABDI não é engenheiro.",
+"Algum engenheiro não é analista da ABDI.",
+"Todo engenheiro é analista da ABDI."
+],
+"c": 1,
+"e": "Para negar \"todo A é B\", basta um contraexemplo: \"algum A não é B\". Negar com \"nenhum\" é a pegadinha clássica.",
+"l": "Negando frases com quantificador"
+},
+{
+"id": "m4a6-2",
+"t": "A negação de \"Algum fornecedor atrasou a entrega\" é:",
+"o": [
+"Algum fornecedor não atrasou a entrega.",
+"Nenhum fornecedor atrasou a entrega.",
+"Pelo menos um fornecedor não atrasou a entrega.",
+"Nem todo fornecedor atrasou a entrega.",
+"Todo fornecedor atrasou a entrega."
+],
+"c": 1,
+"e": "¬(∃x P(x)) ≡ ∀x ¬P(x): \"nenhum fornecedor atrasou\".",
+"l": "Negando frases com quantificador"
+},
+{
+"id": "m4a6-3",
+"t": "Considere o argumento: \"Se a máquina para, a produção cai. A produção caiu. Logo, a máquina parou.\" Esse argumento é:",
+"o": [
+"válido, por modus ponens.",
+"válido, por modus tollens.",
+"inválido, pois afirma o consequente.",
+"válido, por silogismo hipotético.",
+"inválido, pois nega o antecedente."
+],
+"c": 2,
+"e": "A produção pode ter caído por outra causa (falta de material, por exemplo). Afirmar o consequente é falácia.",
+"l": "Argumentos: válido não é o mesmo que verdadeiro"
+},
+{
+"id": "m4a6-4",
+"t": "\"Se o processo é estável, a carta de controle não mostra pontos fora dos limites. A carta mostrou pontos fora dos limites. Logo, o processo não é estável.\" A forma desse argumento é:",
+"o": [
+"modus ponens.",
+"modus tollens.",
+"silogismo disjuntivo.",
+"afirmação do consequente.",
+"negação do antecedente."
+],
+"c": 1,
+"e": "p → q; ¬q; logo ¬p = modus tollens (negar o consequente), forma válida.",
+"l": "Argumentos: válido não é o mesmo que verdadeiro"
+},
+{
+"id": "m4a6-5",
+"t": "\"Todo peixe voa. O tubarão é peixe. Logo, o tubarão voa.\" Sobre esse argumento, é correto afirmar que:",
+"o": [
+"é válido, embora a primeira premissa seja falsa.",
+"é inválido, porque a conclusão é falsa no mundo real.",
+"é inválido, porque afirma o consequente.",
+"é uma indução.",
+"é uma analogia."
+],
+"c": 0,
+"e": "Validade depende da forma: se as premissas fossem verdadeiras, a conclusão seria obrigatória. A premissa falsa não torna a forma inválida.",
+"l": "Argumentos: válido não é o mesmo que verdadeiro"
+},
+{
+"id": "m4a6-6",
+"t": "Sabe-se que \"Algum gerente é economista\" é verdadeira. Pode-se concluir com certeza que:",
+"o": [
+"algum gerente não é economista.",
+"todo gerente é economista.",
+"nenhum economista é gerente.",
+"todo economista é gerente.",
+"algum economista é gerente."
+],
+"c": 4,
+"e": "Se há pelo menos um gerente que é economista, esse mesmo indivíduo é um economista que é gerente. \"Algum\" não garante que haja algum gerente que não seja economista.",
+"l": "Quantificadores: \"todo\", \"nenhum\", \"algum\""
+},
+{
+"id": "m4a6-7",
+"t": "\"As 30 fábricas visitadas melhoraram com o 5S; logo, o 5S tende a funcionar nas fábricas em geral.\" Esse raciocínio é uma:",
+"o": [
+"dedução, com conclusão necessária.",
+"tautologia.",
+"analogia.",
+"contradição.",
+"indução, com conclusão provável."
+],
+"c": 4,
+"e": "Do particular para o geral, com conclusão provável = indução. Dedução vai do geral para o particular com conclusão necessária.",
+"l": "Analogias, inferências e deduções"
+}
+],
+"m4a7": [
+{
+"id": "m4a7-1",
+"t": "O preço de uma máquina subiu 20% em janeiro e caiu 20% em fevereiro. Em relação ao preço inicial, o preço final é:",
+"o": [
+"igual.",
+"20% menor.",
+"4% maior.",
+"2% menor.",
+"4% menor."
+],
+"c": 4,
+"e": "1,2 × 0,8 = 0,96: queda de 4%. Aumento e desconto do mesmo percentual não se anulam.",
+"l": "Porcentagem",
+"calc": true
+},
+{
+"id": "m4a7-2",
+"t": "Seis operários terminam uma obra em 20 dias. Mantido o mesmo ritmo, oito operários terminam a mesma obra em:",
+"o": [
+"10 dias.",
+"12 dias.",
+"15 dias.",
+"24 dias.",
+"26,7 dias."
+],
+"c": 2,
+"e": "Mais operários, menos dias: inversa. 20 × 6 ÷ 8 = 15 dias. A letra E trata como direta.",
+"l": "Razão, proporção e regra de três",
+"calc": true
+},
+{
+"id": "m4a7-3",
+"t": "Duas máquinas param para manutenção a cada 15 e a cada 20 dias. Se pararam juntas hoje, voltarão a parar juntas daqui a:",
+"o": [
+"5 dias.",
+"300 dias.",
+"35 dias.",
+"120 dias.",
+"60 dias."
+],
+"c": 4,
+"e": "\"Quando coincidem\" = MMC(15, 20) = 60. O MDC (5) é a pegadinha.",
+"l": "MMC e MDC em problemas",
+"calc": true
+},
+{
+"id": "m4a7-4",
+"t": "Um terreno retangular tem lados de 6 m e 8 m. A diagonal desse terreno mede:",
+"o": [
+"7 m.",
+"10 m.",
+"12 m.",
+"14 m.",
+"48 m."
+],
+"c": 1,
+"e": "Pitágoras: d² = 6² + 8² = 36 + 64 = 100 → d = 10 m. A letra E é a área (m²), não a diagonal.",
+"l": "Geometria",
+"calc": true
+},
+{
+"id": "m4a7-5",
+"t": "Uma caixa tem 4 peças defeituosas e 6 peças boas. Retirando uma peça ao acaso, a probabilidade de ela ser defeituosa é:",
+"o": [
+"2/5.",
+"2/3.",
+"3/5.",
+"1/4.",
+"1/6."
+],
+"c": 0,
+"e": "Favoráveis ÷ possíveis = 4 ÷ 10 = 2/5. A letra B divide defeituosas por boas (4/6).",
+"l": "Contagem e probabilidade básicas",
+"calc": true
+},
+{
+"id": "m4a7-6",
+"t": "O determinante da matriz 2×2 com primeira linha (3, 2) e segunda linha (1, 4) é:",
+"o": [
+"5.",
+"10.",
+"12.",
+"14.",
+"−10."
+],
+"c": 1,
+"e": "Determinante = diagonal principal − diagonal secundária = 3 × 4 − 2 × 1 = 12 − 2 = 10.",
+"l": "Problemas matriciais",
+"calc": true
+},
+{
+"id": "m4a7-7",
+"t": "Uma área de 2 m² corresponde a:",
+"o": [
+"200 cm².",
+"2.000 cm².",
+"20 cm².",
+"20.000 cm².",
+"200.000 cm²."
+],
+"c": 3,
+"e": "1 m² = 100 cm × 100 cm = 10.000 cm². Logo 2 m² = 20.000 cm². Multiplicar por 100 é a pegadinha.",
+"l": "Geometria",
+"calc": true
+}
+],
+"m4a8": [
+{
+"id": "m4a8-1",
+"t": "Sobre a memória RAM, é correto afirmar que:",
+"o": [
+"é volátil: guarda o que está em uso e perde o conteúdo ao desligar.",
+"guarda os arquivos de forma permanente, mesmo com o computador desligado.",
+"é o programa gravado na placa-mãe que inicia o computador.",
+"é o mesmo que o SSD.",
+"é um tipo de software utilitário."
+],
+"c": 0,
+"e": "RAM é volátil. HD e SSD guardam de forma permanente. BIOS/UEFI é o programa da placa-mãe que liga o computador.",
+"l": "Hardware e software"
+},
+{
+"id": "m4a8-2",
+"t": "No Windows 10 e 11, o atalho que bloqueia o computador é:",
+"o": [
+"Win + D.",
+"Win + L.",
+"Ctrl + Shift + Esc.",
+"Win + V.",
+"Win + E."
+],
+"c": 1,
+"e": "Win + L bloqueia. Win + D mostra a área de trabalho; Win + E abre o Explorador; Win + V abre o histórico da área de transferência; Ctrl + Shift + Esc abre o Gerenciador de Tarefas.",
+"l": "Windows 10 e 11"
+},
+{
+"id": "m4a8-3",
+"t": "No Windows, ao selecionar um arquivo do disco local e pressionar Shift + Delete, o arquivo:",
+"o": [
+"é excluído definitivamente, sem passar pela Lixeira.",
+"é renomeado.",
+"vai para a Lixeira.",
+"é copiado para a área de transferência.",
+"é enviado ao OneDrive."
+],
+"c": 0,
+"e": "Delete manda para a Lixeira; Shift + Delete exclui definitivamente. F2 renomeia.",
+"l": "Windows 10 e 11"
+},
+{
+"id": "m4a8-4",
+"t": "No Microsoft Word em português, os atalhos para negrito e para salvar são, respectivamente:",
+"o": [
+"Ctrl + B e Ctrl + S.",
+"Ctrl + N e Ctrl + B.",
+"Ctrl + N e Ctrl + S.",
+"Ctrl + B e Ctrl + N.",
+"Ctrl + G e Ctrl + B."
+],
+"c": 1,
+"e": "Word em português: N = negrito, I = itálico, S = sublinhado, B = salvar. No Writer: Ctrl + B negrito, Ctrl + S salvar.",
+"l": "Microsoft 365"
+},
+{
+"id": "m4a8-5",
+"t": "Na célula C1 de uma planilha está a fórmula =A1*$B$1. Ao copiá-la para a célula C2, a fórmula resultante é:",
+"o": [
+"=A2*$B$1",
+"=A2*$B$2",
+"=A1*$B$1",
+"=B2*$C$1",
+"=A2*B2"
+],
+"c": 0,
+"e": "Sem cifrão, a referência acompanha a cópia (A1 vira A2). Com cifrão na linha e na coluna, $B$1 fica travada.",
+"l": "Planilhas: Excel e Calc"
+},
+{
+"id": "m4a8-6",
+"t": "Numa planilha, o intervalo A1:A10 contém números, textos e células vazias. Para contar apenas as células com números, usa-se:",
+"o": [
+"=CONT.VALORES(A1:A10)",
+"=CONT.NÚM(A1:A10)",
+"=SOMA(A1:A10)",
+"=CONT.SE(A1:A10)",
+"=MÁXIMO(A1:A10)"
+],
+"c": 1,
+"e": "CONT.NÚM conta só números; CONT.VALORES conta qualquer célula não vazia.",
+"l": "Planilhas: Excel e Calc"
+},
+{
+"id": "m4a8-7",
+"t": "Sobre o LibreOffice, é correto afirmar que:",
+"o": [
+"é proprietário e pago por assinatura.",
+"seu formato padrão é o ODF (.odt, .ods, .odp), e no Calc a referência a outra planilha usa ponto (=Planilha2.A1).",
+"não abre arquivos do Microsoft Office.",
+"usa exclamação para citar outra planilha, como o Excel.",
+"não exporta para PDF."
+],
+"c": 1,
+"e": "LibreOffice é livre e gratuito, usa ODF, abre e salva arquivos do Office e exporta PDF direto. O Excel usa =Planilha2!A1.",
+"l": "LibreOffice"
+},
+{
+"id": "m4a8-8",
+"t": "Numa planilha, a fórmula =PROCV(A2;Tabela;2;FALSO) retornou o erro #N/D. A causa mais provável é:",
+"o": [
+"valor procurado não encontrado na tabela.",
+"função escrita errado.",
+"divisão por zero.",
+"referência a uma célula apagada.",
+"soma de texto com número."
+],
+"c": 0,
+"e": "#N/D = valor não encontrado, típico do PROCV. #DIV/0! = divisão por zero; #NOME? = função errada; #REF! = referência apagada; #VALOR! = tipo errado.",
+"l": "Planilhas: Excel e Calc"
+}
+],
+"m4a9": [
+{
+"id": "m4a9-1",
+"t": "Uma empresa abre parte de sua rede interna para que fornecedores autorizados consultem pedidos. Essa parte da rede é uma:",
+"o": [
+"internet.",
+"extranet.",
+"intranet.",
+"VPN pública.",
+"DNS."
+],
+"c": 1,
+"e": "Intranet = rede interna; extranet = parte da intranet aberta a parceiros externos autorizados.",
+"l": "Internet e navegadores"
+},
+{
+"id": "m4a9-2",
+"t": "Sobre o HTTPS, é correto afirmar que:",
+"o": [
+"garante que o site é honesto e confiável.",
+"substitui o antivírus.",
+"impede a instalação de vírus.",
+"indica que a comunicação entre o navegador e o site é criptografada.",
+"esconde o acesso do provedor de internet."
+],
+"c": 3,
+"e": "O \"S\" significa conexão criptografada. Golpistas também usam HTTPS, então o cadeado não garante que o site seja honesto.",
+"l": "Internet e navegadores"
+},
+{
+"id": "m4a9-3",
+"t": "O protocolo de e-mail que mantém as mensagens no servidor, sincronizadas em todos os aparelhos, é o:",
+"o": [
+"SMTP.",
+"POP3.",
+"IMAP.",
+"HTTP.",
+"FTP."
+],
+"c": 2,
+"e": "SMTP envia; POP3 baixa (em geral apagando do servidor); IMAP sincroniza.",
+"l": "E-mail"
+},
+{
+"id": "m4a9-4",
+"t": "Uma empresa contrata o Microsoft 365 e usa os programas prontos pela internet, sem instalar servidores. O modelo de nuvem é:",
+"o": [
+"SaaS.",
+"IaaS.",
+"PaaS.",
+"nuvem privada, obrigatoriamente.",
+"DaaS."
+],
+"c": 0,
+"e": "SaaS = software pronto. PaaS = plataforma para criar sistemas. IaaS = servidores e armazenamento virtuais.",
+"l": "Computação em nuvem"
+},
+{
+"id": "m4a9-5",
+"t": "Um programa malicioso criptografa os arquivos da empresa e exige pagamento para devolvê-los. Trata-se de:",
+"o": [
+"phishing.",
+"cavalo de troia.",
+"worm.",
+"ransomware.",
+"spyware."
+],
+"c": 3,
+"e": "Ransomware sequestra os dados. A melhor defesa é o backup.",
+"l": "Segurança da informação"
+},
+{
+"id": "m4a9-6",
+"t": "Um ataque que derruba o site de uma empresa com um volume enorme de acessos simultâneos compromete, principalmente, o pilar da:",
+"o": [
+"confidencialidade.",
+"integridade.",
+"autenticidade.",
+"irretratabilidade.",
+"disponibilidade."
+],
+"c": 4,
+"e": "DoS/DDoS ataca a disponibilidade: a informação deixa de estar acessível quando precisa.",
+"l": "Segurança da informação"
+},
+{
+"id": "m4a9-7",
+"t": "Sobre mecanismos de segurança, é correto afirmar que:",
+"o": [
+"o firewall remove vírus do computador.",
+"a autenticação em dois fatores dispensa senha forte.",
+"na criptografia assimétrica, a mesma chave cifra e decifra.",
+"a navegação anônima esconde o acesso da empresa e do provedor.",
+"a assinatura digital garante autenticidade, integridade e não repúdio, mas não garante sigilo."
+],
+"c": 4,
+"e": "Firewall filtra tráfego, não remove vírus. Assimétrica usa par de chaves. Navegação anônima só não salva dados no seu computador.",
+"l": "Segurança da informação"
+},
+{
+"id": "m4a9-8",
+"t": "Uma ferramenta de IA generativa respondeu com uma citação de lei que parece correta, mas não existe. Esse fenômeno é chamado de:",
+"o": [
+"phishing.",
+"viés.",
+"alucinação.",
+"engenharia social.",
+"overfitting."
+],
+"c": 2,
+"e": "Alucinação é a resposta convincente, mas errada. Por isso é preciso conferir as fontes e manter supervisão humana.",
+"l": "Inteligência artificial"
+}
+],
+"m4a10": [
+{
+"id": "m4a10-1",
+"t": "Pela Lei de Acesso à Informação (Lei 12.527/2011), quem faz um pedido de informação:",
+"o": [
+"deve justificar o motivo do pedido.",
+"não precisa dizer o motivo, e a resposta deve vir de imediato ou em até 20 dias, prorrogáveis por mais 10.",
+"deve pagar pelo serviço de busca.",
+"só pode pedir se for servidor público.",
+"recebe resposta em até 60 dias."
+],
+"c": 1,
+"e": "Pedido sem motivo; prazo de 20 + 10 dias; busca gratuita (só se cobra a reprodução); recurso em 10 dias.",
+"l": "Lei de Acesso à Informação (Lei 12.527/2011)"
+},
+{
+"id": "m4a10-2",
+"t": "Pela LAI, os prazos máximos de sigilo das informações classificadas como reservada, secreta e ultrassecreta são, respectivamente:",
+"o": [
+"5, 10 e 15 anos.",
+"2, 5 e 10 anos.",
+"10, 20 e 30 anos.",
+"15, 25 e 100 anos.",
+"5, 15 e 25 anos."
+],
+"c": 4,
+"e": "Reservada 5, secreta 15, ultrassecreta 25 anos. Informação pessoal tem acesso restrito por até 100 anos.",
+"l": "Lei de Acesso à Informação (Lei 12.527/2011)"
+},
+{
+"id": "m4a10-3",
+"t": "Pela Lei 12.737/2012, com a redação de 2021, invadir um celular alheio sem senha para copiar fotos, sem autorização do dono:",
+"o": [
+"não é crime, porque não houve violação de mecanismo de segurança.",
+"é apenas infração administrativa.",
+"é crime de invasão de dispositivo informático, com pena de reclusão de 1 a 4 anos e multa.",
+"só é crime se o aparelho estiver conectado à internet.",
+"é crime apenas se a vítima for servidor público."
+],
+"c": 2,
+"e": "Desde a Lei 14.155/2021 caiu a exigência de \"violação de mecanismo de segurança\", e o aparelho pode estar conectado ou não.",
+"l": "Lei Carolina Dieckmann (Lei 12.737/2012)"
+},
+{
+"id": "m4a10-4",
+"t": "Pelo Marco Civil da Internet, os registros de conexão e os registros de acesso a aplicações devem ser guardados, respectivamente, por:",
+"o": [
+"1 ano e 6 meses.",
+"6 meses e 1 ano.",
+"5 anos e 1 ano.",
+"1 ano e 1 ano.",
+"90 dias e 6 meses."
+],
+"c": 0,
+"e": "Provedor de conexão: 1 ano. Provedor de aplicação: 6 meses. Ambos em sigilo, fornecidos por ordem judicial.",
+"l": "Marco Civil da Internet (Lei 12.965/2014)"
+},
+{
+"id": "m4a10-5",
+"t": "Segundo a LGPD, é exemplo de dado pessoal sensível:",
+"o": [
+"o CPF.",
+"a filiação a sindicato.",
+"o endereço de e-mail.",
+"o endereço IP.",
+"o nome completo."
+],
+"c": 1,
+"e": "Sensíveis: origem racial ou étnica, religião, opinião política, filiação a sindicato ou organização religiosa, filosófica ou política, saúde, vida sexual, dado genético ou biométrico. Os demais são dados pessoais comuns.",
+"l": "LGPD (Lei 13.709/2018)"
+},
+{
+"id": "m4a10-6",
+"t": "Analise as afirmativas sobre a LGPD.\nI. O consentimento é a única base legal para o tratamento de dados pessoais.\nII. O controlador toma as decisões sobre o tratamento; o operador executa em nome dele.\nIII. A multa simples pode chegar a 2% do faturamento no Brasil, limitada a R$ 50 milhões por infração.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: há 10 bases legais, como obrigação legal, execução de contrato e legítimo interesse.",
+"l": "LGPD (Lei 13.709/2018)"
+},
+{
+"id": "m4a10-7",
+"t": "O princípio do Marco Civil da Internet segundo o qual o provedor deve tratar todos os dados igualmente, sem privilegiar ou piorar o tráfego por conteúdo, origem ou aplicação, é a:",
+"o": [
+"liberdade de expressão.",
+"portabilidade.",
+"finalidade.",
+"transparência ativa.",
+"neutralidade da rede."
+],
+"c": 4,
+"e": "Neutralidade da rede. Finalidade é princípio da LGPD; transparência ativa é da LAI.",
+"l": "Marco Civil da Internet (Lei 12.965/2014)"
+}
+],
+"m4a12": [
+{
+"id": "m4a12-1",
+"t": "Um usuário renomeou o arquivo relatorio.docx para relatorio.pdf no Explorador de Arquivos. Em seguida:",
+"o": [
+"o arquivo continua sendo um documento do Word; para gerar PDF, deve-se usar \"Salvar como\" ou \"Exportar\".",
+"o arquivo foi convertido para PDF.",
+"o arquivo passa a abrir em qualquer leitor de PDF.",
+"o Windows converte o arquivo automaticamente na próxima abertura.",
+"o arquivo é compactado."
+],
+"c": 0,
+"e": "Trocar a extensão no nome não converte o arquivo.",
+"l": "Arquivos, pastas e extensões"
+},
+{
+"id": "m4a12-2",
+"t": "Para buscar no Google apenas arquivos PDF sobre produtividade dentro do site da ABDI, a consulta adequada é:",
+"o": [
+"produtividade pdf abdi",
+"produtividade intitle:pdf OR abdi",
+"\"produtividade\" -pdf site:abdi.com.br",
+"produtividade site:abdi.com.br filetype:pdf",
+"produtividade * abdi.com.br"
+],
+"c": 3,
+"e": "site: restringe ao domínio; filetype: escolhe o tipo de arquivo. O sinal de menos exclui termos.",
+"l": "Navegadores e buscadores"
+},
+{
+"id": "m4a12-3",
+"t": "No PowerPoint, o efeito aplicado a um título que entra \"voando\" dentro de um slide é chamado de:",
+"o": [
+"transição.",
+"classificação de slides.",
+"slide mestre.",
+"animação.",
+"modo do apresentador."
+],
+"c": 3,
+"e": "Animação é o efeito em um objeto dentro do slide. Transição é o efeito na passagem de um slide para o outro.",
+"l": "PowerPoint e Impress"
+},
+{
+"id": "m4a12-4",
+"t": "No PowerPoint e no Impress, o atalho para iniciar a apresentação a partir do slide atual é:",
+"o": [
+"F5.",
+"Alt + F5.",
+"Ctrl + F5.",
+"Shift + F5.",
+"F7."
+],
+"c": 3,
+"e": "F5 inicia do começo; Shift + F5, do slide atual. Vale nos dois programas.",
+"l": "PowerPoint e Impress"
+},
+{
+"id": "m4a12-5",
+"t": "No Outlook, a diferença entre compromisso e reunião é que:",
+"o": [
+"o compromisso tem convidados e gera convite; a reunião ocupa só a sua agenda.",
+"o compromisso não pode ser recorrente.",
+"os dois são iguais, só mudam de nome.",
+"a reunião não pode ter lembrete.",
+"a reunião tem convidados e gera convite; o compromisso ocupa só a sua agenda."
+],
+"c": 4,
+"e": "Compromisso = só a sua agenda. Reunião = convidados e convite.",
+"l": "Outlook: calendário e contatos"
+},
+{
+"id": "m4a12-6",
+"t": "Na janela de impressão do Word, o intervalo \"1-3,5\" imprime:",
+"o": [
+"as páginas 1 e 3 a 5.",
+"as páginas 1, 2, 3 e 5.",
+"as páginas 1 a 5.",
+"3 cópias da página 1 e 5 da página 3.",
+"só a página 5."
+],
+"c": 1,
+"e": "O hífen indica intervalo (1 a 3) e a vírgula separa páginas avulsas (5).",
+"l": "Windows: pesquisa, impressão e compartilhamento"
+},
+{
+"id": "m4a12-7",
+"t": "Um documento em papel foi digitalizado, e agora é possível buscar e copiar palavras do texto no PDF. Isso foi possível graças ao:",
+"o": [
+"aumento de dpi.",
+"OCR (reconhecimento óptico de caracteres).",
+"modo escala de cinza.",
+"formato .zip.",
+"Narrador do Windows."
+],
+"c": 1,
+"e": "O OCR lê as letras da imagem e gera texto pesquisável e editável.",
+"l": "Digitalização, impressão e acessibilidade"
+},
+{
+"id": "m4a12-8",
+"t": "Para que um leitor de tela consiga descrever as imagens de um documento do Word a uma pessoa cega, deve-se:",
+"o": [
+"usar fonte maior.",
+"salvar em .txt.",
+"inserir texto alternativo nas imagens.",
+"aumentar o contraste do tema.",
+"usar animações."
+],
+"c": 2,
+"e": "O texto alternativo permite ao leitor de tela descrever a imagem. A ferramenta Verificar Acessibilidade aponta imagens sem ele.",
+"l": "Digitalização, impressão e acessibilidade"
+}
+]
+}

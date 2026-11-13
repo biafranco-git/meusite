@@ -1,0 +1,502 @@
+{
+"m3a3": [
+{
+"id": "m3a3-1",
+"t": "Segundo a Lei 11.080/2004, a ABDI é:",
+"o": [
+"autarquia federal, pessoa jurídica de direito público.",
+"empresa pública com fins lucrativos.",
+"serviço social autônomo, pessoa jurídica de direito privado, sem fins lucrativos, de interesse coletivo e utilidade pública.",
+"órgão da administração direta vinculado ao MDIC.",
+"fundação pública de direito privado integrante da administração indireta."
+],
+"c": 2,
+"e": "A lei autoriza o Poder Executivo a instituir a ABDI sob a forma de serviço social autônomo: direito privado, sem fins lucrativos, fora da administração pública.",
+"l": "Onde a ABDI se encaixa"
+},
+{
+"id": "m3a3-2",
+"t": "Sobre a criação da ABDI, é correto afirmar que a Lei 11.080/2004:",
+"o": [
+"criou diretamente a ABDI.",
+"transformou o SEBRAE em ABDI.",
+"previu que a ABDI seria criada por resolução do CNDI.",
+"autorizou o MDIC a criar uma autarquia.",
+"autorizou o Poder Executivo a instituí-la, o que foi feito pelo Decreto 5.352/2005."
+],
+"c": 4,
+"e": "A lei autorizou; o Decreto 5.352/2005 instituiu. Dizer que a lei criou a ABDI é pegadinha.",
+"l": "Onde a ABDI se encaixa"
+},
+{
+"id": "m3a3-3",
+"t": "Por administrar recursos de origem pública, a ABDI:",
+"o": [
+"é obrigada a contratar pessoal por concurso público.",
+"deve seguir a Lei 14.133/2021 em suas compras.",
+"deve observar os princípios da administração pública e prestar contas ao TCU.",
+"deixa de ser pessoa jurídica de direito privado.",
+"passa a ter os prazos processuais da Fazenda Pública."
+],
+"c": 2,
+"e": "Dinheiro público → princípios e controle do TCU. Mas, como entidade privada, segue regulamento próprio de compras, contrata pela CLT com processo seletivo e não tem prerrogativas da Fazenda.",
+"l": "Por que o dinheiro é público, mas a entidade é privada"
+},
+{
+"id": "m3a3-4",
+"t": "Segundo o STF (Tema 569 de repercussão geral), os serviços sociais autônomos:",
+"o": [
+"são obrigados a seguir a Lei 8.112/1990.",
+"devem realizar concurso público para contratar pessoal.",
+"estão proibidos de fazer processos seletivos.",
+"só podem contratar servidores estatutários.",
+"não são obrigados a realizar concurso público, mas devem fazer seleção que respeite os princípios."
+],
+"c": 4,
+"e": "RE 789.874 (2014): não há obrigação de concurso. A ABDI faz processo seletivo com edital no DOU, como exige a Lei 11.080.",
+"l": "O que os tribunais já decidiram"
+},
+{
+"id": "m3a3-5",
+"t": "O adicional às contribuições sociais previsto na Lei 8.029/1990 é dividido entre SEBRAE, Apex-Brasil e ABDI. A parcela da ABDI é de:",
+"o": [
+"85,75%.",
+"12,25%.",
+"10%.",
+"2%.",
+"1%."
+],
+"c": 3,
+"e": "SEBRAE 85,75%, Apex-Brasil 12,25% e ABDI 2% (Lei 11.080, art. 15).",
+"l": "ABDI x Sistema S tradicional"
+},
+{
+"id": "m3a3-6",
+"t": "Em comparação com o Sistema S tradicional, como o SENAI, a ABDI se diferencia por:",
+"o": [
+"ter diretoria nomeada pelo Presidente da República e contrato de gestão com metas firmado com o MDIC.",
+"não ter nenhuma relação com o governo federal.",
+"ser dirigida por confederações empresariais.",
+"ser mantida exclusivamente por contribuições sobre a folha das empresas.",
+"ter fins lucrativos."
+],
+"c": 0,
+"e": "A ABDI é um serviço social autônomo \"novo\", como a Apex-Brasil: diretoria nomeada pelo Presidente da República e supervisão por contrato de gestão.",
+"l": "ABDI x Sistema S tradicional"
+}
+],
+"m3a4": [
+{
+"id": "m3a4-1",
+"t": "O Conselho Deliberativo da ABDI é composto por:",
+"o": [
+"15 membros: 7 do Poder Executivo e 8 de entidades privadas.",
+"3 membros: 2 do Poder Executivo e 1 da sociedade civil.",
+"15 membros: 8 do Poder Executivo e 7 de entidades privadas.",
+"12 membros, todos do Poder Executivo.",
+"9 membros nomeados pelo Presidente da República."
+],
+"c": 2,
+"e": "CD = 15 (8 Executivo + 7 privados). CF = 3 (2 + 1). DIREX = 3 (Presidente + 2 Diretores).",
+"l": "Os órgãos de direção"
+},
+{
+"id": "m3a4-2",
+"t": "Os membros da Diretoria Executiva da ABDI são nomeados:",
+"o": [
+"pelo Ministro do MDIC, para mandato de 2 anos.",
+"pelo Conselho Deliberativo, para mandato de 4 anos.",
+"pelo TCU, para mandato de 2 anos.",
+"pelo Presidente da República, para mandato de 4 anos.",
+"pelo CNDI, sem mandato fixo."
+],
+"c": 3,
+"e": "Presidente e 2 Diretores, nomeados pelo Presidente da República para 4 anos. Conselheiros têm mandato de 2 anos.",
+"l": "Os órgãos de direção"
+},
+{
+"id": "m3a4-3",
+"t": "Sobre o manual de licitações e contratos da ABDI, é correto afirmar que:",
+"o": [
+"é aprovado pela Diretoria Executiva.",
+"é proposto pela Diretoria Executiva e aprovado pelo Conselho Deliberativo.",
+"é aprovado pelo TCU.",
+"é editado por decreto do Presidente da República.",
+"é aprovado pelo Conselho Fiscal."
+],
+"c": 1,
+"e": "A DIREX elabora a proposta; o CD aprova (Decreto 5.352, arts. 4º e 8º).",
+"l": "Os órgãos de direção"
+},
+{
+"id": "m3a4-4",
+"t": "O contrato de gestão da ABDI é firmado com:",
+"o": [
+"o MDIC, que supervisiona a gestão; o TCU fiscaliza a execução.",
+"o Conselho Deliberativo.",
+"o TCU, que também o fiscaliza.",
+"a Casa Civil, que o publica no DOU.",
+"o CNDI."
+],
+"c": 0,
+"e": "Contrato com o MDIC (Lei, art. 10). Planejamento e Casa Civil dão parecer antes; o TCU fiscaliza e pode exigir correções (art. 14).",
+"l": "Contrato de gestão"
+},
+{
+"id": "m3a4-5",
+"t": "Analise as afirmativas sobre a ABDI.\nI. O contrato de gestão tem duração mínima de 2 anos.\nII. Em caso de extinção, o patrimônio da ABDI é destinado ao SEBRAE.\nIII. O Conselho Fiscal tem 3 membros com mandato de 2 anos.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: extinta a ABDI, o patrimônio vai para a União (Lei, art. 23).",
+"l": "Números que caem"
+},
+{
+"id": "m3a4-6",
+"t": "A alteração feita pela Lei 14.440/2022 na Lei 11.080/2004:",
+"o": [
+"tornou a ABDI uma empresa com fins lucrativos.",
+"transformou a ABDI em autarquia.",
+"extinguiu o CNDI.",
+"retirou a obrigação de prestar contas ao TCU.",
+"acrescentou inovação e transformação digital à finalidade da ABDI e previu novas receitas, como a venda de serviços."
+],
+"c": 4,
+"e": "A finalidade passou a incluir inovação, transformação digital e difusão de tecnologias, e as receitas de serviços ligados às finalidades.",
+"l": "Três normas, três níveis de detalhe"
+},
+{
+"id": "m3a4-7",
+"t": "O Conselho Deliberativo da ABDI decide por:",
+"o": [
+"decisão do presidente do Conselho, ouvidos os demais.",
+"unanimidade.",
+"maioria simples, com qualquer número de presentes.",
+"maioria de dois terços, sem quórum mínimo.",
+"maioria absoluta, com quórum mínimo de dois terços dos membros, tendo o presidente voto de qualidade."
+],
+"c": 4,
+"e": "Quórum mínimo de 2/3, decisão por maioria absoluta, voto de qualidade do presidente. A destituição de conselheiro exige 2/3 do colegiado.",
+"l": "Os órgãos de direção"
+}
+],
+"m3a1": [
+{
+"id": "m3a1-1",
+"t": "A ABDI precisa contratar uma reforma de suas instalações, obra de engenharia estimada em R$ 120 mil. Pelo Regulamento de Licitações e Contratos da ABDI, essa contratação:",
+"o": [
+"exige concorrência.",
+"pode ser feita por dispensa, pois obras cabem até R$ 150 mil.",
+"exige convite, pois o limite da dispensa é R$ 80 mil.",
+"exige pregão.",
+"é caso de inexigibilidade."
+],
+"c": 1,
+"e": "Obras e serviços de engenharia: dispensa até R$ 150 mil, convite até R$ 2,2 milhões. O limite de R$ 80 mil é de compras e demais serviços.",
+"l": "Limites de valor (arts. 7º e 8º)"
+},
+{
+"id": "m3a1-2",
+"t": "A contratação de um serviço comum (não de engenharia) de R$ 120 mil pela ABDI deve ser feita, pelo critério de valor, por:",
+"o": [
+"dispensa.",
+"convite, pois passa do limite de R$ 80 mil da dispensa e fica abaixo de R$ 760 mil.",
+"concorrência obrigatória.",
+"inexigibilidade.",
+"leilão."
+],
+"c": 1,
+"e": "Compras e demais serviços: dispensa até R$ 80 mil; convite até R$ 760 mil. (O pregão também pode ser usado para bens e serviços comuns de qualquer valor.)",
+"l": "Limites de valor (arts. 7º e 8º)"
+},
+{
+"id": "m3a1-3",
+"t": "A ABDI precisa contratar o único fornecedor de um software específico no mercado. Essa contratação direta é caso de:",
+"o": [
+"inexigibilidade, pois não há competição possível.",
+"dispensa por emergência.",
+"dispensa por valor.",
+"registro de preço.",
+"diálogo competitivo."
+],
+"c": 0,
+"e": "Dispensa: a competição é possível, mas o regulamento permite não licitar. Inexigibilidade: a competição é inviável, como no fornecedor exclusivo.",
+"l": "Dispensa e inexigibilidade (arts. 10 a 12)"
+},
+{
+"id": "m3a1-4",
+"t": "Sobre os recursos nas licitações da ABDI, é correto afirmar que:",
+"o": [
+"só cabe recurso da decisão que declara o vencedor, com efeito suspensivo e prazo de 5 dias (2 dias no convite e no pregão).",
+"cabe recurso de qualquer decisão da comissão.",
+"o prazo de recurso é de 10 dias corridos.",
+"o recurso não tem efeito suspensivo.",
+"só o vencedor pode se manifestar."
+],
+"c": 0,
+"e": "Recurso único, da decisão que declara o vencedor; 5 dias (2 no convite e pregão); julgamento em até 10 dias; prazos em dias úteis.",
+"l": "Procedimento e recursos (arts. 14 a 20)"
+},
+{
+"id": "m3a1-5",
+"t": "Nos contratos da ABDI, a garantia contratual:",
+"o": [
+"é sempre de 20% do valor.",
+"tem modalidade escolhida pela ABDI.",
+"é obrigatória em encomendas tecnológicas.",
+"pode ser de até 10% do valor, e a modalidade (caução, fiança bancária ou seguro-garantia) é escolhida pelo contratado.",
+"é proibida em contratos com startups."
+],
+"c": 3,
+"e": "Até 10%, escolha do contratado (art. 53). Nas encomendas tecnológicas e soluções inovadoras, a garantia pode ser dispensada.",
+"l": "Contratos (arts. 51 a 58)"
+},
+{
+"id": "m3a1-6",
+"t": "Analise as afirmativas sobre o registro de preço na ABDI.\nI. É sempre precedido de concorrência ou pregão.\nII. Obriga a ABDI a comprar toda a quantidade registrada.\nIII. Vale até 12 meses, prorrogáveis até o total de 36 meses.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: o fornecedor registrado não tem direito de exigir a compra.",
+"l": "Registro de preço (arts. 27 a 37)"
+},
+{
+"id": "m3a1-7",
+"t": "Para o Regulamento da ABDI, startup é a empresa nascente ou recente, com atuação caracterizada pela inovação e com até:",
+"o": [
+"2 anos de CNPJ.",
+"5 anos de CNPJ.",
+"10 anos de CNPJ.",
+"15 anos de CNPJ.",
+"20 anos de CNPJ."
+],
+"c": 2,
+"e": "Até 10 anos de CNPJ (art. 5º). Nas soluções inovadoras, o prazo mínimo para propostas é de 20 dias.",
+"l": "Definições que caem (art. 5º)"
+},
+{
+"id": "m3a1-8",
+"t": "Uma empresa que discorda de uma exigência do edital da ABDI deve impugná-lo:",
+"o": [
+"até 2 dias antes da data de recebimento das propostas; quem não impugna perde o direito de questionar depois.",
+"a qualquer momento, até a assinatura do contrato.",
+"só depois da homologação.",
+"até 10 dias depois da abertura das propostas.",
+"apenas por meio de recurso ao TCU."
+],
+"c": 0,
+"e": "Art. 14, § 3º: impugnação até 2 dias antes das propostas, sob pena de perder o direito.",
+"l": "Procedimento e recursos (arts. 14 a 20)"
+}
+],
+"m3a2": [
+{
+"id": "m3a2-1",
+"t": "A ABDI e uma universidade se unem para levar tecnologias da Indústria 4.0 a pequenas fábricas, com objetivo comum e sem que nenhuma das partes venda nada à outra. O instrumento adequado é o:",
+"o": [
+"convênio, pois há interesse recíproco em regime de mútua cooperação.",
+"contrato, pois envolve repasse de recursos.",
+"registro de preço.",
+"pregão.",
+"patrocínio integral."
+],
+"c": 0,
+"e": "No contrato, os interesses são opostos (um paga, outro fornece). No convênio, o interesse é recíproco.",
+"l": "Contrato x convênio: a diferença que tudo explica"
+},
+{
+"id": "m3a2-2",
+"t": "Nos convênios da ABDI, a contrapartida mínima do convenente é de:",
+"o": [
+"5% do valor total.",
+"20% do valor total.",
+"15% do valor total, apenas financeira.",
+"10% do valor total, financeira ou econômica.",
+"não há contrapartida mínima."
+],
+"c": 3,
+"e": "Contrapartida mínima de 10% (art. 6º). Os 15% são o limite de despesas operacionais de ICTs; os 5%, o teto anual do patrocínio.",
+"l": "Regras para celebrar (arts. 3º a 6º e 16)"
+},
+{
+"id": "m3a2-3",
+"t": "Sobre o patrocínio concedido pela ABDI, é correto afirmar que:",
+"o": [
+"não exige prestação de contas.",
+"exige conta bancária exclusiva.",
+"pode cobrir 100% do evento, se aprovado pela DIREX.",
+"a contrapartida pode ser apenas ingressos e convites.",
+"é vedado o patrocínio integral, e o teto anual não pode passar de 5% da receita corrente líquida."
+],
+"c": 4,
+"e": "É vedado o patrocínio integral. A contrapartida não pode ser só ingressos ou convites, não há conta exclusiva e a prestação de contas é um relatório com comprovações.",
+"l": "Patrocínio (arts. 33 a 37)"
+},
+{
+"id": "m3a2-4",
+"t": "No convênio, a parte que aloca os recursos financeiros e a parte que executa o objeto são chamadas, respectivamente, de:",
+"o": [
+"convenente e concedente.",
+"patrocinador e patrocinado.",
+"interveniente e coexecutor.",
+"contratante e contratado.",
+"concedente e convenente (ou executor)."
+],
+"c": 4,
+"e": "Concedente aloca os recursos (em geral, a ABDI); convenente executa. Interveniente assume obrigações acessórias; coexecutor ajuda a executar.",
+"l": "Quem é quem no convênio (art. 2º)"
+},
+{
+"id": "m3a2-5",
+"t": "Analise as afirmativas sobre os convênios da ABDI.\nI. A alteração do convênio pode mudar o objeto, se pedida antes do fim da vigência.\nII. Os recursos ficam em conta específica e, enquanto não usados, devem ser aplicados em renda fixa.\nIII. A segunda parcela só é liberada após a avaliação técnica da parcela anterior.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: é vedado mudar o objeto (art. 17).",
+"l": "Dinheiro: liberação, conta e gastos (arts. 8º a 15)"
+},
+{
+"id": "m3a2-6",
+"t": "O regulamento de convênios da ABDI vigente desde agosto de 2024 foi aprovado:",
+"o": [
+"pelo Conselho Deliberativo, como o de licitações.",
+"pelo MDIC.",
+"por resolução da Diretoria Executiva.",
+"pelo TCU.",
+"pelo Conselho Fiscal."
+],
+"c": 2,
+"e": "Resolução DIREX UJ/00017/2024. O regulamento de licitações, ao contrário, é aprovado pelo Conselho Deliberativo.",
+"l": "Que regulamento é este"
+},
+{
+"id": "m3a2-7",
+"t": "O convenente deve guardar os comprovantes de despesa do convênio por:",
+"o": [
+"10 anos após o fim da vigência.",
+"2 anos após a assinatura.",
+"5 anos contados da aprovação das contas.",
+"20 dias após a prestação de contas.",
+"prazo indeterminado."
+],
+"c": 2,
+"e": "5 anos contados da aprovação das contas (art. 24). Outros números: 20 dias para sanar, 10 dias para devolver, 2 anos de impedimento.",
+"l": "Prestação de contas e sanções (arts. 21 a 29)"
+}
+],
+"m3a5": [
+{
+"id": "m3a5-1",
+"t": "O Regulamento de Ética e Conduta da ABDI aplica-se:",
+"o": [
+"somente aos empregados contratados pela CLT.",
+"somente à Diretoria Executiva e aos conselheiros.",
+"apenas aos fornecedores da ABDI.",
+"apenas a quem ocupa cargo de confiança.",
+"a conselheiros, dirigentes, empregados, estagiários, menores aprendizes e prestadores de serviços técnicos e operacionais."
+],
+"c": 4,
+"e": "Vale para todos, de conselheiros a estagiários (art. 2º). Contratados, convenentes e parceiros também devem observá-lo.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "m3a5-2",
+"t": "Um fornecedor envia a um analista da ABDI um presente de valor comercial, que não pôde ser recusado. Segundo o Regulamento de Ética, o analista deve:",
+"o": [
+"ficar com o presente, se valer até R$ 100.",
+"devolver o presente pelo correio, às próprias custas.",
+"encaminhar o presente à Gestão de Pessoas, que o sorteia entre os colaboradores.",
+"entregá-lo à Ouvidoria para leilão.",
+"aceitá-lo, desde que informe a chefia."
+],
+"c": 2,
+"e": "Só brindes promocionais sem valor comercial são aceitos. Presentes são vedados; se não der para recusar, vão para a Gestão de Pessoas, que sorteia. O regulamento não fixa valor.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "m3a5-3",
+"t": "Segundo o Regulamento de Ética e Conduta da ABDI, é vedado:",
+"o": [
+"chefiar diretamente cônjuge, companheiro ou parente até o terceiro grau em cargo de confiança.",
+"participar de atividade política fora do expediente.",
+"dar aulas fora do expediente, avisando o gestor.",
+"manter relacionamento amoroso com colega sem subordinação.",
+"aceitar caneta promocional de fornecedor."
+],
+"c": 0,
+"e": "Chefiar parente até o 3º grau em cargo de confiança é uma das 12 vedações do art. 6º. As demais condutas são permitidas, com as condições do regulamento.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "m3a5-4",
+"t": "O empregado da ABDI deve cumprir as ordens superiores:",
+"o": [
+"sempre, sem exceção.",
+"salvo quando discordar tecnicamente.",
+"só quando formalizadas por escrito pela DIREX.",
+"salvo as manifestamente ilegais, imorais ou antiéticas.",
+"só se aprovadas pela Ouvidoria."
+],
+"c": 3,
+"e": "Dever do art. 5º, com a ressalva das ordens manifestamente ilegais, imorais ou antiéticas.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "m3a5-5",
+"t": "O mapa estratégico da ABDI 2024–2029 organiza seus objetivos em duas perspectivas, que são:",
+"o": [
+"Financeira e Clientes.",
+"Inovação e Sustentabilidade.",
+"Processos internos e Aprendizado.",
+"Política industrial e Comércio exterior.",
+"Impacto para o setor produtivo e Excelência na gestão."
+],
+"c": 4,
+"e": "Duas perspectivas, seis objetivos e cinco valores. Trocar pelas perspectivas do BSC clássico é pegadinha.",
+"l": "Parte 2: missão, valores e estratégia 2024–2029"
+},
+{
+"id": "m3a5-6",
+"t": "Segundo a Estratégia ABDI 2024–2029, a meta de maturidade digital média para 2026 é de:",
+"o": [
+"28%.",
+"18%.",
+"40%.",
+"10%.",
+"32%."
+],
+"c": 4,
+"e": "Maturidade digital: 28% (2024), 32% (2026), 40% (2029). IASG: 10% (2026) e 18% (2029). Beneficiários: 7.260 (2026).",
+"l": "Parte 2: missão, valores e estratégia 2024–2029"
+},
+{
+"id": "m3a5-7",
+"t": "Uma colaboradora quer denunciar uma violação ao Regulamento de Ética. O canal indicado para denúncias e violações é:",
+"o": [
+"o TCU, diretamente.",
+"a chefia imediata, exclusivamente.",
+"o Conselho Fiscal.",
+"a Ouvidoria.",
+"as redes sociais da ABDI."
+],
+"c": 3,
+"e": "Denúncias e violações vão à Ouvidoria. Dizer que vão à chefia imediata é pegadinha.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+}
+]
+}

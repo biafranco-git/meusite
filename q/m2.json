@@ -1,0 +1,631 @@
+{
+"m2a1": [
+{
+"id": "m2a1-1",
+"t": "Uma fábrica vendeu 90, 100, 110 e 120 unidades nos últimos quatro meses, nessa ordem. Usando média móvel dos três últimos meses, a previsão para o próximo mês é:",
+"o": [
+"105 unidades.",
+"110 unidades.",
+"115 unidades.",
+"120 unidades.",
+"130 unidades."
+],
+"c": 1,
+"e": "Média dos três últimos: (100 + 110 + 120) ÷ 3 = 330 ÷ 3 = 110. A letra A (105) é a média dos quatro meses, erro de quem não descarta o mês mais antigo.",
+"l": "Previsão de demanda: o ponto de partida",
+"calc": true
+},
+{
+"id": "m2a1-2",
+"t": "A previsão de vendas de um mês era de 200 unidades, mas foram vendidas 250. Usando suavização exponencial com α = 0,3, a nova previsão é:",
+"o": [
+"200 unidades.",
+"215 unidades.",
+"235 unidades.",
+"260 unidades.",
+"275 unidades."
+],
+"c": 1,
+"e": "Erro = 250 − 200 = 50. Correção = 0,3 × 50 = 15. Nova previsão = 200 + 15 = 215. A letra D (260) vem do erro clássico: 0,3 × 200 = 60, aplicando o α sobre a previsão em vez do erro.",
+"l": "Previsão de demanda: o ponto de partida",
+"calc": true
+},
+{
+"id": "m2a1-3",
+"t": "O plano mestre pede 50 cadeiras. Há 10 cadeiras prontas em estoque. Cada cadeira usa 4 pernas; há 60 pernas em estoque e um recebimento programado de 20 pernas. A necessidade líquida de pernas é:",
+"o": [
+"160.",
+"140.",
+"100.",
+"80.",
+"200."
+],
+"c": 3,
+"e": "Cadeiras líquidas: 50 − 10 = 40. Pernas brutas: 40 × 4 = 160. Líquida: 160 − 60 (estoque) − 20 (recebimento programado) = 80. A letra E (200) esquece o estoque de cadeiras; a A (160) esquece o estoque e o recebimento de pernas.",
+"l": "MRP: calculando os materiais",
+"calc": true
+},
+{
+"id": "m2a1-4",
+"t": "Um lote de mesas deve ser entregue na semana 8. A montagem leva 1 semana, e o tampo tem lead time de compra de 2 semanas. Para não atrasar, o pedido do tampo deve sair na semana:",
+"o": [
+"8.",
+"5.",
+"6.",
+"4.",
+"7."
+],
+"c": 1,
+"e": "O tampo precisa estar pronto quando a montagem começa (semana 7), e não na entrega (semana 8). Descontando o lead time de 2 semanas de trás para frente: 7 − 2 = 5.",
+"l": "MRP: calculando os materiais",
+"calc": true
+},
+{
+"id": "m2a1-5",
+"t": "Analise as afirmativas sobre PCP.\nI. A regra SPT (menor tempo primeiro) minimiza o tempo médio de fluxo.\nII. A regra EDD prioriza a tarefa com data de entrega mais próxima e reduz o atraso máximo.\nIII. O MRP II integra a empresa inteira (vendas, finanças, RH) num sistema único.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I e III, apenas.",
+"I, II e III."
+],
+"c": 1,
+"e": "I e II estão certas. A III descreve o ERP: o MRP II acrescenta ao MRP a capacidade das máquinas, a mão de obra e as finanças, mas quem integra a empresa inteira é o ERP.",
+"l": "Sequenciamento: em que ordem fazer as tarefas"
+},
+{
+"id": "m2a1-6",
+"t": "Quatro tarefas passam pela máquina 1 e depois pela máquina 2. Tempos (M1, M2): A (4, 6); B (7, 2); C (3, 5); D (8, 9). Pela regra de Johnson, a sequência que termina tudo mais cedo é:",
+"o": [
+"B, C, A, D.",
+"C, A, D, B.",
+"C, A, B, D.",
+"A, C, D, B.",
+"D, A, C, B."
+],
+"c": 1,
+"e": "Menor tempo: 2 (B na M2) → B vai para o fim. Depois 3 (C na M1) → C vai para o início. Depois 4 (A na M1) → A em segundo. Sobra D. Sequência: C, A, D, B.",
+"l": "Sequenciamento: em que ordem fazer as tarefas",
+"calc": true
+},
+{
+"id": "m2a1-7",
+"t": "Na hierarquia do PCP, o nível que transforma o plano por famílias de produtos em quantidades de cada produto final por semana é o:",
+"o": [
+"plano agregado.",
+"plano mestre de produção (PMP).",
+"sequenciamento.",
+"MRP.",
+"ERP."
+],
+"c": 1,
+"e": "Agregado (famílias, meses) → PMP (produtos finais, semanas) → MRP (componentes) → sequenciamento (ordem nas máquinas). O ERP é um sistema de gestão, não um nível do PCP.",
+"l": "Como funciona: do geral para o detalhe"
+}
+],
+"m2a2": [
+{
+"id": "m2a2-1",
+"t": "Em um fluxograma, o símbolo em forma de losango representa:",
+"o": [
+"o início ou o fim do processo.",
+"uma atividade executada.",
+"um ponto de decisão.",
+"um documento gerado.",
+"um estoque entre etapas."
+],
+"c": 2,
+"e": "Oval = início/fim; retângulo = atividade; losango = decisão. A FGV troca esses símbolos nas alternativas.",
+"l": "Ferramenta 1: fluxograma"
+},
+{
+"id": "m2a2-2",
+"t": "Antes de detalhar um processo, a equipe quer concordar sobre seus limites, numa visão de ponta a ponta em cinco colunas. A ferramenta indicada é:",
+"o": [
+"o SIPOC.",
+"o mapa do fluxo de valor (VSM).",
+"o fluxograma detalhado.",
+"o diagrama de Ishikawa.",
+"o BPMN."
+],
+"c": 0,
+"e": "O SIPOC (Fornecedores, Entradas, Processo, Saídas, Clientes) é uma visão macro, usada na etapa Definir do Seis Sigma. Não é um mapa detalhado.",
+"l": "Ferramenta 2: SIPOC"
+},
+{
+"id": "m2a2-3",
+"t": "Um produto leva 4 dias de 8 horas para atravessar a fábrica, mas recebe só 48 minutos de trabalho efetivo. O índice de agregação de valor é:",
+"o": [
+"1%.",
+"2%.",
+"25%.",
+"4%.",
+"2,5%."
+],
+"c": 4,
+"e": "Lead time: 4 × 8 × 60 = 1.920 minutos. Índice = 48 ÷ 1.920 = 0,025 = 2,5%. O resto do tempo é espera.",
+"l": "Ferramenta 3: mapa do fluxo de valor (VSM)",
+"calc": true
+},
+{
+"id": "m2a2-4",
+"t": "No BPMN, a comunicação entre dois participantes diferentes, como a empresa e o cliente, é representada por:",
+"o": [
+"fluxo de mensagem, em linha cheia dentro da mesma raia.",
+"fluxo de sequência, em linha cheia entre pools.",
+"fluxo de mensagem, em linha tracejada entre pools.",
+"gateway exclusivo, em losango com X.",
+"evento de fim, em círculo de borda grossa."
+],
+"c": 2,
+"e": "Fluxo de sequência (linha cheia) fica dentro de um pool. Fluxo de mensagem (tracejado) só liga pools diferentes.",
+"l": "Ferramenta 4: BPMN"
+},
+{
+"id": "m2a2-5",
+"t": "Para otimizar um processo, a ordem ECRS recomenda as ações, da mais forte para a mais fraca:",
+"o": [
+"simplificar, combinar, reorganizar, eliminar.",
+"combinar, eliminar, simplificar, reorganizar.",
+"reorganizar, simplificar, eliminar, combinar.",
+"eliminar, combinar, reorganizar, simplificar.",
+"eliminar, simplificar, combinar, reorganizar."
+],
+"c": 3,
+"e": "ECRS = Eliminar, Combinar, Reorganizar, Simplificar. Primeiro pergunte se a etapa precisa existir.",
+"l": "Analisar e otimizar"
+},
+{
+"id": "m2a2-6",
+"t": "Ao mapear o atendimento de pedidos, a equipe classificou a atividade \"emitir nota fiscal\". A classificação e a ação corretas são:",
+"o": [
+"agrega valor; manter e fazer bem.",
+"não agrega valor, mas é necessária; reduzir ao mínimo.",
+"desperdício; eliminar.",
+"agrega valor; automatizar imediatamente.",
+"desperdício; terceirizar."
+],
+"c": 1,
+"e": "O cliente não paga pela nota, mas ela é exigência legal. Atividades necessárias que não agregam valor são reduzidas ao mínimo, não eliminadas.",
+"l": "Analisar e otimizar"
+},
+{
+"id": "m2a2-7",
+"t": "Sobre a forma correta de mapear um processo, assinale a alternativa adequada.",
+"o": [
+"Desenhar primeiro o estado futuro, para orientar a equipe.",
+"Começar pela solução e depois definir onde o processo começa e termina.",
+"Usar o VSM apenas para o fluxo de materiais, ignorando o de informações.",
+"Ir ao local (gemba) e desenhar o estado atual como ele realmente acontece, antes do estado futuro.",
+"Mapear com base no procedimento escrito, sem ir ao local."
+],
+"c": 3,
+"e": "A sequência é: definir limites, ir ao gemba, desenhar o atual como é, analisar, desenhar o futuro, planejar. O VSM mostra material e informação.",
+"l": "Como se mapeia, passo a passo"
+}
+],
+"m2a3": [
+{
+"id": "m2a3-1",
+"t": "Um turno de 8 horas tem 1 hora de pausas. A demanda é de 840 peças por turno. O takt time é:",
+"o": [
+"20 segundos.",
+"30 segundos.",
+"34 segundos.",
+"40 segundos.",
+"60 segundos."
+],
+"c": 1,
+"e": "Tempo disponível: 7 h = 420 min = 25.200 s. Takt = 25.200 ÷ 840 = 30 s. A letra C (34 s) usa as 8 horas sem descontar as pausas.",
+"l": "Pilar 1: Just in Time (JIT)",
+"calc": true
+},
+{
+"id": "m2a3-2",
+"t": "Numa linha, a soma dos tempos de ciclo de todos os postos é 250 segundos e o takt time é 60 segundos. O número mínimo de operadores é:",
+"o": [
+"4.",
+"4,17.",
+"3.",
+"6.",
+"5."
+],
+"c": 4,
+"e": "250 ÷ 60 = 4,17. Arredonda-se sempre para cima: 5 operadores. Com 4 não dá tempo, e não existe fração de pessoa.",
+"l": "Pilar 1: Just in Time (JIT)",
+"calc": true
+},
+{
+"id": "m2a3-3",
+"t": "Demanda de 60 peças por hora, tempo de reposição de 3 horas, margem de segurança de 20% e caixas de 24 peças. O número de kanbans é:",
+"o": [
+"7,5.",
+"9.",
+"8.",
+"10.",
+"12."
+],
+"c": 1,
+"e": "60 × 3 = 180. Com segurança: 180 × 1,2 = 216. Em caixas: 216 ÷ 24 = 9. A letra A (7,5) esquece a margem de segurança.",
+"l": "Pilar 1: Just in Time (JIT)",
+"calc": true
+},
+{
+"id": "m2a3-4",
+"t": "Na representação do Sistema Toyota de Produção como uma casa, os dois pilares são:",
+"o": [
+"heijunka e trabalho padronizado.",
+"kaizen e 5S.",
+"kanban e andon.",
+"SMED e TPM.",
+"Just in Time e Jidoka."
+],
+"c": 4,
+"e": "Pilares: Just in Time e Jidoka. Heijunka, estabilidade e padronização formam a base, uma troca que a FGV adora.",
+"l": "A casa Toyota"
+},
+{
+"id": "m2a3-5",
+"t": "O principal objetivo do SMED (troca rápida de ferramenta) é:",
+"o": [
+"substituir operadores por robôs na troca de ferramentas.",
+"converter setup interno em externo e reduzir o tempo com a máquina parada.",
+"aumentar o tamanho dos lotes para diluir o setup.",
+"eliminar o setup externo, feito com a máquina produzindo.",
+"fazer todas as trocas no fim do turno."
+],
+"c": 1,
+"e": "Setup interno exige a máquina parada; o externo pode ser feito com ela produzindo. O SMED leva o máximo para o externo, permitindo lotes menores.",
+"l": "Outras ferramentas Lean que caem"
+},
+{
+"id": "m2a3-6",
+"t": "Um encaixe que só permite montar a peça na posição correta, tornando o erro impossível, é exemplo de:",
+"o": [
+"andon.",
+"heijunka.",
+"kanban.",
+"takt time.",
+"poka-yoke."
+],
+"c": 4,
+"e": "Poka-yoke = à prova de erro. Andon é o alerta visual de que uma estação parou. Os dois estão ligados ao Jidoka.",
+"l": "Pilar 2: Jidoka (autonomação)"
+},
+{
+"id": "m2a3-7",
+"t": "A sequência correta dos cinco princípios do pensamento enxuto, segundo Womack e Jones, é:",
+"o": [
+"fluxo contínuo, valor, perfeição, produção puxada, fluxo de valor.",
+"produção puxada, valor, fluxo de valor, perfeição, fluxo contínuo.",
+"valor, perfeição, fluxo contínuo, fluxo de valor, produção puxada.",
+"valor, fluxo de valor, fluxo contínuo, produção puxada, perfeição.",
+"fluxo de valor, valor, produção puxada, fluxo contínuo, perfeição."
+],
+"c": 3,
+"e": "Primeiro se define o que o cliente valoriza, depois se mapeia o fluxo, faz-se o produto andar sem paradas, puxa-se pela demanda e busca-se a perfeição.",
+"l": "Os 5 princípios do Lean"
+},
+{
+"id": "m2a3-8",
+"t": "Analise as afirmativas.\nI. O takt time é definido pela capacidade da máquina mais lenta.\nII. O posto com tempo de ciclo maior que o takt é o gargalo da linha.\nIII. O kanban é uma ferramenta de produção puxada.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: o takt vem da demanda (tempo disponível ÷ demanda). O que depende da máquina é o tempo de ciclo. II e III estão certas.",
+"l": "Pilar 1: Just in Time (JIT)"
+}
+],
+"m2a4": [
+{
+"id": "m2a4-1",
+"t": "Demanda anual de 4.500 unidades, custo de cada pedido de R$ 40 e custo de manter uma unidade por ano de R$ 4. O lote econômico de compra é:",
+"o": [
+"150 unidades.",
+"212 unidades.",
+"900 unidades.",
+"300 unidades.",
+"450 unidades."
+],
+"c": 3,
+"e": "LEC = raiz de (2 × 4.500 × 40 ÷ 4) = raiz de (360.000 ÷ 4) = raiz de 90.000 = 300.",
+"l": "Lote econômico de compra (LEC)",
+"calc": true
+},
+{
+"id": "m2a4-2",
+"t": "Demanda anual de 1.000 unidades, custo por pedido de R$ 50, preço unitário de R$ 40 e custo anual de manter de 25% do preço. O lote econômico é:",
+"o": [
+"50 unidades.",
+"100 unidades.",
+"200 unidades.",
+"400 unidades.",
+"632 unidades."
+],
+"c": 1,
+"e": "Primeiro H = 0,25 × 40 = R$ 10. LEC = raiz de (2 × 1.000 × 50 ÷ 10) = raiz de 10.000 = 100. A letra A usa H = 40 (o preço), e a E usa H = 0,25.",
+"l": "Lote econômico de compra (LEC)",
+"calc": true
+},
+{
+"id": "m2a4-3",
+"t": "Um item tem consumo de 30 unidades por dia, o fornecedor entrega em 6 dias e o estoque de segurança é de 45 unidades. O ponto de pedido é:",
+"o": [
+"135 unidades.",
+"180 unidades.",
+"225 unidades.",
+"255 unidades.",
+"270 unidades."
+],
+"c": 2,
+"e": "Ponto de pedido = 30 × 6 + 45 = 180 + 45 = 225. A letra B (180) esquece o estoque de segurança.",
+"l": "Ponto de pedido e estoque de segurança",
+"calc": true
+},
+{
+"id": "m2a4-4",
+"t": "Uma máquina tem capacidade projetada de 160 h por semana, efetiva de 128 h e realizada de 96 h. A utilização e a eficiência são, respectivamente:",
+"o": [
+"75% e 60%.",
+"75% e 80%.",
+"80% e 60%.",
+"60% e 80%.",
+"60% e 75%."
+],
+"c": 4,
+"e": "Utilização = realizada ÷ projetada = 96 ÷ 160 = 60%. Eficiência = realizada ÷ efetiva = 96 ÷ 128 = 75%. A eficiência é sempre maior ou igual à utilização.",
+"l": "Parte 2: capacidade",
+"calc": true
+},
+{
+"id": "m2a4-5",
+"t": "Uma linha tem três etapas em sequência, com capacidades de 60, 45 e 50 peças por hora. A empresa investe para elevar a terceira etapa para 70 peças por hora. A produção do sistema passa a ser:",
+"o": [
+"70 peças por hora.",
+"60 peças por hora.",
+"45 peças por hora.",
+"55 peças por hora.",
+"50 peças por hora."
+],
+"c": 2,
+"e": "O sistema produz o que o gargalo produz: a segunda etapa, com 45. Melhorar uma etapa que não é gargalo não muda nada.",
+"l": "Parte 2: capacidade"
+},
+{
+"id": "m2a4-6",
+"t": "Na classificação ABC de estoques, o critério para ordenar os itens é:",
+"o": [
+"a quantidade de unidades em estoque.",
+"o preço unitário de cada item.",
+"o prazo de entrega do fornecedor.",
+"o número de pedidos feitos no ano.",
+"o valor consumido no período (quantidade × preço)."
+],
+"c": 4,
+"e": "A curva ABC ordena pelo valor consumido. Itens A (poucos, muito valor) recebem controle rigoroso; itens C, controle simples.",
+"l": "Curva ABC: onde concentrar a atenção"
+},
+{
+"id": "m2a4-7",
+"t": "Uma marcenaria faz móveis sob encomenda. As máquinas estão agrupadas por tipo (setor de corte, setor de lixamento, setor de pintura), e cada pedido percorre os setores de que precisa. Esse arranjo é o layout:",
+"o": [
+"em linha de montagem.",
+"funcional (por processo).",
+"celular.",
+"posicional.",
+"linear (por produto)."
+],
+"c": 1,
+"e": "Máquinas agrupadas por função = layout funcional: flexível para alta variedade, mas com fluxo confuso e muito transporte. Linha de montagem é layout linear.",
+"l": "Parte 3: layout (arranjo físico)"
+}
+],
+"m2a5": [
+{
+"id": "m2a5-1",
+"t": "Uma equipe aplicou o PDCA e, na etapa de checagem, verificou que a meta foi atingida. O passo seguinte é:",
+"o": [
+"encerrar o ciclo, pois o problema foi resolvido.",
+"voltar à etapa P e redefinir a meta para o mesmo problema.",
+"padronizar a solução e manter o ciclo girando (SDCA para manter, PDCA para melhorar).",
+"descartar os registros, que não serão mais usados.",
+"repetir a etapa D até a meta ser superada em 20%."
+],
+"c": 2,
+"e": "Na etapa A, se a meta foi batida, padroniza-se. O ciclo não acaba: o SDCA mantém o resultado e o PDCA segue buscando melhorias.",
+"l": "PDCA: o método da melhoria contínua"
+},
+{
+"id": "m2a5-2",
+"t": "No 5S, o senso que define um lugar para cada coisa, de modo que seja fácil achar e guardar, é:",
+"o": [
+"Seiri (utilização).",
+"Seiso (limpeza).",
+"Seiton (ordenação).",
+"Seiketsu (padronização).",
+"Shitsuke (disciplina)."
+],
+"c": 2,
+"e": "Ordem: utilização (separar o necessário), ordenação (um lugar para cada coisa), limpeza, padronização e disciplina. A FGV troca Seiton com Seiso.",
+"l": "5S: a base de tudo"
+},
+{
+"id": "m2a5-3",
+"t": "Relacione o momento do PDCA à ferramenta.\n1. Priorizar o problema\n2. Achar a causa raiz\n3. Montar o plano de ação\n( ) 5W2H  ( ) Pareto  ( ) 5 porquês\nA sequência correta é:",
+"o": [
+"1, 2, 3.",
+"3, 1, 2.",
+"3, 2, 1.",
+"2, 3, 1.",
+"2, 1, 3."
+],
+"c": 1,
+"e": "5W2H monta o plano (3); Pareto prioriza (1); 5 porquês acha a causa raiz (2). Sequência: 3, 1, 2.",
+"l": "Ferramentas da qualidade usadas no PDCA"
+},
+{
+"id": "m2a5-4",
+"t": "No diagrama de Ishikawa, as causas costumam ser organizadas nos 6M. NÃO é uma dessas categorias:",
+"o": [
+"mão de obra.",
+"marketing.",
+"material.",
+"medida.",
+"método."
+],
+"c": 1,
+"e": "Os 6M são método, máquina, mão de obra, material, meio ambiente e medida. Marketing e motivação são \"M\" inventados que a FGV coloca como pegadinha.",
+"l": "Ferramentas da qualidade usadas no PDCA"
+},
+{
+"id": "m2a5-5",
+"t": "Sobre o kaizen, é correto afirmar que:",
+"o": [
+"envolve pequenas melhorias contínuas, de baixo custo, com a participação de todos.",
+"depende de grandes investimentos em tecnologia.",
+"é conduzido apenas por especialistas, em projetos pontuais.",
+"substitui a inovação, tornando-a desnecessária.",
+"acontece principalmente pela análise de relatórios gerenciais, longe do gemba."
+],
+"c": 0,
+"e": "Kaizen = pequenos passos, baratos, constantes, com todos, no gemba. A inovação (kairyo) dá grandes saltos; as duas se completam.",
+"l": "Kaizen: melhorar um pouco todos os dias"
+},
+{
+"id": "m2a5-6",
+"t": "Num projeto Seis Sigma, a fase do DMAIC em que a equipe coleta dados do processo atual para conhecer o desempenho de partida é:",
+"o": [
+"Definir.",
+"Controlar.",
+"Analisar.",
+"Implementar melhorias.",
+"Medir."
+],
+"c": 4,
+"e": "Definir = problema, meta e escopo; Medir = coletar dados do processo atual; Analisar = achar causas; Implementar; Controlar = manter o ganho.",
+"l": "Seis Sigma e DMAIC"
+},
+{
+"id": "m2a5-7",
+"t": "Num plano 5W2H, a informação \"R$ 30 por mês em material\" responde à pergunta:",
+"o": [
+"What (o quê).",
+"Why (por quê).",
+"How much (quanto custa).",
+"How (como).",
+"When (quando)."
+],
+"c": 2,
+"e": "How = como fazer; How much = quanto custa. Confundir os dois é uma pegadinha comum.",
+"l": "Ferramentas da qualidade usadas no PDCA"
+}
+],
+"m2a6": [
+{
+"id": "m2a6-1",
+"t": "Uma refinaria de petróleo opera 24 horas por dia, com fluxo ininterrupto de material e variedade muito baixa. Seu tipo de processo é:",
+"o": [
+"projeto.",
+"contínuo.",
+"jobbing.",
+"em massa.",
+"em lotes."
+],
+"c": 1,
+"e": "Fluxo ininterrupto, volume muito alto e variedade muito baixa = processo contínuo. Dizer que refinaria é \"em massa\" é a pegadinha.",
+"l": "Parte 1: os cinco tipos de processo produtivo"
+},
+{
+"id": "m2a6-2",
+"t": "Uma ferramentaria produz moldes pequenos sob medida, cada um diferente, usando máquinas de uso geral. O tipo de processo é:",
+"o": [
+"jobbing (sob encomenda).",
+"em massa.",
+"em lotes.",
+"projeto.",
+"contínuo."
+],
+"c": 0,
+"e": "No jobbing, peças pequenas e únicas circulam por máquinas de uso geral. No projeto, o produto é grande e fica parado (navio, ponte).",
+"l": "Parte 1: os cinco tipos de processo produtivo"
+},
+{
+"id": "m2a6-3",
+"t": "A demanda de quatro meses é 50, 70, 90 e 110 unidades. Com produção nivelada e estoque inicial zero, o estoque ao fim do segundo mês é:",
+"o": [
+"10 unidades.",
+"30 unidades.",
+"40 unidades.",
+"20 unidades.",
+"60 unidades."
+],
+"c": 2,
+"e": "Média: 320 ÷ 4 = 80 por mês. Mês 1: 0 + 80 − 50 = 30. Mês 2: 30 + 80 − 70 = 40.",
+"l": "Parte 2: estratégias do plano agregado",
+"calc": true
+},
+{
+"id": "m2a6-4",
+"t": "Sobre as estratégias do plano agregado, é correto afirmar que:",
+"o": [
+"a produção nivelada reduz o estoque ao mínimo.",
+"o plano misto é proibido na prática.",
+"gerenciar a demanda significa produzir sempre a média.",
+"a produção nivelada exige contratar e demitir com frequência.",
+"acompanhar a demanda (chase) usa horas extras, temporários ou terceirização e quase não gera estoque."
+],
+"c": 4,
+"e": "Nivelada = produção constante e estoque variável (o estoque é o pulmão). Chase = produção variável e estoque mínimo. Gerenciar a demanda = mudar a própria demanda (promoção, preço).",
+"l": "Parte 2: estratégias do plano agregado"
+},
+{
+"id": "m2a6-5",
+"t": "Num sistema de revisão periódica, o nível máximo é de 800 unidades. Na data da revisão, há 350 unidades em estoque. A quantidade a pedir é:",
+"o": [
+"450.",
+"400.",
+"800.",
+"350.",
+"1.150."
+],
+"c": 0,
+"e": "Sistema P: pedido = nível máximo − estoque atual = 800 − 350 = 450.",
+"l": "Parte 3: revisão contínua x revisão periódica",
+"calc": true
+},
+{
+"id": "m2a6-6",
+"t": "Analise as afirmativas sobre os sistemas de reposição.\nI. No sistema Q (revisão contínua), a quantidade pedida é fixa e a data varia.\nII. O sistema P (revisão periódica) precisa de menos estoque de segurança que o Q.\nIII. O sistema P é adequado a itens C ou a vários itens comprados do mesmo fornecedor.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"I e III, apenas.",
+"II e III, apenas."
+],
+"c": 3,
+"e": "II é falsa: o sistema P precisa de mais estoque de segurança, porque deve cobrir todo o intervalo entre revisões.",
+"l": "Parte 3: revisão contínua x revisão periódica"
+},
+{
+"id": "m2a6-7",
+"t": "Uma empresa só amplia a fábrica depois que a demanda já cresceu. Usa bem as máquinas, mas perde vendas no caminho. Essa estratégia de capacidade é chamada de:",
+"o": [
+"antecipar (lead).",
+"produção nivelada.",
+"acompanhar (match).",
+"seguir (lag).",
+"gerenciar a demanda."
+],
+"c": 3,
+"e": "Antecipar = ampliar antes (sobra capacidade). Seguir = ampliar depois (falta capacidade por um tempo). Acompanhar = em pequenos passos.",
+"l": "Parte 2: estratégias do plano agregado"
+}
+]
+}

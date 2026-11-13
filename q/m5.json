@@ -1,0 +1,1126 @@
+{
+"m5a1": [
+{
+"id": "m5a1-1",
+"t": "Uma rede de lojas exige que seus fornecedores de móveis tenham certificado ISO 9001. Sobre essa certificação, é correto afirmar que:",
+"o": [
+"certifica a qualidade de cada produto fabricado.",
+"é obrigatória por lei para empresas que vendem a grandes redes.",
+"certifica o sistema de gestão da qualidade da empresa e é voluntária, embora possa ser exigida em contrato.",
+"é concedida pela ISO, em Genebra, após auditoria anual.",
+"dispensa auditorias depois de emitida."
+],
+"c": 2,
+"e": "O certificado é do sistema de gestão, não do produto. É voluntário: nenhuma lei obriga, mas o cliente pode exigir. Quem audita e certifica é um organismo certificador, com auditorias de manutenção.",
+"l": "Certificação e auditorias"
+},
+{
+"id": "m5a1-2",
+"t": "Os princípios de gestão da qualidade, como foco no cliente e liderança, estão descritos na norma:",
+"o": [
+"ISO 9001, que é a norma certificável.",
+"ISO 14001, que trata de gestão ambiental.",
+"ISO 9000, que traz fundamentos e vocabulário.",
+"ISO 19011, que trata de auditorias.",
+"ISO 45001, que trata de saúde e segurança."
+],
+"c": 2,
+"e": "Os 7 princípios estão na ISO 9000. A 9001 traz os requisitos (os \"deve\" que o auditor confere) e é a única certificável da família. A 19011 orienta as auditorias.",
+"l": "O que é qualidade e o que é um SGQ"
+},
+{
+"id": "m5a1-3",
+"t": "Uma fábrica detectou peças com medida errada e as retrabalhou. Não fez mais nada. Segundo a ISO 9001, a empresa realizou:",
+"o": [
+"uma ação corretiva, pois eliminou o problema.",
+"uma auditoria interna.",
+"uma análise crítica pela direção.",
+"uma ação preventiva.",
+"apenas uma correção, pois tratou o efeito e não a causa."
+],
+"c": 4,
+"e": "Correção apaga o incêndio (retrabalhar as peças). Ação corretiva investiga e elimina a causa para o problema não voltar.",
+"l": "Correção, ação corretiva e mentalidade de risco"
+},
+{
+"id": "m5a1-4",
+"t": "Na ISO 9001:2015, a expressão \"informação documentada\" substituiu \"documentos e registros\". Nesse contexto, a ficha de inspeção preenchida, que serve de evidência do que foi feito, é informação documentada:",
+"o": [
+"retida.",
+"mantida.",
+"controlada pela direção.",
+"externa.",
+"dispensável."
+],
+"c": 0,
+"e": "Manter = documento que pode mudar (um procedimento). Reter = registro, a evidência do que foi feito.",
+"l": "As 10 cláusulas e o ciclo PDCA"
+},
+{
+"id": "m5a1-5",
+"t": "Analise as afirmativas sobre a ISO 9001:2015.\nI. Exige um manual da qualidade e um representante da direção.\nII. Usa a mesma estrutura de 10 cláusulas da ISO 14001 e da ISO 45001.\nIII. Na cláusula de contexto, a empresa identifica questões internas e externas e as partes interessadas.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: a versão 2015 deixou de exigir o manual e o representante da direção; a responsabilidade passou para a liderança. II e III estão certas.",
+"l": "As 10 cláusulas e o ciclo PDCA"
+},
+{
+"id": "m5a1-6",
+"t": "O autor da qualidade associado à ideia de \"zero defeito\" e de fazer certo da primeira vez é:",
+"o": [
+"Deming.",
+"Juran.",
+"Crosby.",
+"Feigenbaum.",
+"Garvin."
+],
+"c": 2,
+"e": "Crosby: conformidade aos requisitos, zero defeito. Juran: trilogia e adequação ao uso. Feigenbaum: TQC. Garvin: 8 dimensões. Deming: PDCA e 14 pontos.",
+"l": "Os autores da qualidade"
+},
+{
+"id": "m5a1-7",
+"t": "\"Qualidade é adequação ao uso\" e a gestão da qualidade se dá por planejamento, controle e melhoria. Essas ideias são de:",
+"o": [
+"Shewhart.",
+"Ishikawa.",
+"Feigenbaum.",
+"Crosby.",
+"Juran."
+],
+"c": 4,
+"e": "É a trilogia de Juran. Ishikawa ficou conhecido pelo diagrama de causa e efeito e pelos CCQ; Shewhart criou o ciclo que Deming espalhou.",
+"l": "Os autores da qualidade"
+}
+],
+"m5a2": [
+{
+"id": "m5a2-1",
+"t": "Um eixo deve ter 10,0 ± 0,3 mm. O desvio-padrão do processo é 0,05 mm e a média está em 10,1 mm. Os valores de Cp e Cpk são, respectivamente:",
+"o": [
+"1,00 e 1,00.",
+"1,33 e 2,00.",
+"2,00 e 2,00.",
+"2,00 e 1,33.",
+"2,00 e 2,67."
+],
+"c": 3,
+"e": "Cp = (10,3 − 9,7) ÷ (6 × 0,05) = 0,6 ÷ 0,3 = 2,0. Cpk = menor entre (10,3 − 10,1) ÷ 0,15 = 1,33 e (10,1 − 9,7) ÷ 0,15 = 2,67, ou seja, 1,33. Cpk menor que Cp: a média saiu do centro.",
+"l": "Capabilidade do processo: Cp e Cpk",
+"calc": true
+},
+{
+"id": "m5a2-2",
+"t": "Um processo tem especificação de 50 ± 6 g e desvio-padrão de 1 g, com média exatamente em 50 g. O Cp é:",
+"o": [
+"6,0.",
+"1,0.",
+"1,33.",
+"0,5.",
+"2,0."
+],
+"c": 4,
+"e": "Cp = (56 − 44) ÷ (6 × 1) = 12 ÷ 6 = 2,0. Como a média está centrada, Cpk = Cp = 2,0.",
+"l": "Capabilidade do processo: Cp e Cpk",
+"calc": true
+},
+{
+"id": "m5a2-3",
+"t": "Na carta de controle, um ponto fora dos limites indica, quase sempre:",
+"o": [
+"causa comum, que só diminui mudando o processo.",
+"que o limite de especificação foi mal definido.",
+"que o processo é incapaz.",
+"variação natural, que deve ser ignorada.",
+"causa especial, que deve ser investigada e eliminada."
+],
+"c": 4,
+"e": "Com os limites a 3σ, cerca de 99,73% dos pontos de um processo estável ficam dentro. Um ponto fora é sinal de causa especial (assinalável).",
+"l": "CEP: causas comuns e causas especiais"
+},
+{
+"id": "m5a2-4",
+"t": "Sobre controle estatístico de processo, é correto afirmar que:",
+"o": [
+"um processo pode estar sob controle e, ainda assim, fabricar peças fora da especificação.",
+"o limite de controle é definido pelo cliente.",
+"um processo estável é aquele sem nenhuma variação.",
+"o Cp detecta se a média saiu do centro.",
+"um processo sob controle sempre produz dentro da especificação."
+],
+"c": 0,
+"e": "Limite de controle = voz do processo (calculado com os dados). Limite de especificação = voz do cliente. Estar sob controle (estável) não é o mesmo que ser capaz.",
+"l": "CEP: causas comuns e causas especiais"
+},
+{
+"id": "m5a2-5",
+"t": "Uma fábrica quer acompanhar o número de manchas por rolo de tecido, sempre com rolos do mesmo tamanho. A carta de controle adequada é a:",
+"o": [
+"carta X̄ e R.",
+"carta p.",
+"carta np.",
+"carta c.",
+"carta u."
+],
+"c": 3,
+"e": "Número de defeitos numa mesma área ou unidade = carta c. A u é para defeitos por unidade com tamanho variável; p e np são para defeituosos.",
+"l": "CEP: causas comuns e causas especiais"
+},
+{
+"id": "m5a2-6",
+"t": "Três problemas receberam notas na matriz GUT: X (G 4, U 4, T 2), Y (G 3, U 3, T 5) e Z (G 5, U 2, T 3). A ordem de prioridade é:",
+"o": [
+"Y, X, Z.",
+"Y, Z, X.",
+"Z, X, Y.",
+"X, Z, Y.",
+"X, Y, Z."
+],
+"c": 0,
+"e": "Multiplica-se: X = 4 × 4 × 2 = 32; Y = 3 × 3 × 5 = 45; Z = 5 × 2 × 3 = 30. Ordem: Y, X, Z. Somando (erro comum), X e Y empatariam com 10 e 11.",
+"l": "Ferramentas de gestão que caem junto",
+"calc": true
+},
+{
+"id": "m5a2-7",
+"t": "O diagrama de dispersão mostrou que, quanto maior a temperatura do forno, maior o número de peças trincadas. A conclusão correta é que:",
+"o": [
+"a temperatura causa as trincas, com certeza.",
+"as duas variáveis estão correlacionadas, o que não prova, sozinho, uma relação de causa.",
+"o processo está fora de controle estatístico.",
+"o Pareto deveria ter sido usado no lugar.",
+"o processo é incapaz."
+],
+"c": 1,
+"e": "Dispersão mostra correlação (andar junto). Causa precisa de outras evidências.",
+"l": "As 7 ferramentas básicas"
+},
+{
+"id": "m5a2-8",
+"t": "Sobre o MASP (Método de Análise e Solução de Problemas), é correto afirmar que:",
+"o": [
+"tem 5 passos, iguais aos do DMAIC.",
+"é uma ferramenta de priorização, como a GUT.",
+"dispensa a análise de causas.",
+"termina obrigatoriamente na etapa de execução.",
+"seus 4 primeiros passos são de planejamento, e a verificação manda voltar à observação se o problema continuar."
+],
+"c": 4,
+"e": "O MASP é o PDCA detalhado em 8 passos: identificação, observação, análise e plano de ação são todos do P.",
+"l": "MASP: Método de Análise e Solução de Problemas"
+}
+],
+"m5a3": [
+{
+"id": "m5a3-1",
+"t": "Uma linha produziu 2.000 peças: 1.700 saíram boas direto, 200 foram retrabalhadas e aprovadas e 100 viraram refugo. O FPY (rendimento na primeira passagem) e o rendimento final são, respectivamente:",
+"o": [
+"80% e 95%.",
+"95% e 85%.",
+"85% e 90%.",
+"90% e 95%.",
+"85% e 95%."
+],
+"c": 4,
+"e": "FPY = 1.700 ÷ 2.000 = 85%. Rendimento final = (1.700 + 200) ÷ 2.000 = 95%. A diferença é a perda escondida pelo retrabalho.",
+"l": "Indicadores de qualidade, custo, produtividade e eficiência",
+"calc": true
+},
+{
+"id": "m5a3-2",
+"t": "Em 1.000 horas, uma máquina funcionou 900 horas, teve 10 falhas e passou 100 horas em reparo. O MTBF, o MTTR e a disponibilidade são:",
+"o": [
+"MTBF 100 h, MTTR 10 h, disponibilidade 90%.",
+"MTBF 90 h, MTTR 100 h, disponibilidade 47%.",
+"MTBF 90 h, MTTR 10 h, disponibilidade 90%.",
+"MTBF 10 h, MTTR 90 h, disponibilidade 10%.",
+"MTBF 90 h, MTTR 10 h, disponibilidade 89%."
+],
+"c": 2,
+"e": "MTBF = 900 ÷ 10 = 90 h. MTTR = 100 ÷ 10 = 10 h. Disponibilidade = 90 ÷ (90 + 10) = 90%.",
+"l": "Indicadores de manutenção: MTBF, MTTR e disponibilidade",
+"calc": true
+},
+{
+"id": "m5a3-3",
+"t": "Num turno com 400 minutos planejados, a máquina operou 360 minutos. O ciclo ideal é de 0,5 minuto por peça; foram produzidas 600 peças, das quais 570 boas. O OEE é de aproximadamente:",
+"o": [
+"95%.",
+"90%.",
+"83%.",
+"64%.",
+"71%."
+],
+"c": 4,
+"e": "Atalho: OEE = (peças boas × ciclo ideal) ÷ tempo planejado = (570 × 0,5) ÷ 400 = 285 ÷ 400 = 71,25%. Conferindo: disponibilidade 90% × desempenho 83,3% × qualidade 95% ≈ 71%.",
+"l": "OEE: Eficiência Global do Equipamento",
+"calc": true
+},
+{
+"id": "m5a3-4",
+"t": "Uma empresa instalou sensores de vibração nos motores e só faz a intervenção quando os sinais indicam desgaste. Esse tipo de manutenção é a:",
+"o": [
+"corretiva planejada.",
+"preditiva.",
+"preventiva.",
+"detectiva.",
+"engenharia de manutenção."
+],
+"c": 1,
+"e": "Preditiva segue a condição do equipamento; preventiva segue o calendário, mesmo com a peça boa.",
+"l": "Gestão da manutenção: os tipos"
+},
+{
+"id": "m5a3-5",
+"t": "Uma máquina está funcionando, mas abaixo do ritmo ideal por causa de um ajuste malfeito. No OEE, essa perda afeta o índice de:",
+"o": [
+"disponibilidade.",
+"qualidade.",
+"refugo.",
+"MTTR.",
+"desempenho."
+],
+"c": 4,
+"e": "Velocidade reduzida e pequenas paradas são perdas de desempenho. Quebras e setup afetam a disponibilidade; defeitos afetam a qualidade.",
+"l": "TPM: Manutenção Produtiva Total"
+},
+{
+"id": "m5a3-6",
+"t": "No modelo de custos da qualidade, o gasto com a inspeção de recebimento de matéria-prima é classificado como custo de:",
+"o": [
+"avaliação.",
+"falha externa.",
+"falha interna.",
+"prevenção.",
+"oportunidade."
+],
+"c": 0,
+"e": "Inspeção e ensaios são custos de avaliação. Prevenção é treinamento, planejamento, poka-yoke. Falhas internas: refugo e retrabalho. Falhas externas: garantia e devolução.",
+"l": "Redução de perdas, retrabalho e custos"
+},
+{
+"id": "m5a3-7",
+"t": "Analise as afirmativas sobre a TPM e o OEE.\nI. Na manutenção autônoma, o operador cuida do básico da própria máquina, como limpar, lubrificar e inspecionar.\nII. Três índices de 90% resultam em OEE de 90%.\nIII. Para aumentar a disponibilidade, pode-se elevar o MTBF ou reduzir o MTTR.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: o OEE multiplica os índices, 0,9 × 0,9 × 0,9 = 72,9%.",
+"l": "TPM: Manutenção Produtiva Total"
+}
+],
+"m5a4": [
+{
+"id": "m5a4-1",
+"t": "O termo Indústria 4.0 nasceu:",
+"o": [
+"nos Estados Unidos, com a criação da internet, em 1990.",
+"no Brasil, com a Nova Indústria Brasil.",
+"no Japão, com o Sistema Toyota de Produção.",
+"na China, com o plano Made in China 2025.",
+"na Alemanha, apresentado na Feira de Hannover em 2011."
+],
+"c": 4,
+"e": "Industrie 4.0 foi apresentada em Hannover, em 2011, como estratégia de competitividade da indústria alemã.",
+"l": "As quatro revoluções industriais"
+},
+{
+"id": "m5a4-2",
+"t": "Uma fábrica tem muitos robôs e máquinas CNC, mas nenhum deles troca dados com os outros nem com o sistema de gestão. Do ponto de vista da Indústria 4.0, essa fábrica:",
+"o": [
+"já é 4.0, pois é altamente automatizada.",
+"é 2.0, pois depende de eletricidade.",
+"ainda é essencialmente 3.0, pois o centro da 4.0 é a integração e o uso de dados.",
+"é 4.0 se tiver cobots.",
+"é 4.0 se usar CLP."
+],
+"c": 2,
+"e": "Automação com CLP e robôs é da 3ª revolução. A 4ª é a conexão e a inteligência sobre essa automação.",
+"l": "Pegadinhas da FGV"
+},
+{
+"id": "m5a4-3",
+"t": "A réplica virtual de uma linha de produção, alimentada em tempo real pelos dados da linha real e usada para testar mudanças e prever falhas, é chamada de:",
+"o": [
+"realidade virtual.",
+"simulação estática.",
+"SCADA.",
+"manufatura aditiva.",
+"gêmeo digital."
+],
+"c": 4,
+"e": "O gêmeo digital é atualizado o tempo todo pelo ativo real; a simulação comum usa dados de um momento.",
+"l": "Sistemas ciberfísicos e gêmeo digital"
+},
+{
+"id": "m5a4-4",
+"t": "No chão de fábrica, o equipamento que lê os sinais dos sensores e comanda os atuadores seguindo um programa é o:",
+"o": [
+"IHM.",
+"CLP.",
+"SCADA.",
+"ERP.",
+"atuador."
+],
+"c": 1,
+"e": "CLP = computador industrial que lê sensores e comanda atuadores. IHM é a tela do operador; SCADA supervisiona várias máquinas de uma central.",
+"l": "Automação industrial"
+},
+{
+"id": "m5a4-5",
+"t": "Processar os dados perto da máquina, sem enviar tudo para a nuvem, para reduzir a latência quando a decisão precisa ser imediata, é chamado de:",
+"o": [
+"virtualização.",
+"cloud computing.",
+"edge computing.",
+"integração horizontal.",
+"big data."
+],
+"c": 2,
+"e": "Edge computing (computação de borda) diminui o atraso e o tráfego de rede.",
+"l": "IIoT: Internet Industrial das Coisas"
+},
+{
+"id": "m5a4-6",
+"t": "Uma montadora usa óculos que mostram, sobre a peça real, o próximo passo da montagem. Essa tecnologia é a:",
+"o": [
+"realidade virtual.",
+"realidade aumentada.",
+"manufatura aditiva.",
+"simulação.",
+"robótica colaborativa."
+],
+"c": 1,
+"e": "Realidade aumentada sobrepõe informação à visão real. Realidade virtual cria um ambiente todo simulado.",
+"l": "As 9 tecnologias habilitadoras"
+},
+{
+"id": "m5a4-7",
+"t": "A ligação entre o sensor no chão de fábrica e o sistema de gestão (ERP) da mesma empresa é um exemplo de:",
+"o": [
+"integração horizontal.",
+"manufatura aditiva.",
+"descentralização.",
+"automação fixa.",
+"integração vertical."
+],
+"c": 4,
+"e": "Vertical = níveis da mesma empresa. Horizontal = empresa com fornecedores, clientes e parceiros ao longo da cadeia.",
+"l": "As 9 tecnologias habilitadoras"
+},
+{
+"id": "m5a4-8",
+"t": "Uma linha de envase de refrigerante feita para um único produto, em volume altíssimo, muito eficiente e pouco flexível, usa automação:",
+"o": [
+"programável.",
+"flexível.",
+"descentralizada.",
+"colaborativa.",
+"fixa (rígida)."
+],
+"c": 4,
+"e": "Fixa = um produto, volume altíssimo. Programável = muda quando reprogramada (CNC). Flexível = troca de produto quase sem parar.",
+"l": "Automação industrial"
+},
+{
+"id": "m5a4-9",
+"t": "Entre os princípios da Indústria 4.0, aquele que significa que máquinas e sistemas tomam decisões no próprio local, sem depender de um comando central, é a:",
+"o": [
+"interoperabilidade.",
+"virtualização.",
+"descentralização.",
+"modularidade.",
+"orientação a serviços."
+],
+"c": 2,
+"e": "Interoperabilidade = conversar (trocar dados); virtualização = copiar no virtual; descentralização = decidir no local.",
+"l": "Os 6 princípios"
+},
+{
+"id": "m5a4-10",
+"t": "Numa fábrica, a sala que acompanha toda a linha em tempo real, supervisionando várias máquinas a partir de uma central, usa um sistema:",
+"o": [
+"IHM.",
+"CLP.",
+"ERP.",
+"SCADA.",
+"atuador."
+],
+"c": 3,
+"e": "SCADA supervisiona várias máquinas de uma central. A IHM é a tela de uma máquina; o CLP comanda os atuadores.",
+"l": "Automação industrial"
+}
+],
+"m5a5": [
+{
+"id": "m5a5-1",
+"t": "Numa fábrica, o sistema que mostra em tempo real que a linha 2 parou há 15 minutos, registra os apontamentos de produção e calcula o OEE do turno é o:",
+"o": [
+"ERP.",
+"MES.",
+"CRM.",
+"WMS.",
+"PLM."
+],
+"c": 1,
+"e": "MES = execução do chão de fábrica (turnos, horas, minutos). ERP = planejamento da empresa toda (dias, semanas, meses).",
+"l": "ERP e MES"
+},
+{
+"id": "m5a5-2",
+"t": "Na pirâmide da automação (modelo ISA-95), a sequência correta, do chão de fábrica até a gestão, é:",
+"o": [
+"sensores e atuadores, CLP, SCADA, MES, ERP.",
+"ERP, MES, SCADA, CLP, sensores.",
+"CLP, sensores, MES, SCADA, ERP.",
+"sensores, SCADA, CLP, ERP, MES.",
+"SCADA, sensores, CLP, MES, ERP."
+],
+"c": 0,
+"e": "Cada nível conversa com o vizinho: o sensor manda a medida ao CLP, o CLP ao SCADA, o MES junta a produção e o ERP planeja.",
+"l": "A pirâmide da automação"
+},
+{
+"id": "m5a5-3",
+"t": "Uma fábrica usa um modelo que, a partir dos dados de vibração, indica que o rolamento deve falhar em cerca de 10 dias. Esse tipo de análise é a:",
+"o": [
+"preditiva.",
+"diagnóstica.",
+"descritiva.",
+"prescritiva.",
+"exploratória."
+],
+"c": 0,
+"e": "Preditiva diz o que vai acontecer. Se o modelo também recomendasse a ação (trocar o rolamento na parada de sábado), seria prescritiva.",
+"l": "Os 4 tipos de análise de dados"
+},
+{
+"id": "m5a5-4",
+"t": "Sobre Big Data, é correto afirmar que:",
+"o": [
+"prova relações de causa entre variáveis.",
+"se define apenas pelo grande volume de dados.",
+"é sinônimo de data warehouse.",
+"dispensa a qualidade dos dados.",
+"é caracterizado também pela velocidade e pela variedade dos dados, que superam ferramentas comuns como planilhas."
+],
+"c": 4,
+"e": "Big Data não é só volume: velocidade e variedade também o definem. Data warehouse guarda dados organizados; data lake, dados brutos.",
+"l": "Big Data"
+},
+{
+"id": "m5a5-5",
+"t": "Sobre a relação entre os conceitos de inteligência artificial, é correto afirmar que:",
+"o": [
+"machine learning é parte do deep learning.",
+"IA é parte do machine learning.",
+"deep learning é parte do machine learning, que é parte da IA.",
+"deep learning e machine learning são conceitos independentes da IA.",
+"IA generativa não faz parte da IA."
+],
+"c": 2,
+"e": "Os conjuntos são encaixados: IA ⊃ machine learning ⊃ deep learning.",
+"l": "Inteligência artificial na indústria"
+},
+{
+"id": "m5a5-6",
+"t": "Um sensor que, além de medir, filtra o sinal, faz cálculos simples e envia a informação pronta pela rede é chamado de:",
+"o": [
+"sensor inteligente.",
+"atuador.",
+"CLP.",
+"IHM.",
+"SCADA."
+],
+"c": 0,
+"e": "O sensor inteligente tem processador embutido e é a porta de entrada dos dados na Indústria 4.0.",
+"l": "Sensores inteligentes"
+},
+{
+"id": "m5a5-7",
+"t": "Analise os cuidados no uso de IA na indústria.\nI. Dados de treino desequilibrados podem gerar viés.\nII. Se o modelo usar dados de pessoas, deve-se seguir a LGPD.\nIII. Com IA, a supervisão humana nas decisões importantes se torna dispensável.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"III, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "III é falsa: a IA precisa de supervisão humana nas decisões importantes. E vale o \"lixo entra, lixo sai\".",
+"l": "Inteligência artificial na indústria"
+},
+{
+"id": "m5a5-8",
+"t": "O sistema usado para gerir o armazém e o estoque físico, como endereços de prateleira e separação de pedidos, é o:",
+"o": [
+"WMS.",
+"CRM.",
+"PLM.",
+"APS.",
+"BI."
+],
+"c": 0,
+"e": "WMS = Warehouse Management System. CRM = clientes; PLM = ciclo de vida do produto; APS = programação fina; BI = painéis.",
+"l": "ERP e MES"
+},
+{
+"id": "m5a5-9",
+"t": "Sobre a pirâmide da automação na Indústria 4.0, é correto afirmar que:",
+"o": [
+"ela fica mais \"achatada\": o dado de um sensor pode chegar direto a uma plataforma na nuvem.",
+"ela fica mais rígida, e o dado precisa subir nível por nível.",
+"o ERP passa a comandar diretamente os atuadores.",
+"o MES deixa de existir.",
+"os sensores passam a ficar no topo da pirâmide."
+],
+"c": 0,
+"e": "Na Indústria 4.0, a integração permite que o dado pule níveis, sem subir um a um.",
+"l": "A pirâmide da automação"
+},
+{
+"id": "m5a5-10",
+"t": "Uma linha tem 100 sensores, e cada um faz 5 medições por segundo. Em uma hora, a linha gera:",
+"o": [
+"1,8 milhão de medições.",
+"30 mil medições.",
+"180 mil medições.",
+"500 medições.",
+"18 milhões de medições."
+],
+"c": 0,
+"e": "100 × 5 = 500 por segundo; × 3.600 segundos = 1.800.000. Volume e velocidade são características do Big Data.",
+"l": "Big Data",
+"calc": true
+},
+{
+"id": "m5a5-11",
+"t": "Uma câmera com visão computacional aprova ou reprova peças na saída da linha. Para que o modelo funcione bem, o cuidado mais importante é:",
+"o": [
+"dispensar a supervisão humana desde o primeiro dia.",
+"evitar registrar os erros do modelo.",
+"usar só imagens de peças boas.",
+"treiná-lo com dados de boa qualidade e representativos, pois \"lixo entra, lixo sai\".",
+"trocar a câmera todo mês."
+],
+"c": 3,
+"e": "A IA depende de dados de qualidade; dados desequilibrados (só peças boas) geram viés. Supervisão humana continua necessária.",
+"l": "Inteligência artificial na indústria"
+}
+],
+"m5a6": [
+{
+"id": "m5a6-1",
+"t": "Uma pequena fábrica de Boa Vista passa a usar uma máquina de corte que já é comum em São Paulo há anos. Segundo o Manual de Oslo, essa mudança:",
+"o": [
+"não é inovação, pois a tecnologia não é nova no país.",
+"só será inovação se for patenteada.",
+"é inovação de produto, pois muda o produto final.",
+"é invenção, mas não inovação.",
+"é inovação de processo, pois a novidade pode ser apenas para a empresa."
+],
+"c": 4,
+"e": "Pela 4ª edição do Manual de Oslo, basta ser novo ou bem melhorado para a empresa e estar em uso.",
+"l": "O que é inovação: o Manual de Oslo"
+},
+{
+"id": "m5a6-2",
+"t": "Um laboratório criou um novo processo de soldagem, testou com sucesso e guardou o relatório sem usar. Segundo o Manual de Oslo:",
+"o": [
+"é uma invenção, mas ainda não é inovação, pois não foi posta em uso.",
+"é uma inovação incremental.",
+"é uma inovação radical.",
+"é inovação aberta.",
+"é inovação disruptiva."
+],
+"c": 0,
+"e": "Inovação exige uso (processo) ou chegada ao mercado (produto). Na gaveta, é só invenção.",
+"l": "O que é inovação: o Manual de Oslo"
+},
+{
+"id": "m5a6-3",
+"t": "Uma tecnologia validada em laboratório, mas ainda não testada em ambiente real, está em qual faixa da escala TRL?",
+"o": [
+"TRL 1 a 3, pesquisa.",
+"TRL 4 a 6, desenvolvimento.",
+"TRL 7 a 9, demonstração e mercado.",
+"TRL 10, operação.",
+"TRL 0, ideia."
+],
+"c": 1,
+"e": "TRL 4 a 6: validado em laboratório, depois em ambiente relevante, protótipo demonstrado. A escala vai de 1 a 9 e foi criada pela NASA.",
+"l": "Gestão da inovação: o funil e os portões"
+},
+{
+"id": "m5a6-4",
+"t": "A lei que concede incentivos fiscais às empresas que investem em pesquisa e desenvolvimento é a:",
+"o": [
+"Lei 11.196/2005 (Lei do Bem).",
+"Lei 13.243/2016 (Marco Legal de CT&I).",
+"Lei Complementar 182/2021 (Marco Legal das Startups).",
+"Lei 10.973/2004 (Lei de Inovação).",
+"Lei 11.080/2004."
+],
+"c": 0,
+"e": "Lei do Bem = incentivos fiscais a P&D. A Lei de Inovação cria os NITs e incentiva parcerias; a 13.243 a atualiza.",
+"l": "Gestão da inovação: o funil e os portões"
+},
+{
+"id": "m5a6-5",
+"t": "Segundo Rogers, um fator que acelera a difusão de uma tecnologia é:",
+"o": [
+"a alta complexidade da tecnologia.",
+"a impossibilidade de testá-la antes.",
+"a baixa compatibilidade com o que a empresa já faz.",
+"a observabilidade, ou seja, o resultado ser visível.",
+"o resultado só aparecer muito tempo depois."
+],
+"c": 3,
+"e": "Aceleram a difusão: vantagem relativa, compatibilidade, baixa complexidade, experimentação e observabilidade.",
+"l": "Difusão de tecnologia"
+},
+{
+"id": "m5a6-6",
+"t": "A habilidade de uma empresa de reconhecer o valor de um conhecimento externo, assimilá-lo e aplicá-lo é chamada de:",
+"o": [
+"retrofit.",
+"extensionismo.",
+"spin-off.",
+"inovação disruptiva.",
+"capacidade de absorção."
+],
+"c": 4,
+"e": "Capacidade de absorção (Cohen e Levinthal, 1990). Sem gente preparada, a tecnologia comprada fica parada.",
+"l": "Transferência de tecnologia"
+},
+{
+"id": "m5a6-7",
+"t": "Um grupo de fábricas de móveis concentradas no mesmo município, que fazem compras conjuntas e se articulam com o SENAI, o SEBRAE e o governo local, caracteriza:",
+"o": [
+"uma integração vertical.",
+"uma cadeia produtiva completa.",
+"uma spin-off.",
+"uma simples aglomeração, sem cooperação.",
+"um Arranjo Produtivo Local (APL)."
+],
+"c": 4,
+"e": "APL pede território, mesmo setor e algum vínculo de cooperação e aprendizagem com outros atores locais.",
+"l": "Cadeias produtivas e APLs"
+},
+{
+"id": "m5a6-8",
+"t": "Modernizar uma serra antiga com sensores e CLP, em vez de comprar uma máquina nova, é chamado de:",
+"o": [
+"spin-off.",
+"benchmarking.",
+"retrofit.",
+"licenciamento.",
+"stage-gate."
+],
+"c": 2,
+"e": "Retrofit costuma ser mais barato e é muito usado para digitalizar pequenas fábricas.",
+"l": "Projetos de modernização"
+},
+{
+"id": "m5a6-9",
+"t": "No INPI, a patente de invenção e a de modelo de utilidade valem, contadas do depósito do pedido, respectivamente:",
+"o": [
+"10 e 5 anos.",
+"20 e 15 anos.",
+"20 e 20 anos.",
+"25 e 20 anos.",
+"15 e 10 anos."
+],
+"c": 1,
+"e": "Patente de invenção: 20 anos. Modelo de utilidade: 15 anos.",
+"l": "Gestão da inovação: o funil e os portões"
+},
+{
+"id": "m5a6-10",
+"t": "Segundo Rogers, quando se soma a adoção de uma tecnologia ao longo do tempo, a curva acumulada tem forma de:",
+"o": [
+"linha reta crescente.",
+"sino invertido.",
+"\"U\": cai e depois sobe.",
+"\"S\": começa devagar, acelera e depois satura.",
+"degrau único."
+],
+"c": 3,
+"e": "Os grupos de adotantes formam um sino; a soma acumulada desenha a curva em S.",
+"l": "Difusão de tecnologia"
+}
+],
+"m5a7": [
+{
+"id": "m5a7-1",
+"t": "Com taxa de 10% ao ano, o valor presente de R$ 121,00 recebidos daqui a 2 anos é:",
+"o": [
+"R$ 99,00.",
+"R$ 110,00.",
+"R$ 108,90.",
+"R$ 100,00.",
+"R$ 121,00."
+],
+"c": 3,
+"e": "VP = 121 ÷ (1,10)² = 121 ÷ 1,21 = 100.",
+"l": "O dinheiro vale mais hoje do que amanhã",
+"calc": true
+},
+{
+"id": "m5a7-2",
+"t": "Um projeto exige investimento de R$ 100 mil e gera entradas de R$ 20 mil, R$ 30 mil, R$ 50 mil e R$ 40 mil nos anos 1 a 4. O payback simples é de:",
+"o": [
+"2 anos.",
+"3 anos.",
+"2,5 anos.",
+"3,5 anos.",
+"4 anos."
+],
+"c": 1,
+"e": "Acumulado: 20, 50, 100. O investimento é recuperado no fim do 3º ano.",
+"l": "Payback: em quanto tempo o dinheiro volta",
+"calc": true
+},
+{
+"id": "m5a7-3",
+"t": "Um produto tem preço de R$ 25, custo variável de R$ 15 por unidade e custos fixos de R$ 40 mil por mês. O ponto de equilíbrio é de:",
+"o": [
+"1.000 unidades.",
+"1.600 unidades.",
+"2.667 unidades.",
+"4.000 unidades.",
+"40.000 unidades."
+],
+"c": 3,
+"e": "Margem de contribuição = 25 − 15 = 10. PE = 40.000 ÷ 10 = 4.000 unidades. A letra B divide pelo preço inteiro (40.000 ÷ 25).",
+"l": "Ponto de equilíbrio",
+"calc": true
+},
+{
+"id": "m5a7-4",
+"t": "Calculado na TMA, o VPL de um projeto é positivo. Pode-se concluir que:",
+"o": [
+"a TIR é menor que a TMA.",
+"a TIR é maior que a TMA, e o projeto deve ser aceito.",
+"o projeto tem lucro contábil garantido.",
+"o payback é menor que um ano.",
+"o projeto é indiferente."
+],
+"c": 1,
+"e": "VPL positivo na TMA ⇔ TIR maior que a TMA ⇒ aceitar. VPL não é lucro contábil: é o valor criado acima da TMA.",
+"l": "TIR: a taxa que o projeto rende"
+},
+{
+"id": "m5a7-5",
+"t": "O valor presente das entradas de um projeto é de R$ 150 mil, e o investimento inicial é de R$ 120 mil. O índice de lucratividade e a decisão são:",
+"o": [
+"0,80; rejeitar.",
+"1,00; indiferente.",
+"30; aceitar.",
+"1,25; aceitar.",
+"1,50; aceitar."
+],
+"c": 3,
+"e": "IL = 150 ÷ 120 = 1,25, maior que 1: aceitar. O VPL seria +30 mil.",
+"l": "Resumo dos critérios",
+"calc": true
+},
+{
+"id": "m5a7-6",
+"t": "Sobre os critérios de avaliação de investimentos, é correto afirmar que:",
+"o": [
+"um payback curto garante que o projeto é o melhor.",
+"quanto maior a taxa de desconto, maior o VPL.",
+"para escolher entre projetos excludentes de tamanhos diferentes, deve-se preferir o VPL.",
+"o payback descontado é sempre menor que o simples.",
+"a TIR tem sempre uma única resposta."
+],
+"c": 2,
+"e": "O payback não olha o que vem depois; taxa maior reduz o VPL; o descontado é sempre maior que o simples; a TIR pode ter várias respostas quando o fluxo troca de sinal.",
+"l": "TIR: a taxa que o projeto rende"
+},
+{
+"id": "m5a7-7",
+"t": "Ao mudar apenas a economia anual prevista de 40 para 35 mil reais, o VPL de um projeto passou de positivo para negativo. Essa técnica é a:",
+"o": [
+"avaliação técnica.",
+"análise de cenários.",
+"análise de payback.",
+"análise de sensibilidade.",
+"análise de Pareto."
+],
+"c": 3,
+"e": "Sensibilidade muda uma variável por vez. Cenários mudam várias variáveis juntas (pessimista, provável, otimista).",
+"l": "Avaliação técnica, sensibilidade e cenários"
+},
+{
+"id": "m5a7-8",
+"t": "Um projeto exige R$ 100 mil hoje e devolve R$ 110 mil daqui a 1 ano. Com TMA de 10% ao ano, o VPL e a decisão são:",
+"o": [
+"VPL de +R$ 10 mil; aceitar.",
+"VPL igual a zero; indiferente, pois o projeto rende exatamente a TMA.",
+"VPL de −R$ 10 mil; rejeitar.",
+"VPL de +R$ 1 mil; aceitar.",
+"VPL de +R$ 110 mil; aceitar."
+],
+"c": 1,
+"e": "VP = 110 ÷ 1,10 = 100. VPL = 100 − 100 = 0: a TIR é igual à TMA (10%).",
+"l": "VPL: quanto o projeto cria de valor hoje",
+"calc": true
+},
+{
+"id": "m5a7-9",
+"t": "O valor presente das entradas de um projeto é de R$ 90 mil, e o investimento é de R$ 100 mil. O índice de lucratividade e a decisão são:",
+"o": [
+"1,11; aceitar.",
+"0,90; rejeitar.",
+"1,00; indiferente.",
+"0,10; rejeitar.",
+"10; aceitar."
+],
+"c": 1,
+"e": "IL = 90 ÷ 100 = 0,9, menor que 1: rejeitar (VPL de −10 mil).",
+"l": "Resumo dos critérios",
+"calc": true
+},
+{
+"id": "m5a7-10",
+"t": "Um produto tem preço de R$ 40, custo variável de R$ 25 e custos fixos de R$ 30 mil por mês. Um investimento reduz o custo variável para R$ 20. O ponto de equilíbrio passa de:",
+"o": [
+"2.000 para 1.000 unidades.",
+"1.500 para 2.000 unidades.",
+"750 para 1.000 unidades.",
+"2.000 para 1.500 unidades.",
+"1.200 para 1.500 unidades."
+],
+"c": 3,
+"e": "Antes: 30.000 ÷ (40 − 25) = 2.000. Depois: 30.000 ÷ (40 − 20) = 1.500. Margem maior, ponto de equilíbrio menor.",
+"l": "Ponto de equilíbrio",
+"calc": true
+}
+],
+"m5a8": [
+{
+"id": "m5a8-1",
+"t": "Uma fábrica de esquadrias passou a usar um software de plano de corte que reduz os retalhos de alumínio na origem. Pela lógica da Produção Mais Limpa, essa medida é do:",
+"o": [
+"nível 1, redução na fonte.",
+"nível 2, reciclagem interna.",
+"nível 3, reciclagem externa.",
+"fim de tubo.",
+"tratamento de efluentes."
+],
+"c": 0,
+"e": "Mudar o processo para gerar menos é redução na fonte (nível 1), a prioridade. Refundir na própria fábrica seria nível 2; vender para recicladora, nível 3.",
+"l": "Produção Mais Limpa (P+L)"
+},
+{
+"id": "m5a8-2",
+"t": "Pela Política Nacional de Resíduos Sólidos (Lei 12.305/2010), a ordem de prioridade na gestão de resíduos começa por:",
+"o": [
+"tratamento.",
+"não geração.",
+"reciclagem.",
+"disposição final em aterro.",
+"reutilização."
+],
+"c": 1,
+"e": "Ordem: não geração, redução, reutilização, reciclagem, tratamento e disposição final dos rejeitos. Reciclar é só o 4º passo.",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "m5a8-3",
+"t": "Uma fábrica dobrou a produção, e o total de resíduos gerados subiu 20%. O resíduo por unidade produzida:",
+"o": [
+"caiu 40%.",
+"subiu 10%.",
+"ficou igual.",
+"subiu 20%.",
+"caiu 20%."
+],
+"c": 0,
+"e": "Por unidade: 1,2 ÷ 2 = 0,6 do valor anterior, queda de 40%. O indicador de intensidade pode melhorar mesmo com o total subindo.",
+"l": "Indicadores ambientais",
+"calc": true
+},
+{
+"id": "m5a8-4",
+"t": "Uma fábrica gastava 15.000 kWh para produzir 120 mil peças por mês. Depois de instalar inversores nos motores, passou a gastar 12.000 kWh para a mesma produção. O consumo específico passou de:",
+"o": [
+"0,125 para 0,100 kWh por peça, queda de 20%.",
+"0,125 para 0,100 kWh por peça, queda de 25%.",
+"8 para 10 kWh por peça.",
+"0,100 para 0,125 kWh por peça.",
+"12,5 para 10 kWh por peça, queda de 25%."
+],
+"c": 0,
+"e": "15.000 ÷ 120.000 = 0,125; 12.000 ÷ 120.000 = 0,100. Variação = (0,100 − 0,125) ÷ 0,125 = −20%.",
+"l": "Eficiência energética",
+"calc": true
+},
+{
+"id": "m5a8-5",
+"t": "No inventário de emissões pelo GHG Protocol, o combustível queimado na caldeira da própria fábrica e a eletricidade comprada da distribuidora são, respectivamente, emissões de:",
+"o": [
+"escopo 1 e escopo 3.",
+"escopo 2 e escopo 1.",
+"escopo 3 e escopo 2.",
+"escopo 1 e escopo 2.",
+"escopo 2 e escopo 3."
+],
+"c": 3,
+"e": "Escopo 1 = emissões diretas de fontes da empresa. Escopo 2 = energia comprada. Escopo 3 = demais indiretas da cadeia.",
+"l": "Descarbonização"
+},
+{
+"id": "m5a8-6",
+"t": "Sobre o SBCE, criado pela Lei 15.042/2024, é correto afirmar que:",
+"o": [
+"todas as empresas, de qualquer porte, devem entregar cotas.",
+"o sistema substitui a NDC brasileira.",
+"a produção primária agropecuária é a principal regulada.",
+"a CBE corresponde ao direito de emitir 1.000 tCO2e.",
+"instalações que emitem mais de 10 mil tCO2e por ano devem relatar emissões, e acima de 25 mil tCO2e também devem fazer a conciliação periódica."
+],
+"c": 4,
+"e": "Acima de 10 mil tCO2e: plano de monitoramento e relato; acima de 25 mil: também conciliação. Agro primário fora. CBE = 1 tCO2e.",
+"l": "Descarbonização"
+},
+{
+"id": "m5a8-7",
+"t": "A serragem de uma serraria passa a ser usada como briquete na caldeira de uma cerâmica vizinha. Esse é um exemplo de:",
+"o": [
+"fim de tubo.",
+"disposição final de rejeitos.",
+"logística reversa obrigatória.",
+"simbiose industrial, prática da economia circular.",
+"descarte linear."
+],
+"c": 3,
+"e": "Na simbiose industrial, o resíduo de uma empresa vira insumo de outra.",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "m5a8-8",
+"t": "Analise as afirmativas.\nI. A Produção Mais Limpa é uma estratégia preventiva; o fim de tubo é corretivo.\nII. Eficiência energética significa reduzir a produção para gastar menos energia.\nIII. A ISO 50001 é a norma de sistema de gestão de energia e usa o PDCA.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: eficiência energética é fazer o mesmo trabalho com menos energia, não deixar de produzir.",
+"l": "Eficiência energética"
+},
+{
+"id": "m5a8-9",
+"t": "NÃO é um dos elementos da ecoeficiência segundo o WBCSD:",
+"o": [
+"reduzir a intensidade de energia.",
+"aumentar a reciclabilidade.",
+"aumentar a durabilidade dos produtos.",
+"aumentar a intensidade de materiais.",
+"usar ao máximo recursos renováveis."
+],
+"c": 3,
+"e": "O elemento é REDUZIR a intensidade de materiais. Os 7 elementos: reduzir materiais, energia e tóxicos; aumentar reciclabilidade, uso de renováveis, durabilidade e intensidade de serviço.",
+"l": "Ecoeficiência"
+},
+{
+"id": "m5a8-10",
+"t": "Pela classificação da ABNT NBR 10004, um resíduo não perigoso e inerte, como entulho limpo, é da:",
+"o": [
+"Classe I.",
+"Classe II A.",
+"Classe 0.",
+"Classe II B.",
+"Classe III."
+],
+"c": 3,
+"e": "Classe I = perigosos; Classe II = não perigosos, dividida em II A (não inertes) e II B (inertes).",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "m5a8-11",
+"t": "Na Produção Mais Limpa, as boas práticas operacionais (housekeeping), como consertar vazamentos, manter a manutenção em dia e treinar os operadores, são:",
+"o": [
+"as medidas mais baratas do nível 1 (redução na fonte).",
+"medidas de fim de tubo.",
+"medidas do nível 3 (reciclagem externa).",
+"exigências exclusivas da ISO 14001.",
+"proibidas pela PNRS."
+],
+"c": 0,
+"e": "Housekeeping é a forma mais barata de reduzir o desperdício na fonte.",
+"l": "Produção Mais Limpa (P+L)"
+},
+{
+"id": "m5a8-12",
+"t": "Pela PNRS, a responsabilidade compartilhada pelo ciclo de vida dos produtos envolve:",
+"o": [
+"apenas os fabricantes.",
+"apenas o poder público.",
+"apenas as recicladoras.",
+"apenas os consumidores.",
+"fabricantes, importadores, distribuidores, comerciantes, consumidores e poder público."
+],
+"c": 4,
+"e": "Todos os elos da cadeia, o consumidor e o poder público dividem a responsabilidade.",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "m5a8-13",
+"t": "No inventário de emissões, o deslocamento diário dos funcionários entre casa e fábrica é classificado como:",
+"o": [
+"escopo 3.",
+"escopo 2.",
+"escopo 1.",
+"emissão evitada.",
+"fora do inventário, sempre."
+],
+"c": 0,
+"e": "Emissões indiretas da cadeia (como deslocamento de funcionários, viagens e transporte contratado) são escopo 3.",
+"l": "Descarbonização"
+},
+{
+"id": "m5a8-14",
+"t": "Segundo a Fundação Ellen MacArthur, são princípios da economia circular:",
+"o": [
+"extrair, produzir e descartar.",
+"eliminar resíduos e poluição desde o projeto, manter produtos e materiais circulando e regenerar a natureza.",
+"reciclar tudo, sem reduzir o consumo.",
+"priorizar a disposição em aterro.",
+"maximizar a produção de produtos descartáveis."
+],
+"c": 1,
+"e": "A letra A descreve a economia linear.",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "m5a8-15",
+"t": "A norma que orienta a avaliação do desempenho ambiental de uma empresa por meio de indicadores é a:",
+"o": [
+"ISO 14031.",
+"ISO 14001.",
+"ISO 9001.",
+"ISO 50001.",
+"ISO 45001."
+],
+"c": 0,
+"e": "ISO 14031 = avaliação de desempenho ambiental por indicadores. A 14001 é o sistema de gestão ambiental certificável; a 50001, gestão de energia.",
+"l": "Indicadores ambientais"
+}
+]
+}

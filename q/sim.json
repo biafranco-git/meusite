@@ -1,0 +1,1830 @@
+{
+"s1": [
+{
+"id": "s1-01",
+"a": "m4a1",
+"t": "O texto tem como ideia central a de que:",
+"o": [
+"a tecnologia é dispensável para a pequena indústria.",
+"a modernização deve começar pela organização dos processos, que potencializa o ganho da tecnologia.",
+"comprar máquinas caras é a única forma de modernizar.",
+"os programas de extensionismo fracassaram.",
+"treinar pessoas é mais caro que comprar robôs."
+],
+"c": 1,
+"e": "O texto contrapõe a crença antiga (modernizar = comprar máquinas) à lição dos programas: primeiro a organização; a tecnologia rende mais num processo arrumado. A letra A contraria o último período.",
+"l": "Compreender x interpretar",
+"x": "Durante anos, a pequena indústria brasileira ouviu que modernizar era sinônimo de comprar máquinas caras. A experiência dos programas de extensionismo mostrou outra coisa: antes do robô, vem a organização. Uma fábrica que mede seus tempos, arruma o fluxo de materiais e treina as pessoas costuma ganhar mais do que outra que apenas troca equipamentos. Isso não significa que a tecnologia seja dispensável; significa que ela rende mais quando chega a um processo já arrumado."
+},
+{
+"id": "s1-02",
+"a": "m4a1",
+"t": "No último período, a expressão \"Isso não significa que\" tem a função de:",
+"o": [
+"concluir o raciocínio com uma consequência.",
+"evitar uma interpretação extrema do que foi dito antes, fazendo uma ressalva.",
+"introduzir um exemplo.",
+"indicar uma condição para o argumento.",
+"contradizer a tese do texto."
+],
+"c": 1,
+"e": "O autor antecipa uma leitura exagerada (\"então a tecnologia não serve\") e a corrige: é uma ressalva, sem contradizer a tese.",
+"l": "Compreender x interpretar",
+"x": "Durante anos, a pequena indústria brasileira ouviu que modernizar era sinônimo de comprar máquinas caras. A experiência dos programas de extensionismo mostrou outra coisa: antes do robô, vem a organização. Uma fábrica que mede seus tempos, arruma o fluxo de materiais e treina as pessoas costuma ganhar mais do que outra que apenas troca equipamentos. Isso não significa que a tecnologia seja dispensável; significa que ela rende mais quando chega a um processo já arrumado."
+},
+{
+"id": "s1-03",
+"a": "m4a1",
+"t": "A frase \"antes do robô, vem a organização\" pressupõe que:",
+"o": [
+"existe uma ordem recomendável entre organizar e automatizar.",
+"os robôs organizam a fábrica.",
+"a organização é mais cara que o robô.",
+"as fábricas já estão organizadas.",
+"robôs são proibidos em pequenas fábricas."
+],
+"c": 0,
+"e": "\"Antes de\" estabelece sequência: a organização vem primeiro. O texto não fala em proibição nem em custo da organização.",
+"l": "Pressuposto e subentendido",
+"x": "Durante anos, a pequena indústria brasileira ouviu que modernizar era sinônimo de comprar máquinas caras. A experiência dos programas de extensionismo mostrou outra coisa: antes do robô, vem a organização. Uma fábrica que mede seus tempos, arruma o fluxo de materiais e treina as pessoas costuma ganhar mais do que outra que apenas troca equipamentos. Isso não significa que a tecnologia seja dispensável; significa que ela rende mais quando chega a um processo já arrumado."
+},
+{
+"id": "s1-04",
+"a": "m4a2",
+"t": "\"A fábrica reduziu o refugo; ______, os custos caíram.\" O conector que completa a frase com relação de conclusão é:",
+"o": [
+"contudo",
+"entretanto",
+"embora",
+"porque",
+"consequentemente"
+],
+"c": 4,
+"e": "Consequentemente (= portanto, logo) introduz a consequência. Contudo e entretanto são adversativos; embora é concessivo; porque é causal.",
+"l": "Conectores e suas relações"
+},
+{
+"id": "s1-05",
+"a": "m4a3",
+"t": "Em \"Não sei se o fornecedor entregará o lote amanhã\", a palavra \"se\" é:",
+"o": [
+"conjunção integrante.",
+"índice de indeterminação do sujeito.",
+"pronome reflexivo.",
+"conjunção condicional.",
+"pronome apassivador."
+],
+"c": 0,
+"e": "Troca por \"isso\": \"Não sei isso\". A oração é objeto de \"sei\": conjunção integrante.",
+"l": "As duas palavras que mais caem: \"que\" e \"se\""
+},
+{
+"id": "s1-06",
+"a": "m4a4",
+"t": "Assinale a frase correta quanto à concordância.",
+"o": [
+"Devem haver alternativas mais baratas.",
+"Faziam três meses que a linha estava parada.",
+"Deve haver alternativas mais baratas.",
+"Aluga-se salas comerciais.",
+"Precisam-se de soldadores."
+],
+"c": 2,
+"e": "\"Haver\" no sentido de existir é impessoal e passa a impessoalidade ao auxiliar: \"deve haver\". \"Fazia três meses\", \"alugam-se salas\", \"precisa-se de soldadores\".",
+"l": "Concordância verbal: o verbo segue o sujeito"
+},
+{
+"id": "s1-07",
+"a": "m4a4",
+"t": "Assinale a alternativa em que o acento grave está empregado corretamente.",
+"o": [
+"A reunião ficou marcada para às 14h.",
+"Entregou o relatório à cada gerente.",
+"O programa visa à empresas de pequeno porte.",
+"A equipe começou à medir os tempos.",
+"O diretor referiu-se à nova política industrial."
+],
+"c": 4,
+"e": "Referir-se a + a nova política = à. Não há crase em \"para as 14h\" (já há preposição \"para\"), antes de palavra no plural sem artigo no plural (\"a empresas\"), antes de verbo nem antes de \"cada\".",
+"l": "Crase"
+},
+{
+"id": "s1-08",
+"a": "m4a11",
+"t": "\"O gerente afirmou: 'Nós concluímos o diagnóstico ontem'.\" No discurso indireto, a forma correta é:",
+"o": [
+"O gerente afirmou que nós concluímos o diagnóstico ontem.",
+"O gerente afirmou que eles tinham concluído o diagnóstico no dia anterior.",
+"O gerente afirmou que eles concluirão o diagnóstico amanhã.",
+"O gerente afirmou que eles concluem o diagnóstico hoje.",
+"O gerente afirmou que concluíssem o diagnóstico."
+],
+"c": 1,
+"e": "Perfeito no direto → mais-que-perfeito no indireto; \"nós\" → \"eles\"; \"ontem\" → \"no dia anterior\".",
+"l": "Reescrita entre gêneros: discurso direto e indireto"
+},
+{
+"id": "s1-09",
+"a": "m4a5",
+"t": "Considere verdadeira a proposição \"Se a meta foi batida, então a equipe recebe bônus\" e sabe-se que a equipe não recebeu bônus. Conclui-se que:",
+"o": [
+"a meta foi batida.",
+"a meta foi batida e não houve bônus.",
+"a equipe recebeu bônus parcial.",
+"nada se pode concluir.",
+"a meta não foi batida."
+],
+"c": 4,
+"e": "p → q verdadeira e ¬q: pelo modus tollens, ¬p. A meta não foi batida.",
+"l": "Equivalências: o que mais cai"
+},
+{
+"id": "s1-10",
+"a": "m4a5",
+"t": "A negação de \"O lote foi aprovado ou a máquina foi ajustada\" é:",
+"o": [
+"O lote não foi aprovado ou a máquina não foi ajustada.",
+"O lote não foi aprovado e a máquina foi ajustada.",
+"Se o lote não foi aprovado, a máquina foi ajustada.",
+"O lote foi aprovado e a máquina não foi ajustada.",
+"O lote não foi aprovado e a máquina não foi ajustada."
+],
+"c": 4,
+"e": "¬(p ∨ q) ≡ ¬p ∧ ¬q: nega as duas e troca \"ou\" por \"e\".",
+"l": "Negações: as leis de De Morgan"
+},
+{
+"id": "s1-11",
+"a": "m4a6",
+"t": "Sabe-se que \"Nenhum fornecedor inadimplente é contratado\" e \"Algum fornecedor de Roraima é inadimplente\". Conclui-se necessariamente que:",
+"o": [
+"nenhum fornecedor de Roraima é contratado.",
+"algum fornecedor de Roraima não é contratado.",
+"todo fornecedor contratado é de Roraima.",
+"algum fornecedor contratado é inadimplente.",
+"todo fornecedor de Roraima é inadimplente."
+],
+"c": 1,
+"e": "O fornecedor de Roraima que é inadimplente não pode ser contratado. Logo, pelo menos um fornecedor de Roraima não é contratado. A letra A generaliza demais.",
+"l": "Quantificadores: \"todo\", \"nenhum\", \"algum\""
+},
+{
+"id": "s1-12",
+"a": "m4a7",
+"t": "Uma linha produzia 400 peças por dia. Depois de uma melhoria, passou a produzir 460. O aumento percentual foi de:",
+"o": [
+"15%.",
+"13%.",
+"87%.",
+"60%.",
+"6%."
+],
+"c": 0,
+"e": "(460 − 400) ÷ 400 = 60 ÷ 400 = 0,15 = 15%.",
+"l": "Porcentagem",
+"calc": true
+},
+{
+"id": "s1-13",
+"a": "m4a7",
+"t": "Três máquinas iguais produzem 900 peças em 6 horas. Quantas peças cinco dessas máquinas produzem em 4 horas?",
+"o": [
+"750.",
+"2.250.",
+"1.000.",
+"1.500.",
+"1.200."
+],
+"c": 2,
+"e": "Por máquina-hora: 900 ÷ (3 × 6) = 50. Então 5 × 4 × 50 = 1.000.",
+"l": "Razão, proporção e regra de três",
+"calc": true
+},
+{
+"id": "s1-14",
+"a": "m4a7",
+"t": "Um lucro de R$ 12.000 será dividido entre dois sócios na proporção de 1 para 3. O sócio que recebe a maior parte fica com:",
+"o": [
+"R$ 3.000.",
+"R$ 8.000.",
+"R$ 9.000.",
+"R$ 4.000.",
+"R$ 10.000."
+],
+"c": 2,
+"e": "1 + 3 = 4 partes de R$ 3.000. O maior recebe 3 × 3.000 = R$ 9.000.",
+"l": "Razão, proporção e regra de três",
+"calc": true
+},
+{
+"id": "s1-15",
+"a": "m4a8",
+"t": "Numa planilha, a fórmula =SE(B2>=70;\"Aprovado\";\"Reprovado\") retorna, quando B2 vale 70:",
+"o": [
+"Aprovado.",
+"#VALOR!",
+"Reprovado.",
+"70.",
+"VERDADEIRO."
+],
+"c": 0,
+"e": "70 ≥ 70 é verdadeiro, então a função retorna o segundo argumento, \"Aprovado\".",
+"l": "Planilhas: Excel e Calc"
+},
+{
+"id": "s1-16",
+"a": "m4a8",
+"t": "No Windows, o atalho que abre o histórico da área de transferência é:",
+"o": [
+"Win + V.",
+"Win + E.",
+"Ctrl + V.",
+"Win + Shift + S.",
+"Alt + Tab."
+],
+"c": 0,
+"e": "Win + V abre o histórico. Ctrl + V apenas cola o último item; Win + Shift + S faz captura de tela.",
+"l": "Windows 10 e 11"
+},
+{
+"id": "s1-17",
+"a": "m4a9",
+"t": "Um analista envia um e-mail aos clientes e quer que nenhum destinatário veja o endereço dos outros. Ele deve colocar os endereços no campo:",
+"o": [
+"Para.",
+"Cc.",
+"Cco.",
+"Assunto.",
+"Responder a todos."
+],
+"c": 2,
+"e": "Cco (cópia oculta): ninguém vê quem está nesse campo.",
+"l": "E-mail"
+},
+{
+"id": "s1-18",
+"a": "m4a9",
+"t": "No backup diferencial, para restaurar os dados é preciso:",
+"o": [
+"apenas o último backup diferencial.",
+"apenas o primeiro backup completo.",
+"o último completo e todos os diferenciais feitos depois dele.",
+"todos os backups incrementais.",
+"o último backup completo e o último diferencial."
+],
+"c": 4,
+"e": "Diferencial copia tudo o que mudou desde o último completo: basta o completo + o último diferencial. No incremental, são necessários todos os incrementais.",
+"l": "Segurança da informação"
+},
+{
+"id": "s1-19",
+"a": "m4a12",
+"t": "Um arquivo com extensão .csv é, em geral:",
+"o": [
+"uma apresentação de slides.",
+"um arquivo compactado.",
+"um programa executável.",
+"uma imagem com fundo transparente.",
+"um arquivo de dados separados por vírgula ou ponto e vírgula."
+],
+"c": 4,
+"e": ".csv = dados separados por vírgula ou ponto e vírgula; abre no Excel, no Calc e no Bloco de Notas.",
+"l": "Arquivos, pastas e extensões"
+},
+{
+"id": "s1-20",
+"a": "m4a10",
+"t": "Segundo a LGPD, a pessoa natural a quem se referem os dados pessoais é o:",
+"o": [
+"controlador.",
+"titular.",
+"encarregado.",
+"agente de tratamento.",
+"operador."
+],
+"c": 1,
+"e": "Titular = a pessoa dona dos dados. Controlador decide; operador executa; encarregado é o canal com titulares e ANPD.",
+"l": "LGPD (Lei 13.709/2018)"
+},
+{
+"id": "s1-21",
+"a": "m3a1",
+"t": "Para a ABDI, a compra de material de escritório no valor de R$ 60 mil pode ser feita, pelo critério de valor, por:",
+"o": [
+"leilão.",
+"convite obrigatório.",
+"concorrência obrigatória.",
+"dispensa, pois o limite para compras é de R$ 80 mil.",
+"inexigibilidade."
+],
+"c": 3,
+"e": "Compras e demais serviços: dispensa até R$ 80 mil; convite até R$ 760 mil.",
+"l": "Limites de valor (arts. 7º e 8º)"
+},
+{
+"id": "s1-22",
+"a": "m3a1",
+"t": "Uma licitação da ABDI realizada há quatro meses foi deserta, porque nenhum interessado apareceu. Mantidas as mesmas condições, a nova contratação pode ser feita por:",
+"o": [
+"dispensa.",
+"concurso.",
+"pregão obrigatório.",
+"inexigibilidade.",
+"credenciamento obrigatório."
+],
+"c": 0,
+"e": "Licitação deserta, fracassada ou com preços acima do mercado há menos de um ano, mantidas as condições, é hipótese de dispensa (art. 10).",
+"l": "Dispensa e inexigibilidade (arts. 10 a 12)"
+},
+{
+"id": "s1-23",
+"a": "m3a1",
+"t": "Sobre o pregão no Regulamento da ABDI, é correto afirmar que:",
+"o": [
+"só pode ser usado até R$ 760 mil.",
+"é feito preferencialmente na forma eletrônica e julgado por menor preço ou maior desconto.",
+"é obrigatório para obras de engenharia.",
+"exige no mínimo três propostas válidas.",
+"é julgado por melhor técnica."
+],
+"c": 1,
+"e": "O pregão não tem limite de valor (mas não serve para obras e serviços especiais de engenharia), é preferencialmente eletrônico e, com uma só proposta, continua válido se justificado.",
+"l": "As modalidades (art. 6º)"
+},
+{
+"id": "s1-24",
+"a": "m3a3",
+"t": "A doutrina classifica os serviços sociais autônomos, como a ABDI e o SEBRAE, como:",
+"o": [
+"órgãos da administração direta.",
+"autarquias de regime especial.",
+"entes paraestatais ou de cooperação, que atuam ao lado do Estado sem integrar a administração pública.",
+"empresas estatais dependentes.",
+"fundações públicas de direito público."
+],
+"c": 2,
+"e": "São entes paraestatais ou de cooperação: direito privado, sem fins lucrativos, criados por autorização legal e fora da administração.",
+"l": "O que é um serviço social autônomo"
+},
+{
+"id": "s1-25",
+"a": "m3a1",
+"t": "Analise as afirmativas sobre contratos da ABDI.\nI. A subcontratação é permitida com outro licitante do mesmo processo.\nII. A recusa injustificada em assinar o contrato gera perda do direito e suspensão por 2 anos.\nIII. A vigência máxima do contrato é de 60 meses.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: a subcontratação nunca pode ser feita com outro licitante do mesmo processo (art. 54).",
+"l": "Contratos (arts. 51 a 58)"
+},
+{
+"id": "s1-26",
+"a": "m3a1",
+"t": "A ABDI quer contratar uma startup para testar uma solução inovadora. Sobre essa contratação, é correto afirmar que:",
+"o": [
+"exige concorrência.",
+"exige que a startup tenha mais de 10 anos de CNPJ.",
+"é vedada pelo regulamento.",
+"pode ser feita diretamente, com prazo mínimo de 20 dias para propostas e comissão de pelo menos três pessoas, com ao menos um empregado da ABDI.",
+"exige garantia contratual de 10%."
+],
+"c": 3,
+"e": "Soluções inovadoras: contratação direta, 20 dias, comissão de 3 com ao menos 1 empregado. A garantia pode ser dispensada; startup tem até 10 anos de CNPJ.",
+"l": "Inovação: encomendas tecnológicas e soluções inovadoras (arts. 41 a 50)"
+},
+{
+"id": "s1-27",
+"a": "m3a2",
+"t": "Num convênio de R$ 500 mil com a ABDI, a contrapartida mínima do convenente é de:",
+"o": [
+"R$ 25 mil.",
+"R$ 5 mil.",
+"R$ 75 mil.",
+"R$ 100 mil.",
+"R$ 50 mil."
+],
+"c": 4,
+"e": "Contrapartida mínima de 10% do valor total: R$ 50 mil, financeira ou econômica.",
+"l": "Regras para celebrar (arts. 3º a 6º e 16)",
+"calc": true
+},
+{
+"id": "s1-28",
+"a": "m3a2",
+"t": "Os convênios celebrados pela ABDI são assinados por:",
+"o": [
+"o Presidente do Conselho Deliberativo.",
+"o Conselho Fiscal.",
+"dois membros da Diretoria Executiva: o Presidente da ABDI com outro diretor.",
+"o gestor da unidade, sozinho.",
+"o Ministro do MDIC."
+],
+"c": 2,
+"e": "Art. 16: assinatura por dois membros da DIREX.",
+"l": "Regras para celebrar (arts. 3º a 6º e 16)"
+},
+{
+"id": "s1-29",
+"a": "m3a2",
+"t": "Nos convênios de pesquisa, desenvolvimento e inovação (PDI), se uma meta não for atingida por causa do risco tecnológico e a justificativa for aceita:",
+"o": [
+"não há punição, e a prestação de contas é simplificada pelo Relatório de Cumprimento do Objeto.",
+"o convênio é anulado.",
+"o convenente fica impedido por 2 anos.",
+"o convenente devolve todo o recurso com multa de 10%.",
+"a ABDI aplica advertência automática."
+],
+"c": 0,
+"e": "Nos convênios de PDI, a prestação é pelo RCO; meta não atingida por risco tecnológico justificado não gera punição.",
+"l": "Prestação de contas e sanções (arts. 21 a 29)"
+},
+{
+"id": "s1-30",
+"a": "m3a5",
+"t": "Pelo Regulamento de Ética e Conduta da ABDI, o relacionamento amoroso entre colegas:",
+"o": [
+"gera demissão de um dos envolvidos.",
+"é proibido.",
+"deve ser comunicado ao TCU.",
+"só é permitido entre empregados de diretorias diferentes, por autorização do Conselho Deliberativo.",
+"é permitido, desde que não haja subordinação entre os envolvidos, recomendando-se que não atuem no mesmo projeto."
+],
+"c": 4,
+"e": "Critério de conduta: sem subordinação; recomenda-se não atuar no mesmo projeto.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s1-31",
+"a": "m3a3",
+"t": "Segundo o entendimento do TCU, os serviços sociais autônomos, como a ABDI:",
+"o": [
+"devem seguir a Lei 14.133/2021.",
+"estão livres de qualquer regra para contratar.",
+"só podem contratar por inexigibilidade.",
+"não se sujeitam à lei geral de licitações, mas devem ter regulamentos próprios que respeitem os princípios da administração.",
+"devem licitar pelo regulamento do SEBRAE."
+],
+"c": 3,
+"e": "Decisão 907/1997 do TCU. No caso da ABDI, a Lei 11.080 (art. 20) exige o regulamento próprio.",
+"l": "O que os tribunais já decidiram"
+},
+{
+"id": "s1-32",
+"a": "m3a3",
+"t": "Os empregados da ABDI são contratados:",
+"o": [
+"pelo regime estatutário da Lei 8.112/1990, após concurso.",
+"por contrato temporário de até 2 anos.",
+"pela CLT, por processo seletivo com edital publicado no Diário Oficial da União.",
+"como servidores comissionados do MDIC.",
+"sem qualquer seleção, por indicação da Diretoria."
+],
+"c": 2,
+"e": "Entidade privada → CLT. Por usar recursos públicos, faz processo seletivo com edital no DOU (Lei 11.080, art. 11, § 2º).",
+"l": "O que os tribunais já decidiram"
+},
+{
+"id": "s1-33",
+"a": "m3a3",
+"t": "Analise as afirmativas sobre os serviços sociais autônomos.\nI. Integram a administração pública indireta.\nII. Têm personalidade de direito privado e não têm fins lucrativos.\nIII. Não têm os privilégios processuais da Fazenda Pública.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e II, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 3,
+"e": "I é falsa: são entes paraestatais, de cooperação, que atuam ao lado do Estado sem integrar a administração.",
+"l": "O que é um serviço social autônomo"
+},
+{
+"id": "s1-34",
+"a": "m3a4",
+"t": "O Conselho Fiscal da ABDI tem:",
+"o": [
+"15 membros, com mandato de 4 anos.",
+"7 membros de entidades privadas.",
+"5 membros, todos do Poder Executivo.",
+"3 membros: um do MDIC, um da Fazenda e um da sociedade civil, com mandato de 2 anos e uma recondução.",
+"3 membros nomeados pelo Presidente da República, com mandato de 4 anos."
+],
+"c": 3,
+"e": "CF = 3 membros (2 do Executivo + 1 da sociedade civil), mandato de 2 anos com uma recondução, sem remuneração.",
+"l": "Os órgãos de direção"
+},
+{
+"id": "s1-35",
+"a": "m3a4",
+"t": "Perde o cargo o membro do Conselho Fiscal que faltar, sem justificativa, a:",
+"o": [
+"2 reuniões seguidas.",
+"4 reuniões seguidas ou 8 alternadas.",
+"5 reuniões no ano.",
+"3 reuniões ordinárias seguidas ou 6 alternadas.",
+"qualquer reunião extraordinária."
+],
+"c": 3,
+"e": "3 seguidas ou 6 alternadas.",
+"l": "Os órgãos de direção"
+},
+{
+"id": "s1-36",
+"a": "m3a4",
+"t": "Na prestação de contas anual da ABDI, as datas de envio do relatório ao MDIC, do parecer e das contas ao TCU são, respectivamente:",
+"o": [
+"31 de dezembro, 31 de janeiro e 31 de março.",
+"31 de março, 15 de abril e 30 de abril.",
+"31 de janeiro, 15 de março e 31 de março.",
+"15 de janeiro, 31 de janeiro e 28 de fevereiro.",
+"28 de fevereiro, 31 de março e 30 de junho."
+],
+"c": 2,
+"e": "Relatório ao MDIC 31/jan; parecer 15/mar; contas ao TCU 31/mar.",
+"l": "Números que caem"
+},
+{
+"id": "s1-37",
+"a": "m3a4",
+"t": "O Conselho Nacional de Desenvolvimento Industrial (CNDI), criado pela mesma Lei 11.080/2004:",
+"o": [
+"é vinculado ao TCU.",
+"é vinculado à Presidência da República, presidido pelo Ministro do MDIC, e propõe políticas industriais ao Presidente.",
+"é o órgão superior de direção da ABDI.",
+"é presidido pelo Presidente da ABDI.",
+"substituiu o Conselho Deliberativo da ABDI."
+],
+"c": 1,
+"e": "O CNDI propõe políticas industriais; a ABDI apoia sua Secretaria-Executiva.",
+"l": "O CNDI"
+},
+{
+"id": "s1-38",
+"a": "m3a5",
+"t": "Pelo Regulamento de Ética e Conduta da ABDI, um empregado que queira dar aulas em uma faculdade:",
+"o": [
+"está proibido.",
+"pode, durante o expediente, se o tema for ligado à ABDI.",
+"precisa de autorização do TCU.",
+"deve pedir licença não remunerada.",
+"pode, fora do expediente, avisando o gestor antes, e sem atuar profissionalmente com fornecedores ou parceiros da ABDI."
+],
+"c": 4,
+"e": "Atividades paralelas: fora do expediente, sem atuar com fornecedores ou parceiros, avisando o gestor antes de palestra ou aula.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s1-39",
+"a": "m3a5",
+"t": "Para divulgar externamente um material produzido pela ABDI, o empregado precisa de:",
+"o": [
+"autorização verbal da chefia imediata.",
+"aprovação prévia e formal de um membro da Diretoria Executiva.",
+"parecer da Ouvidoria.",
+"aprovação do Conselho Fiscal.",
+"nenhuma autorização, se o material for público."
+],
+"c": 1,
+"e": "Propriedade intelectual: divulgar material da ABDI exige aprovação prévia e formal de um membro da DIREX.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s1-40",
+"a": "m3a5",
+"t": "Na Estratégia ABDI 2024–2029, a meta de beneficiários de iniciativas para 2026 é de:",
+"o": [
+"2.000.",
+"7.260.",
+"9.664.",
+"200 mil.",
+"32%."
+],
+"c": 1,
+"e": "Beneficiários: 7.260 (2026) e 9.664 (2029). Maturidade digital: 32% em 2026.",
+"l": "Parte 2: missão, valores e estratégia 2024–2029"
+},
+{
+"id": "s1-41",
+"a": "m1a1",
+"t": "Uma fábrica cumpriu a meta de entregar 10 mil peças no mês, mas gastou 30% mais horas que o padrão. Ela foi:",
+"o": [
+"eficiente e eficaz.",
+"nem eficaz nem eficiente.",
+"eficaz, mas não eficiente.",
+"efetiva e eficiente.",
+"eficiente, mas não eficaz."
+],
+"c": 2,
+"e": "Atingiu a meta = eficaz. Gastou mais recursos que o padrão = não eficiente.",
+"l": "O que é"
+},
+{
+"id": "s1-42",
+"a": "m1a2",
+"t": "Em um ano, a produção cresceu 5%, o capital 4% e o trabalho 2%. Com peso do capital α = 0,4, o crescimento da produtividade total dos fatores (PTF) foi de:",
+"o": [
+"0,6%.",
+"2,2%.",
+"3,0%.",
+"3,4%.",
+"5,0%."
+],
+"c": 1,
+"e": "PTF = 5 − 0,4 × 4 − 0,6 × 2 = 5 − 1,6 − 1,2 = 2,2%.",
+"l": "2.3 Produtividade total dos fatores (PTF)",
+"calc": true
+},
+{
+"id": "s1-43",
+"a": "m1a3",
+"t": "Uma meta definida como \"reduzir o refugo da linha 2 de 6% para 3% até junho\" atende, principalmente, ao critério SMART de ser:",
+"o": [
+"apenas específica.",
+"apenas relevante.",
+"específica, mensurável e temporal.",
+"apenas atingível.",
+"genérica."
+],
+"c": 2,
+"e": "Diz o quê (refugo da linha 2), quanto (de 6% para 3%) e quando (até junho).",
+"l": "Metas SMART"
+},
+{
+"id": "s1-44",
+"a": "m1a4",
+"t": "Na Nova Indústria Brasil, a Missão 4, de transformação digital da indústria, prevê para 2033 a meta de:",
+"o": [
+"25% das empresas industriais digitalizadas.",
+"32% de maturidade digital.",
+"18,9% das empresas industriais digitalizadas.",
+"100% das empresas industriais digitalizadas.",
+"50% das empresas industriais digitalizadas."
+],
+"c": 4,
+"e": "Missão 4: de 18,9% para 25% (2026) e 50% (2033).",
+"l": "A Missão 4 em detalhe (a mais ligada à ABDI)"
+},
+{
+"id": "s1-45",
+"a": "m1a5",
+"t": "No novo Brasil Mais Produtivo, lançado em 2023, o papel da ABDI é o de:",
+"o": [
+"única financiadora do programa.",
+"executora da consultoria Lean nas fábricas.",
+"responsável exclusiva pela trilha de eficiência energética.",
+"porta de entrada do programa.",
+"banco de fomento do programa."
+],
+"c": 3,
+"e": "ABDI = porta; Sebrae = ALI; SENAI = Lean e energia; BNDES, Finep e Embrapii = dinheiro.",
+"l": "O novo Brasil Mais Produtivo (2023–2027)"
+},
+{
+"id": "s1-46",
+"a": "m1a6",
+"t": "Para saber se um programa de extensionismo causou aumento de produtividade, compara-se as empresas atendidas com um grupo semelhante de empresas não atendidas. Esse grupo serve para estimar o:",
+"o": [
+"insumo.",
+"produto.",
+"pressuposto do marco lógico.",
+"contrafactual.",
+"meio de verificação."
+],
+"c": 3,
+"e": "O contrafactual é o que teria acontecido sem o programa. Sem ele não há avaliação de impacto.",
+"l": "Avaliação de impacto e o contrafactual"
+},
+{
+"id": "s1-47",
+"a": "m2a1",
+"t": "As vendas previstas eram de 300 unidades, mas foram vendidas 260. Com suavização exponencial e α = 0,5, a nova previsão é:",
+"o": [
+"150.",
+"260.",
+"280.",
+"300.",
+"320."
+],
+"c": 2,
+"e": "Erro = 260 − 300 = −40. Correção = 0,5 × (−40) = −20. Nova previsão = 300 − 20 = 280.",
+"l": "Previsão de demanda: o ponto de partida",
+"calc": true
+},
+{
+"id": "s1-48",
+"a": "m2a3",
+"t": "Um turno tem 480 minutos, com 30 minutos de pausa, e a demanda é de 900 peças. O takt time é de:",
+"o": [
+"30 segundos.",
+"32 segundos.",
+"45 segundos.",
+"60 segundos.",
+"90 segundos."
+],
+"c": 0,
+"e": "Disponível: 450 min = 27.000 s. Takt = 27.000 ÷ 900 = 30 s. A letra B usa 480 min sem descontar a pausa.",
+"l": "Pilar 1: Just in Time (JIT)",
+"calc": true
+},
+{
+"id": "s1-49",
+"a": "m5a5",
+"t": "Uma fábrica guarda num repositório os dados brutos dos sensores, as fotos da inspeção e as anotações dos operadores, para analisar depois. Esse repositório é um:",
+"o": [
+"data lake.",
+"ERP.",
+"data warehouse.",
+"MES.",
+"CLP."
+],
+"c": 0,
+"e": "Data lake guarda dados brutos de todo tipo; data warehouse guarda dados já organizados para relatório.",
+"l": "Big Data"
+},
+{
+"id": "s1-50",
+"a": "m2a4",
+"t": "Um item tem consumo de 50 unidades por dia, lead time de reposição de 4 dias e estoque de segurança de 100 unidades. O ponto de pedido é de:",
+"o": [
+"300.",
+"200.",
+"250.",
+"150.",
+"400."
+],
+"c": 0,
+"e": "50 × 4 + 100 = 300.",
+"l": "Ponto de pedido e estoque de segurança",
+"calc": true
+},
+{
+"id": "s1-51",
+"a": "m5a6",
+"t": "A estrutura de uma universidade que cuida da política de inovação, da propriedade intelectual e da transferência de tecnologia é o:",
+"o": [
+"CNDI.",
+"INPI.",
+"Finep.",
+"NIT (Núcleo de Inovação Tecnológica).",
+"Embrapii."
+],
+"c": 3,
+"e": "O NIT, criado pela Lei de Inovação (10.973/2004), fica dentro da ICT. O INPI registra patentes e contratos.",
+"l": "Gestão da inovação: o funil e os portões"
+},
+{
+"id": "s1-52",
+"a": "m5a8",
+"t": "Pela Política Nacional de Resíduos Sólidos, o que sobra quando não há mais possibilidade de tratamento ou recuperação viável é chamado de:",
+"o": [
+"resíduo reciclável.",
+"resíduo classe II B.",
+"subproduto.",
+"rejeito.",
+"insumo secundário."
+],
+"c": 3,
+"e": "Resíduo ainda pode ser reaproveitado; rejeito é o que sobra e só ele deve ir para o aterro.",
+"l": "Economia circular e gestão de resíduos"
+},
+{
+"id": "s1-53",
+"a": "m5a1",
+"t": "A ISO 9001:2015 tem estrutura de 10 cláusulas organizada em torno do ciclo PDCA. A cláusula em que a alta direção revisa periodicamente se o sistema funciona é a de:",
+"o": [
+"contexto da organização.",
+"análise crítica pela direção.",
+"apoio.",
+"informação documentada.",
+"operação."
+],
+"c": 1,
+"e": "Análise crítica pela direção (9.3): a alta direção olha indicadores, auditorias e reclamações.",
+"l": "As 10 cláusulas e o ciclo PDCA"
+},
+{
+"id": "s1-54",
+"a": "m5a2",
+"t": "Um processo estável tem limites de controle calculados a 3 desvios-padrão da média. Se o processo só tem causas comuns, a porcentagem esperada de pontos dentro dos limites é de cerca de:",
+"o": [
+"68%.",
+"99,73%.",
+"50%.",
+"95%.",
+"100%, sempre."
+],
+"c": 1,
+"e": "Com ±3σ, cerca de 99,73% dos pontos ficam dentro. Por isso um ponto fora quase sempre indica causa especial.",
+"l": "CEP: causas comuns e causas especiais"
+},
+{
+"id": "s1-55",
+"a": "m5a3",
+"t": "Uma máquina tem disponibilidade de 90%, desempenho de 80% e qualidade de 95%. O OEE é de aproximadamente:",
+"o": [
+"88%.",
+"72%.",
+"76%.",
+"85%.",
+"68%."
+],
+"c": 4,
+"e": "0,9 × 0,8 × 0,95 = 0,684 ≈ 68%. O OEE multiplica os três índices.",
+"l": "OEE: Eficiência Global do Equipamento",
+"calc": true
+},
+{
+"id": "s1-56",
+"a": "m5a4",
+"t": "Um robô projetado para trabalhar ao lado de pessoas, com sensores que o fazem parar ao tocar alguém, é um:",
+"o": [
+"CLP.",
+"SCADA.",
+"atuador fixo.",
+"gêmeo digital.",
+"cobot."
+],
+"c": 4,
+"e": "Cobot = robô colaborativo, com sensores de segurança.",
+"l": "Automação industrial"
+},
+{
+"id": "s1-57",
+"a": "m5a5",
+"t": "Um painel que mostra, em gráficos, as vendas e a produção dos últimos 12 meses, sem explicar causas nem prever o futuro, é um exemplo de análise:",
+"o": [
+"generativa.",
+"diagnóstica.",
+"preditiva.",
+"descritiva.",
+"prescritiva."
+],
+"c": 3,
+"e": "Descritiva responde \"o que aconteceu?\". Diagnóstica: por quê. Preditiva: o que vai acontecer. Prescritiva: o que fazer.",
+"l": "Os 4 tipos de análise de dados"
+},
+{
+"id": "s1-58",
+"a": "m5a6",
+"t": "Uma tecnologia de baixo custo, que começa mais simples e atende um público ignorado pelos líderes do mercado, até deslocá-los, é exemplo de inovação:",
+"o": [
+"disruptiva.",
+"radical.",
+"de processo.",
+"aberta.",
+"incremental."
+],
+"c": 0,
+"e": "Disruptiva (Christensen) não é sinônimo de radical: começa simples e barata num público ignorado.",
+"l": "Graus de inovação"
+},
+{
+"id": "s1-59",
+"a": "m5a7",
+"t": "Um projeto exige investimento de R$ 80 mil e gera R$ 20 mil por ano durante 6 anos. O payback simples é de:",
+"o": [
+"3 anos.",
+"5 anos.",
+"4 anos.",
+"6 anos.",
+"2 anos."
+],
+"c": 2,
+"e": "80 ÷ 20 = 4 anos.",
+"l": "Payback: em quanto tempo o dinheiro volta",
+"calc": true
+},
+{
+"id": "s1-60",
+"a": "m5a8",
+"t": "Uma fábrica troca a caldeira a óleo por uma bomba de calor elétrica e passa a contratar energia renovável. Essa medida é uma rota de descarbonização por:",
+"o": [
+"eletrificação com energia renovável.",
+"captura de carbono.",
+"economia circular.",
+"mudança de materiais.",
+"compensação de emissões."
+],
+"c": 0,
+"e": "Trocar combustível fóssil por equipamento elétrico alimentado por energia renovável = eletrificação.",
+"l": "Descarbonização"
+}
+],
+"s2": [
+{
+"id": "s2-01",
+"a": "m4a1",
+"t": "Segundo o texto, as empresas que mais colhem resultados com a inteligência artificial são as que:",
+"o": [
+"investiram nos algoritmos mais sofisticados.",
+"dispensaram a inspeção humana.",
+"padronizaram processos e passaram a registrar dados da produção antes de adotar a IA.",
+"evitaram usar câmeras na inspeção.",
+"adotaram a IA antes dos concorrentes."
+],
+"c": 2,
+"e": "O último período diz que os resultados vêm para quem \"antes fez o dever de casa\": padronizou e passou a registrar dados.",
+"l": "Compreender x interpretar",
+"x": "A inteligência artificial chegou ao chão de fábrica com promessas grandiosas. Algumas se cumprem: câmeras que inspecionam peças sem cansar e modelos que avisam antes de uma máquina quebrar já são realidade. Outras, porém, esbarram num obstáculo menos glamoroso, a falta de dados confiáveis. Sem medições organizadas, o algoritmo mais sofisticado aprende com o erro e o repete em escala. Por isso, as empresas que mais colhem resultados são, quase sempre, aquelas que antes fizeram o dever de casa: padronizaram processos e passaram a registrar o que acontece na produção."
+},
+{
+"id": "s2-02",
+"a": "m4a1",
+"t": "A expressão \"o dever de casa\", no último período, foi empregada em sentido:",
+"o": [
+"irônico, criticando as empresas.",
+"literal, referindo-se a tarefas escolares.",
+"figurado, indicando trabalho básico e preparatório.",
+"técnico, nomeando uma metodologia.",
+"pejorativo, desvalorizando a padronização."
+],
+"c": 2,
+"e": "É uma expressão figurada: o trabalho de base que precisa ser feito antes. Os dois-pontos explicam qual foi.",
+"l": "Sentido das palavras",
+"x": "A inteligência artificial chegou ao chão de fábrica com promessas grandiosas. Algumas se cumprem: câmeras que inspecionam peças sem cansar e modelos que avisam antes de uma máquina quebrar já são realidade. Outras, porém, esbarram num obstáculo menos glamoroso, a falta de dados confiáveis. Sem medições organizadas, o algoritmo mais sofisticado aprende com o erro e o repete em escala. Por isso, as empresas que mais colhem resultados são, quase sempre, aquelas que antes fizeram o dever de casa: padronizaram processos e passaram a registrar o que acontece na produção."
+},
+{
+"id": "s2-03",
+"a": "m4a1",
+"t": "O termo \"porém\", no terceiro período, estabelece relação de:",
+"o": [
+"oposição.",
+"conclusão.",
+"adição.",
+"causa.",
+"tempo."
+],
+"c": 0,
+"e": "\"Algumas se cumprem\" × \"Outras, porém, esbarram\": oposição entre as promessas cumpridas e as que esbarram nos dados.",
+"l": "Palavras que derrubam alternativas",
+"x": "A inteligência artificial chegou ao chão de fábrica com promessas grandiosas. Algumas se cumprem: câmeras que inspecionam peças sem cansar e modelos que avisam antes de uma máquina quebrar já são realidade. Outras, porém, esbarram num obstáculo menos glamoroso, a falta de dados confiáveis. Sem medições organizadas, o algoritmo mais sofisticado aprende com o erro e o repete em escala. Por isso, as empresas que mais colhem resultados são, quase sempre, aquelas que antes fizeram o dever de casa: padronizaram processos e passaram a registrar o que acontece na produção."
+},
+{
+"id": "s2-04",
+"a": "m4a2",
+"t": "Assinale a frase corretamente pontuada.",
+"o": [
+"Os indicadores, foram apresentados à diretoria na segunda-feira.",
+"Na segunda-feira os indicadores foram apresentados, à diretoria.",
+"Os indicadores que mostram o OEE da linha, foram apresentados.",
+"Na segunda-feira, os indicadores foram apresentados à diretoria.",
+"Os indicadores foram, apresentados à diretoria na segunda-feira."
+],
+"c": 3,
+"e": "A vírgula após o adjunto adverbial deslocado (\"Na segunda-feira\") é adequada. Não se separa sujeito de verbo (A, C) nem verbo de complemento (B, E).",
+"l": "Pontuação: as regras da vírgula"
+},
+{
+"id": "s2-05",
+"a": "m4a3",
+"t": "Assinale a frase em que a palavra destacada está grafada corretamente.",
+"o": [
+"O sistema caiu, mas ninguém sabe o porque. (porque)",
+"Os técnicos foram a fim de resolver a falha. (a fim de)",
+"O fornecedor agiu mau ao atrasar. (mau)",
+"Ele saiu a dois anos da empresa. (a)",
+"Aonde está o relatório? (aonde)"
+],
+"c": 1,
+"e": "\"A fim de\" indica finalidade. Corrigindo: \"o porquê\" (substantivo), \"há dois anos\" (tempo passado), \"agiu mal\" (advérbio), \"onde está\".",
+"l": "Ortografia: os casos que mais caem"
+},
+{
+"id": "s2-06",
+"a": "m4a4",
+"t": "Assinale a frase correta quanto à regência.",
+"o": [
+"O analista assistiu a reunião do conselho.",
+"A empresa obedece ao regulamento de compras.",
+"O programa visa o aumento das exportações.",
+"Prefiro trabalhar em equipe do que sozinho.",
+"A demora implicou em prejuízo."
+],
+"c": 1,
+"e": "\"Obedecer a\". Corrigindo: assistiu à reunião; visa ao aumento; prefiro trabalhar em equipe a trabalhar sozinho; implicou prejuízo.",
+"l": "Regência: que preposição o verbo pede"
+},
+{
+"id": "s2-07",
+"a": "m4a11",
+"t": "\"Quando a equipe ______ o diagnóstico, ______ o plano de ação.\" A correlação verbal correta é:",
+"o": [
+"terminar / elaborará",
+"terminasse / elaborará",
+"terminar / elaboraria",
+"termina / elaborou",
+"terminou / elaborará"
+],
+"c": 0,
+"e": "Quando + futuro do subjuntivo (terminar) → futuro do presente (elaborará).",
+"l": "Correlação entre os tempos"
+},
+{
+"id": "s2-08",
+"a": "m4a11",
+"t": "Assinale a frase adequada à norma-padrão.",
+"o": [
+"Se a diretoria propor a mudança, votaremos.",
+"Se o gerente intervir, o conflito acaba.",
+"Quando o fiscal vir a obra, vai aprovar.",
+"Quando vocês fazerem a contagem, avisem.",
+"Se ele manter o prazo, entregaremos."
+],
+"c": 2,
+"e": "\"Quando o fiscal vir\" (futuro do subjuntivo de ver). Corrigindo: propuser, mantiver, fizerem, intervier.",
+"l": "Correlação entre os tempos"
+},
+{
+"id": "s2-09",
+"a": "m4a5",
+"t": "Sejam p verdadeira e q verdadeira. O valor lógico de p ⊻ q (\"ou p ou q\") é:",
+"o": [
+"verdadeiro.",
+"igual ao de p ∧ q.",
+"indeterminado.",
+"falso.",
+"verdadeiro apenas se q for falsa."
+],
+"c": 3,
+"e": "A disjunção exclusiva é falsa quando as duas partes têm o mesmo valor. Já p ∨ q (inclusiva) seria verdadeira.",
+"l": "Conectivos e tabela-verdade"
+},
+{
+"id": "s2-10",
+"a": "m4a5",
+"t": "A afirmação \"Se a máquina está calibrada, então a peça sai na medida\" é equivalente a:",
+"o": [
+"A máquina não está calibrada ou a peça sai na medida.",
+"A máquina está calibrada e a peça não sai na medida.",
+"Se a peça sai na medida, a máquina está calibrada.",
+"Se a máquina não está calibrada, a peça não sai na medida.",
+"A máquina está calibrada ou a peça não sai na medida."
+],
+"c": 0,
+"e": "p → q ≡ ¬p ∨ q. A letra B é a negação; C é a recíproca e D é a inversa, que não são equivalentes.",
+"l": "Equivalências: o que mais cai"
+},
+{
+"id": "s2-11",
+"a": "m4a6",
+"t": "\"Se o fornecedor atrasa, a linha para. O fornecedor não atrasou. Logo, a linha não parou.\" Esse argumento é:",
+"o": [
+"válido, por modus tollens.",
+"válido, por silogismo disjuntivo.",
+"válido, por modus ponens.",
+"inválido, pois afirma o consequente.",
+"inválido, pois nega o antecedente."
+],
+"c": 4,
+"e": "A linha pode parar por outro motivo. Negar o antecedente é falácia.",
+"l": "Argumentos: válido não é o mesmo que verdadeiro"
+},
+{
+"id": "s2-12",
+"a": "m4a7",
+"t": "Um produto custava R$ 200 e teve dois descontos sucessivos de 10%. O preço final é:",
+"o": [
+"R$ 160,00.",
+"R$ 162,00.",
+"R$ 164,00.",
+"R$ 180,00.",
+"R$ 170,00."
+],
+"c": 1,
+"e": "200 × 0,9 × 0,9 = 200 × 0,81 = 162. Dois descontos de 10% não equivalem a 20%.",
+"l": "Porcentagem",
+"calc": true
+},
+{
+"id": "s2-13",
+"a": "m4a7",
+"t": "Barras de 30 m e 45 m serão cortadas em pedaços iguais, do maior tamanho possível, sem sobras. Cada pedaço terá:",
+"o": [
+"5 m.",
+"15 m.",
+"9 m.",
+"90 m.",
+"3 m."
+],
+"c": 1,
+"e": "Maior divisão sem sobra = MDC(30, 45) = 15 m. O MMC (90) responde a \"quando coincidem\".",
+"l": "MMC e MDC em problemas",
+"calc": true
+},
+{
+"id": "s2-14",
+"a": "m4a7",
+"t": "Uma empresa oferece 3 modelos de cadeira e 4 cores de tecido. O número de combinações diferentes de modelo e cor é:",
+"o": [
+"7.",
+"12.",
+"24.",
+"34.",
+"64."
+],
+"c": 1,
+"e": "Princípio multiplicativo: 3 × 4 = 12.",
+"l": "Contagem e probabilidade básicas",
+"calc": true
+},
+{
+"id": "s2-15",
+"a": "m4a8",
+"t": "Sobre os tipos de software, é correto afirmar que:",
+"o": [
+"o Windows é software livre.",
+"freeware é sempre software livre.",
+"software livre pode ser usado, estudado, modificado e distribuído, como o LibreOffice.",
+"antivírus é sistema operacional.",
+"o Linux é software proprietário."
+],
+"c": 2,
+"e": "Software livre permite usar, estudar, modificar e distribuir. Freeware é gratuito, mas não necessariamente livre.",
+"l": "Hardware e software"
+},
+{
+"id": "s2-16",
+"a": "m4a8",
+"t": "Numa planilha, a fórmula =SOMASE(B2:B10;\"Norte\";C2:C10):",
+"o": [
+"retorna erro, pois tem três argumentos.",
+"conta quantas células têm \"Norte\".",
+"soma todas as células de B2 a B10.",
+"soma os valores de C2:C10 cujas células correspondentes em B2:B10 sejam \"Norte\".",
+"soma B2 e C10."
+],
+"c": 3,
+"e": "SOMASE(intervalo do critério; critério; intervalo a somar).",
+"l": "Planilhas: Excel e Calc"
+},
+{
+"id": "s2-17",
+"a": "m4a9",
+"t": "Um e-mail com o logotipo de um banco pede que o usuário clique num link e digite sua senha para \"evitar o bloqueio da conta\". Trata-se de:",
+"o": [
+"phishing.",
+"worm.",
+"ransomware.",
+"DDoS.",
+"backup."
+],
+"c": 0,
+"e": "Phishing é o golpe que engana o usuário para obter dados, imitando uma instituição confiável.",
+"l": "Segurança da informação"
+},
+{
+"id": "s2-18",
+"a": "m4a12",
+"t": "Para buscar no Google páginas que contenham exatamente a frase Nova Indústria Brasil, deve-se usar:",
+"o": [
+"Nova Indústria Brasil -frase",
+"site:Nova Indústria Brasil",
+"Nova OR Indústria OR Brasil",
+"intitle:Nova",
+"\"Nova Indústria Brasil\""
+],
+"c": 4,
+"e": "Aspas buscam a frase exata.",
+"l": "Navegadores e buscadores"
+},
+{
+"id": "s2-19",
+"a": "m4a10",
+"t": "Pela LAI, as entidades privadas sem fins lucrativos que recebem recursos públicos:",
+"o": [
+"não se submetem à lei.",
+"devem dar publicidade às informações relativas a esses recursos.",
+"só respondem a pedidos de órgãos públicos.",
+"podem exigir o motivo dos pedidos.",
+"têm prazo de 60 dias para responder."
+],
+"c": 1,
+"e": "A LAI alcança essas entidades quanto à parte dos recursos públicos. Por isso a ABDI tem portal de transparência.",
+"l": "Lei de Acesso à Informação (Lei 12.527/2011)"
+},
+{
+"id": "s2-20",
+"a": "m4a10",
+"t": "Segundo a LGPD, a autoridade que aplica as sanções, como advertência e multa, é a:",
+"o": [
+"Polícia Federal.",
+"ANATEL.",
+"CGU.",
+"ANPD.",
+"ANEEL."
+],
+"c": 3,
+"e": "A Autoridade Nacional de Proteção de Dados (ANPD) aplica as sanções da LGPD.",
+"l": "LGPD (Lei 13.709/2018)"
+},
+{
+"id": "s2-21",
+"a": "m3a1",
+"t": "Na ABDI, uma obra de engenharia estimada em R$ 1,8 milhão pode ser licitada por:",
+"o": [
+"leilão.",
+"dispensa.",
+"pregão obrigatório.",
+"inexigibilidade.",
+"convite, pois o limite para obras é de R$ 2,2 milhões."
+],
+"c": 4,
+"e": "Obras: dispensa até R$ 150 mil; convite até R$ 2,2 milhões. O pregão não se aplica a obras.",
+"l": "Limites de valor (arts. 7º e 8º)"
+},
+{
+"id": "s2-22",
+"a": "m3a1",
+"t": "A contratação, pela ABDI, de um parecer técnico com profissional de notória especialização é hipótese de:",
+"o": [
+"registro de preço.",
+"dispensa por valor.",
+"concurso obrigatório.",
+"pregão.",
+"inexigibilidade."
+],
+"c": 4,
+"e": "Serviços técnicos especializados com profissional de notória especialização (estudos, pareceres, consultorias) estão entre os exemplos de inexigibilidade (art. 11).",
+"l": "Dispensa e inexigibilidade (arts. 10 a 12)"
+},
+{
+"id": "s2-23",
+"a": "m3a1",
+"t": "Os prazos do Regulamento de Licitações e Contratos da ABDI são contados em:",
+"o": [
+"dias corridos, incluindo o dia do início.",
+"semanas.",
+"dias úteis, excluindo o dia do início e incluindo o do vencimento.",
+"dias úteis, incluindo o dia do início.",
+"horas."
+],
+"c": 2,
+"e": "Art. 62: dias úteis, excluindo o início e incluindo o vencimento.",
+"l": "Procedimento e recursos (arts. 14 a 20)"
+},
+{
+"id": "s2-24",
+"a": "m3a1",
+"t": "Outro serviço social autônomo quer aderir a uma ata de registro de preço da ABDI. Cada aderente pode comprar, no máximo:",
+"o": [
+"10% dos quantitativos registrados.",
+"50% dos quantitativos registrados.",
+"o dobro dos quantitativos registrados.",
+"100% dos quantitativos registrados.",
+"25% dos quantitativos registrados."
+],
+"c": 1,
+"e": "Cada aderente compra até 50%, e o total das adesões não passa do dobro do registrado. O fornecedor pode recusar.",
+"l": "Registro de preço (arts. 27 a 37)"
+},
+{
+"id": "s2-25",
+"a": "m3a3",
+"t": "Na estrutura de controle da ABDI, o controle interno da gestão é exercido pelo:",
+"o": [
+"TCU.",
+"Conselho Fiscal.",
+"MDIC.",
+"CNDI.",
+"Ministério Público Federal."
+],
+"c": 1,
+"e": "Conselho Fiscal = controle interno. MDIC supervisiona, aprova o orçamento-programa e analisa o relatório anual; TCU faz o controle externo.",
+"l": "Quem controla a ABDI"
+},
+{
+"id": "s2-26",
+"a": "m3a1",
+"t": "Não podem participar de licitações nem executar contratos da ABDI:",
+"o": [
+"empresas de outros estados.",
+"membros dos Conselhos Deliberativo e Fiscal, da Diretoria Executiva e os empregados da ABDI.",
+"empresas com menos de 2 anos.",
+"consórcios, em qualquer hipótese.",
+"microempresas."
+],
+"c": 1,
+"e": "Art. 60. Consórcios participam se o edital autorizar (art. 59).",
+"l": "Quem não pode participar (art. 60) e outras regras"
+},
+{
+"id": "s2-27",
+"a": "m3a2",
+"t": "Um convenente não devolveu os recursos do convênio no prazo. Além da devolução corrigida, ele fica sujeito a:",
+"o": [
+"suspensão de 5 anos.",
+"multa de 2% e advertência.",
+"multa de 10% do valor total do convênio e impedimento de 2 anos sem novos convênios.",
+"prisão do dirigente.",
+"nenhuma sanção, se pedir prorrogação."
+],
+"c": 2,
+"e": "Prazo para devolver: 10 dias, com INPC + 1% ao mês; multa de 10%; impedimento de 2 anos.",
+"l": "Números que caem"
+},
+{
+"id": "s2-28",
+"a": "m3a5",
+"t": "Segundo o Regulamento de Ética e Conduta da ABDI, assédio moral é:",
+"o": [
+"conduta abusiva que atenta contra a dignidade do empregado, ameaça seu emprego ou degrada o ambiente de trabalho.",
+"qualquer crítica feita pelo gestor ao trabalho do empregado.",
+"a manifestação que, com ameaça ou coação, busca vantagem sexual.",
+"a divulgação de informação confidencial.",
+"o uso de equipamentos da ABDI para fins particulares."
+],
+"c": 0,
+"e": "A letra C define assédio sexual. Críticas ao trabalho, feitas com respeito, não são assédio.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s2-29",
+"a": "m3a2",
+"t": "Sobre a celebração de convênios pela ABDI, é correto afirmar que:",
+"o": [
+"só pode ser feita com entidades públicas.",
+"é permitida com quem está inadimplente com a ABDI.",
+"é vedada com quem está inadimplente com a ABDI, salvo prestação de contas anterior ainda em análise, caso em que o dinheiro só sai após a aprovação das contas, salvo autorização da DIREX.",
+"dispensa plano de trabalho.",
+"só pode ser feita com entidades nacionais."
+],
+"c": 2,
+"e": "Art. 5º. A ABDI pode fazer convênio com entidades públicas ou privadas, nacionais ou estrangeiras.",
+"l": "Regras para celebrar (arts. 3º a 6º e 16)"
+},
+{
+"id": "s2-30",
+"a": "m3a2",
+"t": "Se a ABDI atrasar a liberação dos recursos de um convênio, o prazo de vigência:",
+"o": [
+"o convênio é rescindido.",
+"não se altera.",
+"é reduzido proporcionalmente.",
+"só pode ser prorrogado por aditivo aprovado pelo Conselho Deliberativo.",
+"é prorrogado automaticamente."
+],
+"c": 4,
+"e": "Arts. 17 a 20: atraso da ABDI na liberação prorroga o prazo automaticamente. Pedidos de alteração devem vir antes do fim da vigência, sem mudar o objeto.",
+"l": "Alterações (arts. 17 a 20)"
+},
+{
+"id": "s2-31",
+"a": "m3a3",
+"t": "Os recursos da ABDI incluem 2% do adicional previsto na Lei 8.029/1990. As outras parcelas desse adicional vão para:",
+"o": [
+"SEBRAE (85,75%) e Apex-Brasil (12,25%).",
+"BNDES e Finep.",
+"SENAI e SESI.",
+"União e estados.",
+"CNI e CNC."
+],
+"c": 0,
+"e": "Divisão: SEBRAE 85,75%, Apex-Brasil 12,25%, ABDI 2% (Lei 11.080, art. 15).",
+"l": "ABDI x Sistema S tradicional"
+},
+{
+"id": "s2-32",
+"a": "m3a3",
+"t": "O órgão que fiscaliza a execução do contrato de gestão da ABDI e pode determinar correções a qualquer momento é o:",
+"o": [
+"Conselho Deliberativo.",
+"Ministério Público do Trabalho.",
+"MDIC.",
+"CNDI.",
+"TCU."
+],
+"c": 4,
+"e": "Lei 11.080, art. 14: o TCU fiscaliza e pode exigir correções. O MDIC supervisiona e firma o contrato.",
+"l": "Quem controla a ABDI"
+},
+{
+"id": "s2-33",
+"a": "m3a3",
+"t": "Sobre o foro das ações envolvendo entidades do Sistema S, a Súmula 516 do STF indica:",
+"o": [
+"a Justiça Federal.",
+"a Justiça Estadual.",
+"a Justiça do Trabalho, sempre.",
+"o TCU.",
+"o STF, originariamente."
+],
+"c": 1,
+"e": "Súmula 516: o SESI está sujeito à Justiça Estadual, entendimento aplicado ao Sistema S em geral.",
+"l": "O que os tribunais já decidiram"
+},
+{
+"id": "s2-34",
+"a": "m3a4",
+"t": "Os membros da Diretoria Executiva da ABDI podem ser exonerados:",
+"o": [
+"somente ao fim do mandato de 4 anos.",
+"apenas por unanimidade do Conselho Fiscal.",
+"apenas por decisão do TCU.",
+"a qualquer tempo, de ofício ou por proposta do Conselho Deliberativo aprovada por maioria absoluta.",
+"nunca, por terem mandato fixo."
+],
+"c": 3,
+"e": "Decreto 5.352: exoneração a qualquer tempo, de ofício ou por proposta do CD por maioria absoluta.",
+"l": "Os órgãos de direção"
+},
+{
+"id": "s2-35",
+"a": "m3a4",
+"t": "Se a ABDI for extinta, seu patrimônio:",
+"o": [
+"é distribuído entre os conselheiros.",
+"é transferido ao SEBRAE.",
+"é leiloado e o valor vai ao MDIC.",
+"é incorporado ao patrimônio da União.",
+"passa à Apex-Brasil."
+],
+"c": 3,
+"e": "Lei 11.080, art. 23: o patrimônio vai para a União.",
+"l": "De onde vem o dinheiro (Lei, arts. 15 e 17)"
+},
+{
+"id": "s2-36",
+"a": "m3a4",
+"t": "O contrato de gestão da ABDI deve ser publicado no Diário Oficial da União pelo MDIC no prazo de até:",
+"o": [
+"15 dias.",
+"10 dias.",
+"60 dias.",
+"30 dias.",
+"5 dias."
+],
+"c": 0,
+"e": "Decreto, art. 10: publicação no DOU em até 15 dias. Duração mínima de 2 anos.",
+"l": "Contrato de gestão"
+},
+{
+"id": "s2-37",
+"a": "m3a4",
+"t": "Compete ao Conselho Deliberativo da ABDI, segundo o Decreto 5.352/2005:",
+"o": [
+"executar o orçamento-programa.",
+"fiscalizar as contas no lugar do TCU.",
+"assinar convênios.",
+"fixar a remuneração da Diretoria Executiva e aprovar o estatuto.",
+"nomear o Presidente da ABDI."
+],
+"c": 3,
+"e": "O CD aprova estatuto, política de atuação, planos, orçamento, manual de licitações e fixa a remuneração da DIREX. A DIREX executa; o Presidente da República nomeia.",
+"l": "Os órgãos de direção"
+},
+{
+"id": "s2-38",
+"a": "m3a5",
+"t": "Pelo Regulamento de Ética e Conduta da ABDI, a participação em atividade político-partidária:",
+"o": [
+"é proibida aos empregados.",
+"é permitida durante o expediente, com autorização.",
+"é direito individual, exercido fora do expediente e sem uso de recursos da ABDI.",
+"exige aprovação do Conselho Deliberativo.",
+"só é permitida a dirigentes."
+],
+"c": 2,
+"e": "Política, sindicato e religião: direito individual, fora do expediente e sem recursos da ABDI.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s2-39",
+"a": "m3a5",
+"t": "O Regulamento de Ética e Conduta da ABDI foi aprovado pela:",
+"o": [
+"Portaria do MDIC.",
+"Resolução da DIREX UJ/00017/2024.",
+"Lei 11.080/2004.",
+"Resolução do Conselho Deliberativo nº 005/2021.",
+"Resolução do Conselho Deliberativo nº 004/2022."
+],
+"c": 4,
+"e": "Ética: Resolução CD 004/2022. Licitações: Resolução CD 005/2021. Convênios: Resolução DIREX UJ/00017/2024.",
+"l": "Parte 1: Regulamento de Ética e Conduta"
+},
+{
+"id": "s2-40",
+"a": "m3a5",
+"t": "Na Estratégia ABDI 2024–2029, a meta de maturidade ASG (IASG) para 2029 é de:",
+"o": [
+"10%.",
+"85%.",
+"32%.",
+"40%.",
+"18%."
+],
+"c": 4,
+"e": "IASG: 10% (2026) e 18% (2029). Maturidade digital: 40% em 2029.",
+"l": "Parte 2: missão, valores e estratégia 2024–2029"
+},
+{
+"id": "s2-41",
+"a": "m1a1",
+"t": "Um programa de capacitação treinou 500 pessoas (meta cumprida), mas a renda média da região não mudou. Pode-se dizer que o programa foi:",
+"o": [
+"nem eficaz nem efetivo.",
+"efetivo, mas não eficaz.",
+"eficiente e efetivo.",
+"eficaz, mas não efetivo.",
+"efetivo e eficaz."
+],
+"c": 3,
+"e": "Cumpriu a meta = eficaz. Não mudou a realidade = não efetivo. Efetividade é impacto.",
+"l": "O que é"
+},
+{
+"id": "s2-42",
+"a": "m1a2",
+"t": "Uma fábrica produzia 2.000 peças com 40 trabalhadores e passou a produzir 2.400 peças com 40 trabalhadores. A produtividade do trabalho:",
+"o": [
+"subiu 20%.",
+"ficou igual.",
+"subiu 4%.",
+"subiu 40%.",
+"caiu 20%."
+],
+"c": 0,
+"e": "Antes: 2.000 ÷ 40 = 50. Depois: 2.400 ÷ 40 = 60. Variação = 60 ÷ 50 − 1 = 20%.",
+"l": "2.1 Produtividade do trabalho (parcial)",
+"calc": true
+},
+{
+"id": "s2-43",
+"a": "m1a3",
+"t": "O número de horas de treinamento por operador é um indicador de tendência (leading) porque:",
+"o": [
+"antecipa resultados futuros, como a redução de defeitos.",
+"mede o resultado final da empresa.",
+"só é medido uma vez por ano.",
+"não pode ter meta.",
+"mede o lucro."
+],
+"c": 0,
+"e": "Leading = causa (o exercício); lagging = resultado (a balança). O treinamento antecipa a melhoria.",
+"l": "Indicadores de resultado e de tendência"
+},
+{
+"id": "s2-44",
+"a": "m1a4",
+"t": "O Plano Mais Produção, que financia a Nova Indústria Brasil, tem recursos previstos de cerca de:",
+"o": [
+"R$ 300 bilhões.",
+"R$ 30 bilhões.",
+"R$ 2 bilhões.",
+"R$ 3 trilhões.",
+"R$ 300 milhões."
+],
+"c": 0,
+"e": "Plano Mais Produção: R$ 300 bilhões, via BNDES, Finep e Embrapii. O novo Brasil Mais Produtivo tem cerca de R$ 2 bilhões.",
+"l": "Plano Mais Produção: de onde vem o dinheiro da NIB"
+},
+{
+"id": "s2-45",
+"a": "m1a6",
+"t": "No marco lógico, a coluna que registra as condições externas, fora do controle do programa, que precisam ocorrer para o sucesso é a dos:",
+"o": [
+"indicadores.",
+"meios de verificação.",
+"pressupostos.",
+"insumos.",
+"impactos."
+],
+"c": 2,
+"e": "Quatro colunas: resumo narrativo, indicadores, meios de verificação e pressupostos (riscos externos).",
+"l": "Marco lógico"
+},
+{
+"id": "s2-46",
+"a": "m1a7",
+"t": "No modelo Acatech de maturidade da Indústria 4.0, o estágio em que a empresa passa a responder \"o que vai acontecer?\" é o da:",
+"o": [
+"capacidade preditiva.",
+"visibilidade.",
+"informatização.",
+"transparência.",
+"adaptabilidade."
+],
+"c": 0,
+"e": "Visibilidade = o que está acontecendo; transparência = por quê; preditiva = o que vai acontecer; adaptabilidade = reagir sozinha.",
+"l": "Modelo 1: Acatech (Alemanha), o mais citado em Indústria 4.0"
+},
+{
+"id": "s2-47",
+"a": "m2a1",
+"t": "O plano mestre pede 60 bancos. Há 10 bancos prontos em estoque. Cada banco usa 3 pernas, e há 30 pernas em estoque, sem recebimentos programados. A necessidade líquida de pernas é:",
+"o": [
+"180.",
+"150.",
+"120.",
+"90.",
+"60."
+],
+"c": 2,
+"e": "Bancos líquidos: 60 − 10 = 50. Pernas brutas: 50 × 3 = 150. Líquida: 150 − 30 = 120.",
+"l": "MRP: calculando os materiais",
+"calc": true
+},
+{
+"id": "s2-48",
+"a": "m5a8",
+"t": "\"Entregar bens e serviços com preço competitivo, que atendam às necessidades das pessoas, reduzindo progressivamente o impacto ambiental e o consumo de recursos ao longo do ciclo de vida.\" Essa é a definição de:",
+"o": [
+"Produção Mais Limpa.",
+"ecoeficiência.",
+"fim de tubo.",
+"logística reversa.",
+"economia linear."
+],
+"c": 1,
+"e": "Ecoeficiência (WBCSD, 1992): produzir mais com menos. P+L é o como; ecoeficiência é o resultado medido.",
+"l": "Ecoeficiência"
+},
+{
+"id": "s2-49",
+"a": "m1a5",
+"t": "Na primeira edição do Brasil Mais Produtivo (2016), a consultoria Lean do SENAI em pequenas indústrias elevou a produtividade, em média, em:",
+"o": [
+"10%.",
+"20%.",
+"80%.",
+"35%.",
+"52%."
+],
+"c": 4,
+"e": "52% de aumento médio, contra meta de 20%, quase sem investimento.",
+"l": "A primeira fase (2016)"
+},
+{
+"id": "s2-50",
+"a": "m2a3",
+"t": "A soma dos tempos de ciclo de uma linha é de 330 segundos e o takt time é de 60 segundos. O número mínimo de operadores é de:",
+"o": [
+"5.",
+"5,5.",
+"6.",
+"7.",
+"330."
+],
+"c": 2,
+"e": "330 ÷ 60 = 5,5 → arredonda para cima: 6.",
+"l": "Pilar 1: Just in Time (JIT)",
+"calc": true
+},
+{
+"id": "s2-51",
+"a": "m2a4",
+"t": "Demanda anual de 8.000 unidades, custo por pedido de R$ 25 e custo de manter de R$ 10 por unidade ao ano. O lote econômico é de:",
+"o": [
+"100.",
+"200.",
+"316.",
+"400.",
+"1.000."
+],
+"c": 1,
+"e": "LEC = raiz de (2 × 8.000 × 25 ÷ 10) = raiz de (400.000 ÷ 10) = raiz de 40.000 = 200.",
+"l": "Lote econômico de compra (LEC)",
+"calc": true
+},
+{
+"id": "s2-52",
+"a": "m5a5",
+"t": "O MRP, que calcula quanto material comprar e quando, costuma ser:",
+"o": [
+"um módulo do ERP.",
+"um tipo de sensor inteligente.",
+"um módulo do MES.",
+"parte do SCADA.",
+"um tipo de CLP."
+],
+"c": 0,
+"e": "O MRP costuma ser módulo do ERP, que planeja a empresa toda. O MES cuida da execução no chão de fábrica.",
+"l": "ERP e MES"
+},
+{
+"id": "s2-53",
+"a": "m5a8",
+"t": "No Sistema Brasileiro de Comércio de Emissões (SBCE), o ativo que representa 1 tCO2e reduzida ou removida é a:",
+"o": [
+"ISO 14064.",
+"CBE (Cota Brasileira de Emissões).",
+"NDC.",
+"GRI.",
+"CRVE (Certificado de Redução ou Remoção Verificada de Emissões)."
+],
+"c": 4,
+"e": "CBE = direito de emitir 1 tCO2e. CRVE = 1 tCO2e reduzida ou removida.",
+"l": "Descarbonização"
+},
+{
+"id": "s2-54",
+"a": "m5a1",
+"t": "Para a ISO 9001, a ação que elimina a causa de uma não conformidade para evitar que ela se repita é a:",
+"o": [
+"correção.",
+"análise crítica.",
+"auditoria externa.",
+"ação corretiva.",
+"informação documentada."
+],
+"c": 3,
+"e": "Correção trata o efeito; ação corretiva trata a causa.",
+"l": "Correção, ação corretiva e mentalidade de risco"
+},
+{
+"id": "s2-55",
+"a": "m5a2",
+"t": "Uma fábrica quer acompanhar a proporção de peças reprovadas em lotes de tamanhos diferentes. A carta de controle adequada é a:",
+"o": [
+"np.",
+"X̄ e R.",
+"c.",
+"p.",
+"u."
+],
+"c": 3,
+"e": "Proporção de defeituosos com lote variável = carta p. A np exige lotes de mesmo tamanho.",
+"l": "CEP: causas comuns e causas especiais"
+},
+{
+"id": "s2-56",
+"a": "m5a3",
+"t": "Em 600 horas, uma máquina teve 4 falhas, que somaram 24 horas de reparo. O MTTR é de:",
+"o": [
+"24 horas.",
+"4 horas.",
+"6 horas.",
+"144 horas.",
+"150 horas."
+],
+"c": 2,
+"e": "MTTR = tempo total de reparo ÷ número de reparos = 24 ÷ 4 = 6 h. Quanto menor, melhor.",
+"l": "Indicadores de manutenção: MTBF, MTTR e disponibilidade",
+"calc": true
+},
+{
+"id": "s2-57",
+"a": "m5a4",
+"t": "Sobre a Indústria 4.0, é correto afirmar que:",
+"o": [
+"a manufatura aditiva retira material, como a usinagem.",
+"a cibersegurança perde importância numa fábrica conectada.",
+"a automação com CLP é a marca da 4ª revolução.",
+"a integração horizontal liga a empresa a fornecedores, clientes e parceiros ao longo da cadeia.",
+"o gêmeo digital é atualizado apenas uma vez por ano."
+],
+"c": 3,
+"e": "Manufatura aditiva adiciona camadas; cibersegurança ganha importância; CLP é da 3ª revolução; o gêmeo digital é atualizado o tempo todo.",
+"l": "As 9 tecnologias habilitadoras"
+},
+{
+"id": "s2-58",
+"a": "m5a6",
+"t": "A estratégia em que a empresa usa ideias de universidades, startups e fornecedores e também licencia para fora patentes que não usa é chamada de:",
+"o": [
+"inovação incremental.",
+"stage-gate.",
+"retrofit.",
+"difusão de Rogers.",
+"inovação aberta."
+],
+"c": 4,
+"e": "Inovação aberta (Chesbrough, 2003).",
+"l": "Graus de inovação"
+},
+{
+"id": "s2-59",
+"a": "m5a7",
+"t": "Calculado na TMA de 12% ao ano, o VPL de um projeto é negativo. Conclui-se que:",
+"o": [
+"a TIR é maior que 12% e o projeto deve ser aceito.",
+"o payback é menor que 1 ano.",
+"o índice de lucratividade é maior que 1.",
+"o projeto é indiferente.",
+"a TIR é menor que 12% e o projeto deve ser rejeitado."
+],
+"c": 4,
+"e": "VPL negativo na TMA ⇔ TIR menor que a TMA ⇒ rejeitar. O IL seria menor que 1.",
+"l": "TIR: a taxa que o projeto rende"
+},
+{
+"id": "s2-60",
+"a": "m5a8",
+"t": "Pela Lei 12.305/2010, a obrigação de devolver pneus, pilhas e baterias ao fabricante após o uso é chamada de:",
+"o": [
+"disposição final.",
+"simbiose industrial.",
+"reciclagem interna.",
+"logística reversa.",
+"fim de tubo."
+],
+"c": 3,
+"e": "Logística reversa é obrigatória para itens como agrotóxicos e embalagens, pilhas e baterias, pneus, óleos lubrificantes, lâmpadas e eletroeletrônicos.",
+"l": "Economia circular e gestão de resíduos"
+}
+]
+}

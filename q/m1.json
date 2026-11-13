@@ -1,0 +1,657 @@
+{
+"m1a1": [
+{
+"id": "m1a1-1",
+"t": "Uma confecção cumpriu a meta de produzir 2.000 camisas no mês, mas consumiu 15% mais tecido que o padrão técnico e pagou horas extras para fechar o pedido. Em relação a esse resultado, a confecção foi:",
+"o": [
+"eficiente e eficaz.",
+"eficaz, mas não eficiente.",
+"eficiente, mas não eficaz.",
+"efetiva, porque cumpriu a meta.",
+"produtiva, porque superou o padrão técnico."
+],
+"c": 1,
+"e": "Atingir a meta é eficácia. Gastar mais recurso que o padrão (tecido e horas extras) é falta de eficiência. Cumprir a meta não prova impacto, então D está errada.",
+"l": "Exemplos para fixar"
+},
+{
+"id": "m1a1-2",
+"t": "Um programa estadual tinha a meta de capacitar 500 empresários e capacitou os 500. Um ano depois, a produtividade das empresas desses empresários continuava a mesma. Sobre esse programa, é correto afirmar que foi:",
+"o": [
+"eficiente, porque gastou pouco.",
+"efetivo, porque cumpriu a meta de capacitação.",
+"efetivo, mas não eficaz.",
+"ineficaz e inefetivo.",
+"eficaz, mas não efetivo."
+],
+"c": 4,
+"e": "Entregou o que prometeu (eficaz), mas não mudou a realidade das empresas (não efetivo). O enunciado não diz nada sobre custos, então não dá para falar em eficiência.",
+"l": "Exemplos para fixar"
+},
+{
+"id": "m1a1-3",
+"t": "A oficina A produz 600 peças por dia com 3 operadores. A oficina B produz 800 peças por dia com 5 operadores. Comparando a produtividade do trabalho por operador, é correto afirmar que:",
+"o": [
+"B é mais produtiva, porque produz mais peças.",
+"as duas têm a mesma produtividade.",
+"A é 25% mais produtiva que B.",
+"B é 25% mais produtiva que A.",
+"A é 50% mais produtiva que B."
+],
+"c": 2,
+"e": "A: 600 ÷ 3 = 200 peças por operador. B: 800 ÷ 5 = 160. Variação: 200 ÷ 160 = 1,25, ou seja, A é 25% mais produtiva. Produzir mais (letra A) não é ser mais produtivo.",
+"l": "O que é",
+"calc": true
+},
+{
+"id": "m1a1-4",
+"t": "O conceito de gestão que compara o consumo real de recursos com um padrão, verificando se a tarefa foi feita sem desperdício, é a:",
+"o": [
+"eficácia.",
+"efetividade.",
+"competitividade.",
+"eficiência.",
+"lucratividade."
+],
+"c": 3,
+"e": "Eficiência olha o meio: gastou o que deveria gastar? Eficácia olha a meta; efetividade, o impacto.",
+"l": "O que é"
+},
+{
+"id": "m1a1-5",
+"t": "Analise as afirmativas.\nI. Produtividade é uma razão entre o que sai de um processo e o que entra nele.\nII. Uma empresa com produtividade alta tem, necessariamente, lucro alto.\nIII. A competitividade envolve oferecer preço, qualidade e prazo melhores que os concorrentes e manter isso no tempo.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: o preço de venda pode cair ou o custo dos insumos pode subir, e o lucro cai mesmo com produtividade alta. I e III são as definições da aula.",
+"l": "Como a FGV cobra (pegadinhas)"
+},
+{
+"id": "m1a1-6",
+"t": "Entre os fatores que formam a competitividade de uma indústria, aquele que mais depende das decisões da própria empresa e que, por isso, é o foco das políticas industriais brasileiras é:",
+"o": [
+"a produtividade.",
+"a taxa de câmbio.",
+"a taxa básica de juros.",
+"a carga tributária.",
+"a demanda externa."
+],
+"c": 0,
+"e": "Câmbio, juros, tributos e demanda externa dependem do ambiente. A produtividade é o fator que a empresa mais controla, e programas como o Brasil Mais Produtivo atacam exatamente ele.",
+"l": "E a competitividade?"
+}
+],
+"m1a2": [
+{
+"id": "m1a2-1",
+"t": "Em março, uma fábrica produziu 10.000 peças com 5.000 horas trabalhadas. Em abril, produziu 11.000 peças com 5.500 horas. De março para abril, a produtividade do trabalho:",
+"o": [
+"subiu 10%.",
+"subiu 5%.",
+"ficou igual.",
+"caiu 10%.",
+"subiu 21%."
+],
+"c": 2,
+"e": "Março: 10.000 ÷ 5.000 = 2 peças/h. Abril: 11.000 ÷ 5.500 = 2 peças/h. A produção cresceu 10%, mas as horas também: a produtividade ficou igual. A letra A é a armadilha de olhar só a produção.",
+"l": "2.1 Produtividade do trabalho (parcial)",
+"calc": true
+},
+{
+"id": "m1a2-2",
+"t": "A produtividade de uma linha passou de 2,0 para 2,4 peças por hora. A variação foi de:",
+"o": [
+"+0,4%.",
+"+4%.",
+"+16,7%.",
+"+20%.",
+"+24%."
+],
+"c": 3,
+"e": "Novo ÷ antigo − 1 = 2,4 ÷ 2,0 − 1 = 1,2 − 1 = 0,2 = +20%. A letra C é o erro de dividir pelo valor novo (0,4 ÷ 2,4).",
+"l": "Antes das contas: como calcular uma variação percentual",
+"calc": true
+},
+{
+"id": "m1a2-3",
+"t": "Uma indústria produziu o equivalente a R$ 600 mil no mês. Gastou R$ 200 mil com salários, R$ 250 mil com materiais e R$ 50 mil com depreciação de máquinas. A produtividade multifatorial foi de:",
+"o": [
+"0,83",
+"1,2",
+"2,4",
+"3,0",
+"12"
+],
+"c": 1,
+"e": "Some todos os recursos: 200 + 250 + 50 = 500 mil. Divida: 600 ÷ 500 = 1,2. Para cada R$ 1 gasto, saiu R$ 1,20. A letra A é a conta invertida; a D usa só os salários.",
+"l": "2.2 Produtividade multifatorial",
+"calc": true
+},
+{
+"id": "m1a2-4",
+"t": "Em um ano, a produção de um setor cresceu 5%, o capital cresceu 6% e o trabalho cresceu 2%. A participação do capital na renda (α) é 0,5. O crescimento da produtividade total dos fatores (PTF) foi de:",
+"o": [
+"−3%",
+"0%",
+"1%",
+"2%",
+"3%"
+],
+"c": 2,
+"e": "Capital: 0,5 × 6 = 3. Trabalho: (1 − 0,5) × 2 = 1. PTF = 5 − 3 − 1 = 1%. Quem desconta só o capital chega a 2% (letra D).",
+"l": "2.3 Produtividade total dos fatores (PTF)",
+"calc": true
+},
+{
+"id": "m1a2-5",
+"t": "A produtividade total dos fatores (PTF), também chamada de resíduo de Solow, representa:",
+"o": [
+"a produtividade medida apenas pelas horas trabalhadas.",
+"a soma das produtividades parciais de todos os recursos.",
+"o aumento da produção causado pela compra de máquinas.",
+"o crescimento do número de empregados.",
+"a parte do crescimento da produção que não é explicada pelo aumento do capital e do trabalho."
+],
+"c": 4,
+"e": "A PTF é o que sobra do crescimento depois de descontar o que veio de mais máquinas e de mais gente. Ela mede o \"crescer fazendo melhor\".",
+"l": "2.3 Produtividade total dos fatores (PTF)"
+},
+{
+"id": "m1a2-6",
+"t": "Uma empresa atendida pelo ALI teve faturamento bruto de R$ 150 mil no mês, custos variáveis de R$ 90 mil e 4 pessoas ocupadas. O indicador de produtividade usado na jornada ALI vale:",
+"o": [
+"R$ 15 mil por pessoa ocupada.",
+"R$ 22,5 mil por pessoa ocupada.",
+"R$ 37,5 mil por pessoa ocupada.",
+"R$ 60 mil por pessoa ocupada.",
+"R$ 240 mil por pessoa ocupada."
+],
+"c": 0,
+"e": "(Faturamento − custos variáveis) ÷ pessoas = (150 − 90) ÷ 4 = 60 ÷ 4 = R$ 15 mil. A letra C divide o faturamento inteiro, sem tirar os custos.",
+"l": "2.4 A produtividade no seu trabalho como ALI",
+"calc": true
+}
+],
+"m1a3": [
+{
+"id": "m1a3-1",
+"t": "Assinale a meta que atende a todos os critérios SMART.",
+"o": [
+"Melhorar a qualidade da produção.",
+"Reduzir o refugo o máximo possível.",
+"Reduzir o refugo da linha 2 de 5% para 3% até 30 de junho.",
+"Reduzir o refugo da fábrica em breve.",
+"Zerar todos os defeitos de todas as linhas a partir de amanhã."
+],
+"c": 2,
+"e": "A letra C é específica (linha 2), mensurável (de 5% para 3%), atingível, relevante e tem prazo. A letra E tem prazo, mas não é atingível.",
+"l": "Metas SMART"
+},
+{
+"id": "m1a3-2",
+"t": "Entre os indicadores abaixo, o único de tendência (leading), que mede uma causa e permite agir antes do resultado, é:",
+"o": [
+"percentual de manutenções preventivas em dia.",
+"faturamento do trimestre.",
+"número de reclamações recebidas.",
+"refugo do mês anterior.",
+"OEE do mês passado."
+],
+"c": 0,
+"e": "Manutenção preventiva em dia é causa: antecipa menos quebra. As outras opções mostram o que já aconteceu (lagging).",
+"l": "Indicadores de resultado e de tendência"
+},
+{
+"id": "m1a3-3",
+"t": "Um setor trabalha 480 minutos por dia e a demanda diária é de 960 unidades. O takt time é de:",
+"o": [
+"30 segundos.",
+"15 segundos.",
+"2 segundos.",
+"2 minutos.",
+"480 minutos."
+],
+"c": 0,
+"e": "Takt = tempo disponível ÷ demanda = 480 ÷ 960 = 0,5 minuto = 30 segundos por unidade.",
+"l": "Os indicadores industriais mais cobrados, com conta",
+"calc": true
+},
+{
+"id": "m1a3-4",
+"t": "De 250 pedidos do mês, 200 chegaram no prazo; destes, 20 chegaram com itens faltando. O OTIF do mês foi de:",
+"o": [
+"72%",
+"80%",
+"88%",
+"90%",
+"92%"
+],
+"c": 0,
+"e": "OTIF exige no prazo E completo: 200 − 20 = 180. 180 ÷ 250 = 0,72 = 72%. A letra B conta só o prazo.",
+"l": "Os indicadores industriais mais cobrados, com conta",
+"calc": true
+},
+{
+"id": "m1a3-5",
+"t": "Uma linha tem três etapas em sequência: corte (150 peças/h), solda (90 peças/h) e pintura (120 peças/h). O gerente investiu para o corte chegar a 200 peças/h. Depois disso, a produção da linha passou a ser de:",
+"o": [
+"460 peças/h.",
+"120 peças/h.",
+"150 peças/h.",
+"90 peças/h.",
+"200 peças/h."
+],
+"c": 3,
+"e": "A linha anda na velocidade do gargalo, a solda, com 90 peças/h. Melhorar o corte só acumula peça parada antes da solda.",
+"l": "O gargalo, explicado de vez",
+"calc": true
+},
+{
+"id": "m1a3-6",
+"t": "Uma empresa consumiu R$ 1.200.000 em materiais no ano e manteve estoque médio de R$ 100.000. Considerando o ano com 360 dias, o giro e a cobertura do estoque são, respectivamente:",
+"o": [
+"6 vezes e 60 dias.",
+"12 vezes e 12 dias.",
+"30 vezes e 12 dias.",
+"0,08 vez e 30 dias.",
+"12 vezes e 30 dias."
+],
+"c": 4,
+"e": "Giro = consumo ÷ estoque médio = 1.200 ÷ 100 = 12. Cobertura = 360 ÷ 12 = 30 dias.",
+"l": "Os indicadores industriais mais cobrados, com conta",
+"calc": true
+},
+{
+"id": "m1a3-7",
+"t": "Na etapa de priorização de um diagnóstico, a equipe quer saber quais poucas causas respondem pela maior parte dos defeitos. A ferramenta adequada é o:",
+"o": [
+"diagrama de Ishikawa.",
+"SIPOC.",
+"diagrama de Pareto.",
+"fluxograma.",
+"5W2H."
+],
+"c": 2,
+"e": "Pareto prioriza (regra 80/20). Ishikawa levanta causas possíveis, mas não diz quais pesam mais.",
+"l": "Pareto, explicado de vez"
+}
+],
+"m1a4": [
+{
+"id": "m1a4-1",
+"t": "Sobre a Nova Indústria Brasil (NIB), é correto afirmar que:",
+"o": [
+"foi lançada em 2016, com metas até 2030.",
+"é organizada em 4 missões setoriais.",
+"é executada exclusivamente pelo SENAI.",
+"foi lançada em 2024, tem 6 missões e metas até 2033, e foi aprovada no CNDI.",
+"substituiu o Brasil Mais Produtivo."
+],
+"c": 3,
+"e": "NIB: janeiro de 2024, 6 missões, horizonte 2033, aprovada no CNDI. O Brasil Mais Produtivo continua e ajuda a cumprir a NIB.",
+"l": "Nova Indústria Brasil (NIB)"
+},
+{
+"id": "m1a4-2",
+"t": "A missão da NIB mais ligada à atuação da ABDI, que trata da transformação digital da indústria, é a:",
+"o": [
+"Missão 4.",
+"Missão 2.",
+"Missão 1.",
+"Missão 3.",
+"Missão 6."
+],
+"c": 0,
+"e": "Ordem: Agro, Saúde, Infraestrutura, Digital, Bioeconomia, Defesa (\"A Senhora Ia Dormir Bem Depois\"). Digital é a 4.",
+"l": "Nova Indústria Brasil (NIB)"
+},
+{
+"id": "m1a4-3",
+"t": "Para a Missão 4 da NIB, uma empresa industrial é considerada transformada digitalmente quando:",
+"o": [
+"usa ao mesmo tempo pelo menos 3 tecnologias digitais, como nuvem, ERP, Big Data, robôs, IoT e IA.",
+"tem site na internet.",
+"comprou pelo menos um robô industrial.",
+"tem certificação ISO 9001.",
+"emite nota fiscal eletrônica."
+],
+"c": 0,
+"e": "O critério é o uso simultâneo de pelo menos três tecnologias digitais da lista.",
+"l": "A Missão 4 em detalhe (a mais ligada à ABDI)"
+},
+{
+"id": "m1a4-4",
+"t": "Segundo a meta revisada da Missão 4, o percentual de empresas industriais transformadas digitalmente que se pretende alcançar até 2033 é de:",
+"o": [
+"18,9%",
+"70%",
+"25%",
+"50%",
+"90%"
+],
+"c": 3,
+"e": "Linha de base 18,9% (2023), meta intermediária 25% (2026), meta final 50% (2033). Os 90% foram anunciados no lançamento e revistos.",
+"l": "A Missão 4 em detalhe (a mais ligada à ABDI)"
+},
+{
+"id": "m1a4-5",
+"t": "O Plano Mais Produção, braço de financiamento da NIB, foi anunciado com R$ 300 bilhões até 2026. As instituições que operam esses recursos são:",
+"o": [
+"Sebrae, SENAI e ABDI.",
+"MDIC, CNDI e ABDI.",
+"BNDES, Finep e Embrapii.",
+"CNI, IEL e SESI.",
+"Banco Central, Caixa e Banco do Brasil."
+],
+"c": 2,
+"e": "BNDES (crédito), Finep (inovação) e Embrapii (recursos não reembolsáveis com institutos de pesquisa).",
+"l": "Plano Mais Produção: de onde vem o dinheiro da NIB"
+},
+{
+"id": "m1a4-6",
+"t": "A política industrial lançada em 2004, cuja execução motivou a criação da ABDI e do CNDI pela Lei 11.080/2004, foi a:",
+"o": [
+"Política de Desenvolvimento Produtivo (PDP).",
+"Plano Brasil Maior.",
+"Política Industrial, Tecnológica e de Comércio Exterior (PITCE).",
+"Nova Indústria Brasil.",
+"Plano Real."
+],
+"c": 2,
+"e": "PITCE = 2004 = nasce a ABDI. A PDP é de 2008 e o Brasil Maior, de 2011–2014.",
+"l": "Linha do tempo das políticas"
+},
+{
+"id": "m1a4-7",
+"t": "A NIB é descrita como uma política orientada por missões porque:",
+"o": [
+"escolhe setores específicos e concentra nelas todo o crédito público.",
+"substitui o planejamento por metas anuais de exportação.",
+"é executada por missões diplomáticas no exterior.",
+"atende apenas empresas de grande porte.",
+"define grandes problemas do país e junta vários setores para resolver cada um."
+],
+"c": 4,
+"e": "Em vez de escolher setores, a NIB parte de problemas (saúde, digitalização, descarbonização...) e mobiliza vários setores para cada um.",
+"l": "Nova Indústria Brasil (NIB)"
+}
+],
+"m1a5": [
+{
+"id": "m1a5-1",
+"t": "Sobre a primeira fase do Brasil Mais Produtivo, iniciada em 2016, é correto afirmar que:",
+"o": [
+"atendeu grandes indústrias exportadoras.",
+"foi executada pelo Sebrae por meio dos ALI, com ganho médio de 20%.",
+"foi executada pelo SENAI com consultoria em Lean e teve aumento médio de 52% na produtividade, contra meta de 20%.",
+"teve como foco a compra de robôs industriais.",
+"foi coordenada pela ABDI e executada pelo BNDES."
+],
+"c": 2,
+"e": "2016: MDIC coordenou, SENAI executou com Lean em cerca de 3 mil empresas. Resultado 52%; os 20% eram a meta.",
+"l": "A primeira fase (2016)"
+},
+{
+"id": "m1a5-2",
+"t": "No novo Brasil Mais Produtivo (2023–2027), o papel da ABDI é o de:",
+"o": [
+"executar a consultoria em Lean nas fábricas.",
+"conceder crédito com juros baixos.",
+"aplicar o Radar da Inovação com os ALI.",
+"ser a porta de entrada das empresas, que se cadastram pelo site e são encaminhadas para a modalidade adequada.",
+"fiscalizar o cumprimento da NIB pelos estados."
+],
+"c": 3,
+"e": "Truque da aula: ABDI = porta; Sebrae = ALI (gestão); SENAI = Lean e energia; BNDES, Finep e Embrapii = dinheiro.",
+"l": "O novo Brasil Mais Produtivo (2023–2027)"
+},
+{
+"id": "m1a5-3",
+"t": "No novo Brasil Mais Produtivo, o diagnóstico e a melhoria de gestão das micro e pequenas empresas por meio dos Agentes Locais de Inovação ficam a cargo do:",
+"o": [
+"SENAI.",
+"Sebrae.",
+"BNDES.",
+"MDIC.",
+"Embrapii."
+],
+"c": 1,
+"e": "Sebrae executa a modalidade Gestão com os ALI. O SENAI cuida de Lean e eficiência energética.",
+"l": "O novo Brasil Mais Produtivo (2023–2027)"
+},
+{
+"id": "m1a5-4",
+"t": "Na Jornada para Inovação do ALI Produtividade (CONECTAR), a medição inicial do indicador de produtividade (T0), com mapeamento e priorização dos desafios, ocorre na etapa:",
+"o": [
+"Conhecer.",
+"Obter.",
+"Nomear.",
+"Elaborar.",
+"Transformar."
+],
+"c": 2,
+"e": "Conhecer = adesão; Obter = coleta e Radar; Nomear = T0 e priorização; Elaborar = solução; Transformar = implementação com T1 e T2.",
+"l": "A metodologia: como o atendimento acontece na prática"
+},
+{
+"id": "m1a5-5",
+"t": "Analise as afirmativas sobre o novo Brasil Mais Produtivo.\nI. Foi lançado pelo MDIC em novembro de 2023, com orçamento de cerca de R$ 2 bilhões até 2027.\nII. Seu público principal são as grandes indústrias.\nIII. A lógica comum das modalidades é diagnóstico, plano, implementação acompanhada e medição dos resultados.\nEstá correto o que se afirma em:",
+"o": [
+"I, apenas.",
+"II, apenas.",
+"I e III, apenas.",
+"II e III, apenas.",
+"I, II e III."
+],
+"c": 2,
+"e": "II é falsa: o foco são micro, pequenas e médias empresas. I e III são verdadeiras.",
+"l": "O novo Brasil Mais Produtivo (2023–2027)"
+},
+{
+"id": "m1a5-6",
+"t": "Entre as metas de 2026 do Contrato de Gestão da ABDI com o MDIC está o aumento médio da maturidade digital do setor produtivo atendido de:",
+"o": [
+"32%",
+"20%",
+"10%",
+"50%",
+"52%"
+],
+"c": 0,
+"e": "Metas 2026: maturidade digital +32%, produtividade +20%, maturidade ASG +10% e mínimo de 7.260 beneficiários.",
+"l": "A ABDI dentro desse cenário"
+},
+{
+"id": "m1a5-7",
+"t": "Desde a Lei 14.440/2022, a finalidade da ABDI é promover a execução de políticas de:",
+"o": [
+"comércio exterior e câmbio.",
+"desenvolvimento industrial, inovação, transformação digital e difusão de tecnologia.",
+"assistência social e saúde.",
+"regulação de telecomunicações.",
+"crédito rural e agricultura familiar."
+],
+"c": 1,
+"e": "É a finalidade atual da ABDI, que liga diretamente ao trabalho com maturidade digital e ao Brasil Mais Produtivo.",
+"l": "A ABDI dentro desse cenário"
+}
+],
+"m1a6": [
+{
+"id": "m1a6-1",
+"t": "Sobre monitoramento e avaliação de programas, é correto afirmar que:",
+"o": [
+"o monitoramento ocorre só no fim do programa.",
+"a avaliação acompanha diariamente se as atividades foram feitas.",
+"os dois termos são sinônimos.",
+"o monitoramento acompanha a execução o tempo todo; a avaliação, em momentos pontuais, verifica se o programa funcionou e por quê.",
+"a avaliação dispensa indicadores."
+],
+"c": 3,
+"e": "Monitorar = durante (o GPS da viagem). Avaliar = em momentos pontuais (valeu a pena?).",
+"l": "O que é"
+},
+{
+"id": "m1a6-2",
+"t": "Na cadeia de resultados de um programa de extensionismo, o indicador \"número de empresas atendidas\" corresponde a:",
+"o": [
+"insumo.",
+"atividade.",
+"impacto.",
+"produto.",
+"resultado."
+],
+"c": 3,
+"e": "É algo que o programa entrega: produto. A mudança na empresa (ficar mais produtiva) seria o resultado.",
+"l": "Cadeia de resultados"
+},
+{
+"id": "m1a6-3",
+"t": "No marco lógico, a coluna que registra as condições externas, fora do controle do programa, que precisam acontecer para ele dar certo é a de:",
+"o": [
+"resumo narrativo.",
+"pressupostos.",
+"meios de verificação.",
+"atividades.",
+"indicadores."
+],
+"c": 1,
+"e": "Pressupostos = fatores externos. Meios de verificação = de onde vêm os dados. Atividades é uma linha, não uma coluna.",
+"l": "Marco lógico"
+},
+{
+"id": "m1a6-4",
+"t": "As empresas atendidas por um programa tiveram aumento de produtividade de 15%. No mesmo período, um grupo de empresas parecidas, não atendidas, teve aumento de 5%. Pelo método de diferenças em diferenças, o impacto do programa foi de:",
+"o": [
+"5%",
+"10 pontos percentuais.",
+"15%",
+"20 pontos percentuais.",
+"3 vezes."
+],
+"c": 1,
+"e": "Impacto = 15 − 5 = 10 pontos percentuais. Os 5% teriam acontecido de qualquer jeito. A letra C ignora o grupo de controle.",
+"l": "Avaliação de impacto e o contrafactual",
+"calc": true
+},
+{
+"id": "m1a6-5",
+"t": "O método de avaliação de impacto em que um sorteio define quem entra no programa e quem fica como grupo de comparação, considerado padrão-ouro, é o:",
+"o": [
+"experimento aleatório.",
+"pareamento por escore de propensão.",
+"regressão descontínua.",
+"diferenças em diferenças.",
+"antes e depois sem grupo de controle."
+],
+"c": 0,
+"e": "O sorteio torna os grupos parecidos em tudo; a diferença final só pode vir do programa.",
+"l": "Os métodos de avaliação de impacto"
+},
+{
+"id": "m1a6-6",
+"t": "A avaliação feita antes de o programa começar, para decidir se vale a pena fazê-lo e qual desenho é melhor, é chamada de avaliação:",
+"o": [
+"ex ante.",
+"de impacto.",
+"ex post.",
+"de processo.",
+"somativa."
+],
+"c": 0,
+"e": "Ex ante = antes. Ex post = depois. De processo = como está sendo executado. De impacto = o que mudou por causa do programa.",
+"l": "Tipos de avaliação, pelo momento e pelo foco"
+}
+],
+"m1a7": [
+{
+"id": "m1a7-1",
+"t": "No Índice de Maturidade Indústria 4.0 da Acatech, a sequência correta dos estágios é:",
+"o": [
+"conectividade, informatização, visibilidade, transparência, adaptabilidade, capacidade preditiva.",
+"informatização, conectividade, visibilidade, transparência, capacidade preditiva, adaptabilidade.",
+"informatização, visibilidade, conectividade, capacidade preditiva, transparência, adaptabilidade.",
+"visibilidade, transparência, informatização, conectividade, adaptabilidade, capacidade preditiva.",
+"informatização, conectividade, transparência, visibilidade, adaptabilidade, capacidade preditiva."
+],
+"c": 1,
+"e": "\"Informação Conectada Vira Tudo Para Agir\": Informatização, Conectividade, Visibilidade, Transparência, Preditiva, Adaptabilidade.",
+"l": "Modelo 1: Acatech (Alemanha), o mais citado em Indústria 4.0"
+},
+{
+"id": "m1a7-2",
+"t": "Uma fábrica já vê em tempo real quais máquinas estão paradas. Agora, ao analisar os dados, descobriu que uma prensa para sempre que a temperatura passa de 60 °C. No modelo Acatech, essa nova capacidade corresponde ao estágio de:",
+"o": [
+"informatização.",
+"conectividade.",
+"transparência.",
+"adaptabilidade.",
+"visibilidade."
+],
+"c": 2,
+"e": "Visibilidade responde \"o quê\" (ver a máquina parada). Transparência responde \"por quê\" (entender a causa).",
+"l": "Modelo 1: Acatech (Alemanha), o mais citado em Indústria 4.0"
+},
+{
+"id": "m1a7-3",
+"t": "No estudo Indústria 2027 da CNI, a geração tecnológica caracterizada por tecnologias integradas e conectadas em todas as áreas da empresa é a:",
+"o": [
+"G1.",
+"G2.",
+"G5.",
+"G3.",
+"G4."
+],
+"c": 3,
+"e": "G1: uso isolado. G2: automação parcial. G3: integrado e conectado. G4: fábrica conectada e inteligente (Indústria 4.0).",
+"l": "Modelo 2: gerações tecnológicas da CNI (G1 a G4)"
+},
+{
+"id": "m1a7-4",
+"t": "O Radar da Inovação, usado na jornada ALI, avalia a maturidade das empresas em:",
+"o": [
+"3 dimensões, com notas de 0 a 10.",
+"6 estágios, do informatizado ao adaptável.",
+"8 etapas, uma por mês.",
+"4 gerações tecnológicas.",
+"6 dimensões, com níveis de 1 a 5."
+],
+"c": 4,
+"e": "6 dimensões (controles gerenciais, operações, marketing, práticas de inovação, transformação digital e ESG), níveis de 1 a 5.",
+"l": "Modelo 3: Radar da Inovação (Sebrae, Programa ALI)"
+},
+{
+"id": "m1a7-5",
+"t": "Sobre o diagnóstico de maturidade em programas de apoio às empresas, é correto afirmar que:",
+"o": [
+"deve ser aplicado apenas no fim, para medir o resultado.",
+"mede a quantidade de equipamentos comprados.",
+"dispensa a medição final se a empresa comprou novas tecnologias.",
+"serve apenas para fins de certificação.",
+"é aplicado no início, como linha de base, e repetido no fim para medir a evolução."
+],
+"c": 4,
+"e": "O diagnóstico inicial é a linha de base; repetido no fim, mostra a evolução. Maturidade é uso integrado, não quantidade de tecnologia comprada.",
+"l": "Como a FGV cobra (pegadinhas)"
+},
+{
+"id": "m1a7-6",
+"t": "Uma pequena indústria anota a produção em caderno e não tem sistemas conectados, mas quer implantar um sistema de inteligência artificial para prever falhas de máquinas. Segundo a lógica dos modelos de maturidade, o mais adequado é:",
+"o": [
+"implantar a IA imediatamente, pois ela substitui as etapas anteriores.",
+"pular direto para a adaptabilidade.",
+"começar pela informatização e conectividade, porque não se pula degraus de maturidade.",
+"comprar sensores e dispensar o registro dos dados.",
+"desistir da transformação digital."
+],
+"c": 2,
+"e": "Capacidade preditiva exige dados conectados e visíveis antes. Cada nível prepara o seguinte.",
+"l": "O que é maturidade"
+}
+]
+}
